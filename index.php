@@ -7,8 +7,8 @@
 <meta name="keywords" content="chatango,chatangu,shop,buy,purchase,usernames">
 <meta name="author" content="Kei, Aeri">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" href="assets/favicon.ico" type="image/x-icon">
-<link rel="icon" href="assets/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+<link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon">
 <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
