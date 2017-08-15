@@ -14,7 +14,7 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-<audio id='navsound' preload="auto">
+<audio id='beep' preload="auto">
 	<source src="audio/funny.mp3"></source>
 	
 	Your browser isn't invited for super fun audio time.
@@ -213,19 +213,19 @@
 			<script src="assets/js/main.js"></script>
 
 <?php echo "<script type=\"text/javascript\">
-$(\"#nav a\") // loop each menu item
+$(\"nav a\") // loop each menu item
   .each(function(i) {
     if (i != 0) { // only clone if more than one needed
-      $(\"navsound\")
+      $(\"#beep\")
         .clone()
-        .attr(\"id\", \"navsound-\" + i)
+        .attr(\"id\", \"beep-\" + i)
         .appendTo($(this).parent()); 
     }
     $(this).data(\"beeper\", i); // save reference 
   })
   .mouseenter(function() {
-    $(\"navsound-\" + $(this).data(\"beeper\"))[0].play();
+    $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
   });
-$(\"navsound\").attr(\"id\", \"navsound-0\"); // get first one into naming convention</script> "; ?>
+$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention</script> "; ?>
 	</body>
 </html>
