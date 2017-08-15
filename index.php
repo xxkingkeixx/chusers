@@ -212,7 +212,7 @@
 			<script type="text/javascript>
 				var audio = document.getElementsByTagName("audio")[0];
 audio.play();
-var audio = $("#audio")[0];
+var audio = $("funny.mp3")[0];
 $("nav a").mouseenter(function() {
   audio.play();
 });
