@@ -49,7 +49,7 @@
 						<header>
 							<h2>The Chatango Warehouse</h2>
 							<p>Buy original usernames, or read full profile tutorials.<br />
-							earn about current projects coming soon</p>
+							Learn about current projects coming soon</p>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
@@ -212,6 +212,10 @@
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 
-<?php echo "<script type=\"text/javascript\"> $(\"#nav\") .each(function(i) {if (i != 0) { $(\"#navsound\") .clone() .attr(\"id\", \"navsound\" + i) .appendTo($(this).parent()); } $(this).data(\"beeper\", i); }) .mouseenter(function() { $(\"#navsound\" + $(this).data(\"beeper\")) .play(); }); $(\"#navsound\").attr(\"id\", \"nav0\"); </script> "; ?>
+<?php echo "<script type=\"text/javascript\"> var beepOne = $(\"#navsound\")[0];
+$(\"#nav a\")
+	.mouseenter(function() {
+		beepOne.play();
+	}); </script> "; ?>
 	</body>
 </html>
