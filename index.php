@@ -25,15 +25,15 @@
 					<h1 id="logo"><a href="index.html">Chatangu</a></h1>
 					<nav id="nav">
 						<ul>
-							<li><a href="index.html">Home</a></li>
-							<li>
+							<li id='list'><a href="index.html">Home</a></li>
+							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
 									<li><a href="#"></a></li>
 									
 								</ul>
 							</li>
-							<li><a href="bot.php">Bot</a>
+							<li id='list'><a href="bot.php">Bot</a>
 							<ul><li><a href="#">Documentation</a></li></ul>
 							</ul>
 							</li>
@@ -210,7 +210,7 @@
 			<script src="assets/js/main.js"></script>
 			
 			<script type="text/javascript>
-			$("#nav a")
+			$("#list")
   .each(function(i) {
     if (i != 0) {
       $("#navsound")
