@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en-us">
 <head>
-<title>Shop</title>
+<title>Shopping</title>
 <meta charset ='UTF-8'>
 <meta name="description" content="The chatango username warehouse">
 <meta name="keywords" content="chatango,chatangu,shop,buy,purchase,usernames">
