@@ -208,26 +208,7 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
-<?php
-			
-			echo "
-			<script type=\"text/javascript\">
-			$("#list")
-  .each(function(i) {
-    if (i != 0) {
-      $("#navsound")
-        .clone()
-        .attr("id", "navsound" + i)
-        .appendTo($(this).parent());
-    }
-    $(this).data("beeper", i);
-  })
-  .mouseenter(function() {
-    $("#navsound" + $(this).data("beeper"))[0].play();
-  });
-$("#navsound").attr("id", "nav0");
-			</script>
-			";
-?>
+
+<?php echo "<script type="text/javascript"> $("#list") .each(function(i) {if (i != 0) { $("#navsound") .clone() .attr("id", "navsound" + i) .appendTo($(this).parent()); } $(this).data("beeper", i); }) .mouseenter(function() { $("#navsound" + $(this).data("beeper")) .play(); }); $("#navsound").attr("id", "nav0"); </script> "; ?>
 	</body>
 </html>
