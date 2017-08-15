@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-<audio id='navsound' controls preload="auto">
+<audio id='navsound' preload="auto">
 	<source src="audio/funny.mp3"></source>
 	
 	Your browser isn't invited for super fun audio time.
@@ -218,9 +218,12 @@
         .attr("id", "navsound" + i)
         .appendTo($(this).parent());
     }
-   
+    $(this).data("beeper", i);
+  })
+  .mouseenter(function() {
+    $("#navsound" + $(this).data("beeper"))[0].play();
   });
-
+$("#navsound").attr("id", "nav0");
 			</script>
 
 	</body>
