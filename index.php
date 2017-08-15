@@ -28,9 +28,10 @@
 									
 								</ul>
 							</li>
-							<li><a href="bot.php">Bot</a></li>
+							<li><a href="bot.php">Bot</a>
 							<ul><li><a href="#">Documentation</a></li></ul>
 							</ul>
+							</li>
 					</nav>
 				</header>
 
@@ -40,7 +41,7 @@
 						<header>
 							<h2>The Chatango Warehouse</h2>
 							<p>Buy original usernames, or read full profile tutorials.<br />
-							Learn about current projects coming soon</p>
+							earn about current projects coming soon</p>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
