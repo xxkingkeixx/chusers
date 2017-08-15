@@ -11,6 +11,11 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<audio>
+	<source src="audio/funny.mp3"></source>
+	
+	Your browser isn't invited for super fun audio time.
+</audio>		
 	</head>
 	<body class="landing">
 		<div id="page-wrapper">
@@ -203,6 +208,16 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+			
+			<script type="text/javascript>
+				var audio = document.getElementsByTagName("audio")[0];
+audio.play();
+var audio = $("#audio")[0];
+$("nav a").mouseenter(function() {
+  audio.play();
+});
+
+			</script>
 
 	</body>
 </html>
