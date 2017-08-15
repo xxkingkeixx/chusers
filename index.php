@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang = "en-us">
 <head>
-<title>Shopping</title>
+<title>Shop</title>
 <meta charset ='UTF-8'>
 <meta name="description" content="The chatango username warehouse">
 <meta name="keywords" content="chatango,chatangu,shop,buy,purchase,usernames">
@@ -22,25 +22,15 @@
 						<ul>
 							<li><a href="index.html">Home</a></li>
 							<li>
-								<a href="#">Test</a>
+								<a href="#">Tutorials</a>
 								<ul>
-									<li><a href="left-sidebar.html">Left Sidebar</a></li>
-									<li><a href="right-sidebar.html">Right Sidebar</a></li>
-									<li><a href="no-sidebar.html">No Sidebar</a></li>
-									<li>
-										<a href="#">Submenu</a>
-										<ul>
-											<li><a href="#">Option 1</a></li>
-											<li><a href="#">Option 2</a></li>
-											<li><a href="#">Option 3</a></li>
-											<li><a href="#">Option 4</a></li>
-										</ul>
-									</li>
+									<li><a href="#"></a></li>
+									
 								</ul>
 							</li>
-							<li><a href="elements.html">Elements</a></li>
-							<li><a href="#" class="button special">Sign Up</a></li>
-						</ul>
+							<li><a href="bot.php">Bot</a></li>
+							<ul><li><a href="#">Documentation</a></li></ul>
+							</ul>
 					</nav>
 				</header>
 
@@ -48,9 +38,9 @@
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>The future has landed</h2>
-							<p>And there are no hoverboards or flying cars.<br />
-							Just apps. Lots of mother flipping apps.</p>
+							<h2>The Chatango Warehouse</h2>
+							<p>Buy original usernames, or read full profile tutorials.<br />
+							Learn about current projects coming soon</p>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
