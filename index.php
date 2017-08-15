@@ -218,10 +218,7 @@
         .attr("id", "navsound" + i)
         .appendTo($(this).parent());
     }
-    $(this).data("beeper", i);
-  })
-  .mouseenter(function() {
-    $("#navsound" + $(this).data("beeper"))[0].play();
+   
   });
 
 			</script>
