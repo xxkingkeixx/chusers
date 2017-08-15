@@ -11,7 +11,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-<audio>
+<audio id='navsound' controls preload="auto">
 	<source src="audio/funny.mp3"></source>
 	
 	Your browser isn't invited for super fun audio time.
@@ -210,13 +210,20 @@
 			<script src="assets/js/main.js"></script>
 			
 			<script type="text/javascript>
-				var audio = document.getElementsByTagName("audio")[0];
-audio.play();
-var audio = $("audio/funny.mp3")[0];
-$("nav li").mouseenter(function() {
-  audio.play();
-});
-
+			$("#nav a")
+  .each(function(i) {
+    if (i != 0) {
+      $("#navsound")
+        .clone()
+        .attr("id", "navsound" + i)
+        .appendTo($(this).parent());
+    }
+    $(this).data("beeper", i);
+  })
+  .mouseenter(function() {
+    $("#navsound" + $(this).data("beeper"))[0].play();
+  });
+$("#navsound").attr("id", "nav0");
 			</script>
 
 	</body>
