@@ -212,6 +212,20 @@
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 
-<?php echo "<script type=\"text/javascript\"> $(\"#nav a\") .each(function(i) {if (i != 0) { $(\"#navsound\") .clone() .attr(\"id\", \"navsound\" + i) .appendTo($(this).parent()); } $(this).data(\"beeper\", i); }) .mouseenter(function() { $(\"#navsound\" + $(this).data(\"beeper\")) .play(); }); $(\"#navsound\").attr(\"id\", \"navsound0\"); </script> "; ?>
+<?php echo "<script type=\"text/javascript\">
+$(\"nav a\") // loop each menu item
+  .each(function(i) {
+    if (i != 0) { // only clone if more than one needed
+      $(\"navsound\")
+        .clone()
+        .attr(\"id\", \"beep-\" + i)
+        .appendTo($(this).parent()); 
+    }
+    $(this).data(\"beeper\", i); // save reference 
+  })
+  .mouseenter(function() {
+    $(\"navsound-\" + $(this).data(\"beeper\"))[0].play();
+  });
+$(\"navsound\").attr(\"id\", \"beep-0\"); // get first one into naming convention</script> "; ?>
 	</body>
 </html>
