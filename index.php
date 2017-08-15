@@ -223,7 +223,7 @@
   .mouseenter(function() {
     $("#navsound" + $(this).data("beeper"))[0].play();
   });
-$("#navsound").attr("id", "nav0");
+
 			</script>
 
 	</body>
