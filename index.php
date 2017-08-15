@@ -208,8 +208,10 @@
 			<script src="assets/js/util.js"></script>
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
+<?php
 			
-			<script>
+			echo "
+			<script type=\"text/javascript\">
 			$("#list")
   .each(function(i) {
     if (i != 0) {
@@ -225,6 +227,7 @@
   });
 $("#navsound").attr("id", "nav0");
 			</script>
-
+			";
+?>
 	</body>
 </html>
