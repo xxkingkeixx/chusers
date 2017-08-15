@@ -218,7 +218,7 @@ $(\"nav a\") // loop each menu item
     if (i != 0) { // only clone if more than one needed
       $(\"navsound\")
         .clone()
-        .attr(\"id\", \"beep-\" + i)
+        .attr(\"id\", \"navsound-\" + i)
         .appendTo($(this).parent()); 
     }
     $(this).data(\"beeper\", i); // save reference 
@@ -226,6 +226,6 @@ $(\"nav a\") // loop each menu item
   .mouseenter(function() {
     $(\"navsound-\" + $(this).data(\"beeper\"))[0].play();
   });
-$(\"navsound\").attr(\"id\", \"beep-0\"); // get first one into naming convention</script> "; ?>
+$(\"navsound\").attr(\"id\", \"navsound-0\"); // get first one into naming convention</script> "; ?>
 	</body>
 </html>
