@@ -38,7 +38,9 @@ Your browser isn't invited for super fun audio time.
 								</ul>
 							</li>
 							<li id='list'><a href="bot.php">Bot</a>
-							<ul><li><a href="#">Documentation</a></li></ul>
+							<ul><li>Info
+							<ul><li> Developer</li><li>Documentation</li><li>Progress</li><li>Suggestions</li></ul></li>
+							<li><a href="#">Report Bugs</a></li></ul>
 							</ul>
 							</li>
 					</nav>
