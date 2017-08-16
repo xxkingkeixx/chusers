@@ -33,21 +33,17 @@ Your browser isn't invited for super fun audio time.
 							<li id='list'><a href="index.html" class="fa fa-home fa-fw"></a></li>
 							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:25px;' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
-								<a href="#">Tutorials</a>
-								<ul>
-									<li><a href="http://chatango-themes.tumblr.com/">Redirect</a></li>
-									
-								</ul>
+								<a href="http://chatango-themes.tumblr.com/">Tutorials</a>
 							</li>
 							<li id='list'>
 								<a href="bot.php">Bot</a>
 							<ul>
 								<li><a href="#">Info</a>
 								<ul>
-							<li> Developer</li>
-							<li>Documentation</li>
-							<li>Progress</li>
-							<li>Suggestions</li>
+							<li><a href="#"> Developer</a></li>
+							<li><a href="#">Documentation</a></li>
+							<li><a href="#">Progress</a></li>
+							<li><a href="#">Suggestions</a></li>
 							</ul>
 							</li>
 							<li><a href="#">Report Bugs</a></li></ul>
