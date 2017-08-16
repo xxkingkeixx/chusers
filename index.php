@@ -65,23 +65,15 @@
 							<div class="row">
 								<div class="4u 12u$(medium)">
 									<header>
-										<h2>Odio faucibus ipsum integer consequat</h2>
-										<p>Nascetur eu nibh vestibulum amet gravida nascetur praesent</p>
+										<h2>Over 500 Original Usernames Available</h2>
+										<p>The biggest repository of original usernames you'll ever find.</p>
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>Feugiat accumsan lorem eu ac lorem amet sed accumsan donec.
-									Blandit orci porttitor semper. Arcu phasellus tortor enim mi
-									nisi praesent dolor adipiscing. Integer mi sed nascetur cep aliquet
-									augue varius tempus lobortis porttitor accumsan consequat
-									adipiscing lorem dolor.</p>
+									<p>Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available , the prices of these usernames will be vastly lower than original market prices. This will put an end to the wannabe elitists selling accounts for $500+</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>Morbi enim nascetur et placerat lorem sed iaculis neque ante
-									adipiscing adipiscing metus massa. Blandit orci porttitor semper.
-									Arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer
-									mi sed nascetur cep aliquet augue varius tempus. Feugiat lorem
-									ipsum dolor nullam.</p>
+									<p>All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Because of the high volume of requests for usernames you should expect a wait-time of at least 5 minutes. All transactions are safely secured with paypal and once you pay for a username , you will be told when the username is free to register. </p>
 								</div>
 							</div>
 						</div>
