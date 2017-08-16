@@ -27,10 +27,10 @@
 			<!-- Header -->
 				<header id="header">
 					<h1 id="logo"><a href="index.html">Chatangu</a></h1>
-					<nav id="nav" style='margin-right:40px; height:10px'>
+					<nav id="nav" style='margin-right:40px;'>
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
-							<li id='list'> <input type="text" style ='border-radius:33px' class="form-control" placeholder="Search for Usernames" /></li>
+							<li id='list'> <input type="text" style ='border-radius:33px;height:10px;' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
