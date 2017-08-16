@@ -30,7 +30,7 @@
 					<nav id="nav" style='margin-right:40px'>
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
-							<li id='list'> <input type="text" class="form-control" placeholder="Search for Usernames" /></li>
+							<li id='list'> <input type="text" style ='border-radius:33px' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
