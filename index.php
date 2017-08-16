@@ -16,7 +16,7 @@
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 <audio id='beep' preload="auto">
 
-	<source src="audio/scream.ogg"></source>
+	<source src="audio/click.wav"></source>
 	
 	Your browser isn't invited for super fun audio time.
 </audio>		
