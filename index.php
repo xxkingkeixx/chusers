@@ -18,7 +18,7 @@
 <audio id='beep' preload="auto">
 	
 <!--     Change Audio Here  -->   	
-<source src="audio/click.ogg"></source>
+<source src="audio/ding.mp3"></source>
 Your browser isn't invited for super fun audio time.
 </audio>		
 </head>
@@ -39,9 +39,17 @@ Your browser isn't invited for super fun audio time.
 									
 								</ul>
 							</li>
-							<li id='list'><a href="bot.php">Bot</a>
-							<ul><li><a href="#">Info</a>
-							<li> Developer</li><li>Documentation</li><li>Progress</li><li>Suggestions</li></ul></li>
+							<li id='list'>
+								<a href="bot.php">Bot</a>
+							<ul>
+								<li><a href="#">Info</a>
+								<ul>
+							<li> Developer</li>
+							<li>Documentation</li>
+							<li>Progress</li>
+							<li>Suggestions</li>
+							</ul>
+							</li>
 							<li><a href="#">Report Bugs</a></li></ul>
 							</ul>
 							</li>
