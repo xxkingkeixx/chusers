@@ -234,21 +234,12 @@ $(\"nav a\") // loop each menu item
   });
 $(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
 
-$(\"#search\") // loop each menu item
-  .each(function(i) {
-    if (i != 0) { // only clone if more than one needed
-      $(\"#beep\")
-        .clone()
-        .attr(\"id\", \"beep-\" + i)
-        .appendTo($(this).parent()); 
-    }
-    $(this).data(\"beeper\", i); // save reference 
-  })
-  .keydown(function() {
-    $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
-  });
-$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
-
+$(\"#search\").on(\"keyup\",function(){
+  //console.log(\"ok\");
+  $(\"#beep\")[0].pause();
+  $(\"#beep\")[0].currentTime=0;
+  $(\"#beep\")[0].play();
+});
 
 </script> "; ?>
 <script id="dsq-count-scr" src="//cloudstrato.disqus.com/count.js" async></script>
