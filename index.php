@@ -213,7 +213,7 @@ $(\"input\") // loop each menu item
     }
     $(this).data(\"beeper\", i); // save reference 
   })
-  .onkeydown(function() {
+  .keydown(function() {
     $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
   });
 $(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
