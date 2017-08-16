@@ -87,7 +87,7 @@
 					<div class="content">
 						<header>
 							<h2>Security is over priority</h2>
-							<p>Developers: Debugger , Aeri  Bot: Iceball </p>
+							<p>Developers: Debugger , Moderators<br>  Bot: Iceball </p>
 						</header>
 						<p>As recently stated , every account is secured as a chat, and when a purchase is made , the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed , or the helper bot. </p>
 						
