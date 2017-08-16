@@ -16,6 +16,8 @@
 <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 <audio id='beep' preload="auto">
+	
+<!--     Change Audio Here  -->   	
 <source src="audio/click.ogg"></source>
 Your browser isn't invited for super fun audio time.
 </audio>		
@@ -38,8 +40,8 @@ Your browser isn't invited for super fun audio time.
 								</ul>
 							</li>
 							<li id='list'><a href="bot.php">Bot</a>
-							<ul><li>Info
-							<ul><li> Developer</li><li>Documentation</li><li>Progress</li><li>Suggestions</li></ul></li>
+							<ul><li><a href="#">Info</a>
+							<li> Developer</li><li>Documentation</li><li>Progress</li><li>Suggestions</li></ul></li>
 							<li><a href="#">Report Bugs</a></li></ul>
 							</ul>
 							</li>
