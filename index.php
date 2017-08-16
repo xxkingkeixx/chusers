@@ -30,7 +30,7 @@
 					<nav id="nav">
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
-							<li id='list'> <input type="text" class="form-control" placeholder="Search" /></li>
+							<li id='list'> <input type="text" class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
