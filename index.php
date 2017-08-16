@@ -30,7 +30,7 @@
 					<nav id="nav" style='margin-right:40px;'>
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
-							<li id='list'> <input type="text" style ='border-radius:33px;height:10px;' class="form-control" placeholder="Search for Usernames" /></li>
+							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:10px;' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
@@ -216,6 +216,24 @@ $(\"nav a\") // loop each menu item
   .mouseenter(function() {
     $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
   });
-$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention</script> "; ?>
+$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
+
+$(\"#search\") // loop each menu item
+  .each(function(i) {
+    if (i != 0) { // only clone if more than one needed
+      $(\"#beep\")
+        .clone()
+        .attr(\"id\", \"beep-\" + i)
+        .appendTo($(this).parent()); 
+    }
+    $(this).data(\"beeper\", i); // save reference 
+  })
+  .onkeydown(function() {
+    $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
+  });
+$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
+
+
+</script> "; ?>
 	</body>
 </html>
