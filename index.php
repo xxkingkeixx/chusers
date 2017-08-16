@@ -86,13 +86,11 @@
 					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum amet non magna accumsan</h2>
-							<p>Nunc commodo accumsan eget id nisi eu col volutpat magna</p>
+							<h2>Security is over priority</h2>
+							<p>Developers: Debugger , Aeri  Bot: Iceball </p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
-						<ul class="actions">
-							<li><a href="#" class="button">Learn More</a></li>
-						</ul>
+						<p>As recently stated , every account is secured as a chat, and when a purchase is made , the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed , or the helper bot. </p>
+						
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
 				</section>
