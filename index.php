@@ -218,7 +218,7 @@ $(\"nav a\") // loop each menu item
   });
 $(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
 
-$(\"#search\") // loop each menu item
+$(\"#search \") // loop each menu item
   .each(function(i) {
     if (i != 0) { // only clone if more than one needed
       $(\"#beep\")
