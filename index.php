@@ -203,7 +203,22 @@
 			<script src="assets/js/main.js"></script>
 
 <?php echo "<script type=\"text/javascript\">
-$(\"input\") // loop each menu item
+$(\"nav a\") // loop each menu item
+  .each(function(i) {
+    if (i != 0) { // only clone if more than one needed
+      $(\"#beep\")
+        .clone()
+        .attr(\"id\", \"beep-\" + i)
+        .appendTo($(this).parent()); 
+    }
+    $(this).data(\"beeper\", i); // save reference 
+  })
+  .mouseenter(function() {
+    $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
+  });
+$(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
+
+$(\"#search\") // loop each menu item
   .each(function(i) {
     if (i != 0) { // only clone if more than one needed
       $(\"#beep\")
@@ -217,6 +232,8 @@ $(\"input\") // loop each menu item
     $(\"#beep-\" + $(this).data(\"beeper\"))[0].play();
   });
 $(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
+
+
 </script> "; ?>
 	</body>
 </html>
