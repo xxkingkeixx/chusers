@@ -30,6 +30,12 @@
 					<nav id="nav">
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
+							<li id='list'><form id="search-form">
+    <div class="search">
+      <input type="text" name="search" class="round" />
+      <input type="submit" class="corner" value="" />
+    </div>
+</form></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
