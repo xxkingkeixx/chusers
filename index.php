@@ -27,14 +27,20 @@ Your browser isn't invited for super fun audio time.
 
 			<!-- Header -->
 				<header id="header">
-					<h1 id="logo"><a href="index.html">Chatangu</a></h1>
+					<h1 id="logo"><a href="http://chatangu.tk/">Chatangu</a></h1>
 					<nav id="nav" style='margin-right:40px;'>
 						<ul>
 							<li id='list'><a href="index.html" class="fa fa-home fa-fw"></a></li>
 							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:25px;' class="form-control" placeholder="Search for Usernames" /></li>
+						<!-- Developers -->
+							<li id='list'>
+								<a href="/">Developers</a>
+							</li>
+						<!--Tutorials -->
 							<li id='list'>
 								<a href="http://chatango-themes.tumblr.com/">Tutorials</a>
 							</li>
+						<!-- Bot -->	
 							<li id='list'>
 								<a href="bot.php">Bot</a>
 							<ul>
@@ -78,10 +84,10 @@ Your browser isn't invited for super fun audio time.
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available , the prices of these usernames will be vastly lower than original market prices. This will put an end to the wannabe elitists selling accounts for $500+</p>
+									<p>Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available, the prices of these usernames will be vastly lower than original market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Because of the high volume of requests for usernames you should expect a wait-time of at least 5 minutes. All transactions are safely secured with paypal and once you pay for a username , you will be told when the username is free to register. </p>
+									<p>All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Because of the high volume of requests for usernames you should expect a wait-time of at least 5 minutes. All transactions are safely secured with Paypal and once you pay for a username, you will be told when the username is free to register. Furthermore, all transactions are final.</p>
 								</div>
 							</div>
 						</div>
@@ -94,10 +100,10 @@ Your browser isn't invited for super fun audio time.
 					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Security is over priority</h2>
-							<p>Developers: Debugger , Moderators<br>  Bot: Iceball </p>
+							<h2>Security is Our Priority</h2>
+							<p>Developers: Debugger / Aeri<br>  Bot: Iceball </p>
 						</header>
-						<p>As recently stated , every account is secured as a chat, and when a purchase is made , the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed , or the helper bot. </p>
+						<p>As recently stated, every account is secured as a chat, and when a purchase is made, the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed, or the helper bot (coming soon).</p>
 						
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
@@ -111,7 +117,7 @@ Your browser isn't invited for super fun audio time.
 							<h2>Chatango Tutorials and Upcoming Projects</h2>
 							<p>Have problems creating a full profile or mini profile? Visit our free tutorials page.</p>
 						</header>
-						<p>The companion project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
+						<p>The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
 						
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
