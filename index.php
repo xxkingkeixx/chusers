@@ -226,6 +226,12 @@ $(\"#search\").on(\"keyup\",function(){
   $(\"#beep\")[0].play();
 });
 
+$(\"nav a\").on(\"mouseenter\",function(){
+  $(\"#beep\")[0].pause();
+  $(\"#beep\")[0].currentTime=0;
+  $(\"#beep\")[0].play();
+});
+
 </script> "; ?>
 <script id="dsq-count-scr" src="//cloudstrato.disqus.com/count.js" async></script>
 	</body>
