@@ -203,7 +203,7 @@
 			<script src="assets/js/main.js"></script>
 
 <?php echo "<script type=\"text/javascript\">
-$(\"#search\") // loop each menu item
+$(\"input\") // loop each menu item
   .each(function(i) {
     if (i != 0) { // only clone if more than one needed
       $(\"#beep\")
