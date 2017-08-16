@@ -27,7 +27,7 @@
 			<!-- Header -->
 				<header id="header">
 					<h1 id="logo"><a href="index.html">Chatangu</a></h1>
-					<nav id="nav" padding='10px'>
+					<nav id="nav" padding='40px'>
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
 							<li id='list'> <input type="text" class="form-control" placeholder="Search for Usernames" /></li>
