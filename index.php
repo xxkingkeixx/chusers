@@ -15,8 +15,7 @@
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 <audio id='beep' preload="auto">
-	<source src="audio/click.mp3"></source>
-	<source src="audio/click.ogg"></source>
+	<audio id="beep" src="https://www.bessetteweb.com/2017/js/autoCorrectError.mp3">
 	
 	Your browser isn't invited for super fun audio time.
 </audio>		
