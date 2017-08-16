@@ -14,8 +14,9 @@
 		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<audio id='beep' preload="auto">
 
-	<audio id="beep" src="https://www.bessetteweb.com/2017/js/autoCorrectError.mp3">
+	<source src="audio/scream.ogg"></source>
 	
 	Your browser isn't invited for super fun audio time.
 </audio>		
