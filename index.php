@@ -30,7 +30,7 @@
 					<nav id="nav" style='margin-right:40px;'>
 						<ul>
 							<li id='list'><a href="index.html">Home</a></li>
-							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:30px;' class="form-control" placeholder="Search for Usernames" /></li>
+							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:25px;' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
 								<ul>
@@ -218,7 +218,7 @@ $(\"nav a\") // loop each menu item
   });
 $(\"#beep\").attr(\"id\", \"beep-0\"); // get first one into naming convention
 
-$(\"search\") // loop each menu item
+$(\"input\") // loop each menu item
   .each(function(i) {
     if (i != 0) { // only clone if more than one needed
       $(\"#beep\")
