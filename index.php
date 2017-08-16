@@ -100,13 +100,11 @@
 					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
 					<div class="content">
 						<header>
-							<h2>Interdum felis blandit praesent sed augue</h2>
-							<p>Accumsan integer ultricies aliquam vel massa sapien phasellus</p>
+							<h2>Chatango Tutorials and Upcoming Projects</h2>
+							<p>Have problems creating a full profile or mini profile? Visit our free tutorials page.</p>
 						</header>
-						<p>Feugiat accumsan lorem eu ac lorem amet ac arcu phasellus tortor enim mi mi nisi praesent adipiscing. Integer mi sed nascetur cep aliquet augue varius tempus lobortis porttitor lorem et accumsan consequat adipiscing lorem.</p>
-						<ul class="actions">
-							<li><a href="#" class="button">Learn More</a></li>
-						</ul>
+						<p>The companion project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
+						
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
 				</section>
