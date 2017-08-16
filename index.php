@@ -10,17 +10,16 @@
 <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
 <link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon">
 <!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
-		<link rel="stylesheet" href="assets/css/main.css" />
-		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
-		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
-		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+<link rel="stylesheet" href="assets/css/main.css" />
+<link rel="stylesheet" href="assets/css/font-awesome.min.css">
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
 <audio id='beep' preload="auto">
-
-	<source src="audio/click.ogg"></source>
-	
-	Your browser isn't invited for super fun audio time.
+<source src="audio/click.ogg"></source>
+Your browser isn't invited for super fun audio time.
 </audio>		
-	</head>
+</head>
 	<body class="landing">
 		<div id="page-wrapper">
 
@@ -29,7 +28,7 @@
 					<h1 id="logo"><a href="index.html">Chatangu</a></h1>
 					<nav id="nav" style='margin-right:40px;'>
 						<ul>
-							<li id='list'><a href="index.html">Home</a></li>
+							<li id='list'><a href="index.html" class="fa fa-home fa-fw"></a></li>
 							<li id='list'> <input id='search' type="text" style ='border-radius:33px;height:25px;' class="form-control" placeholder="Search for Usernames" /></li>
 							<li id='list'>
 								<a href="#">Tutorials</a>
