@@ -24,7 +24,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
     
     
     
-    $query = mysqli_query("SELECT count(*) FROM store WHERE user_name = '$_POST'");
+    $query = mysqli_query("SELECT count(*) FROM store WHERE user_name = $_POST");
     
      if(mysqli_fetch_row($query)[0])
   {
