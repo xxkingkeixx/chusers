@@ -1,4 +1,4 @@
-<?php require 'post.php'; ?>
+
 
 
 <!DOCTYPE html>
@@ -57,11 +57,7 @@ Your browser isn't invited for super fun audio time.
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-                            <p><?php 
-                            mysqli_select_db($db,$conn);
-							$sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
-							while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
-							mysqli_close($conn); ?></p>			
+                        		<p><?php require 'post.php'; ?></p>	
 							
 						</header>
 				
