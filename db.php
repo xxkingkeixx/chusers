@@ -1,10 +1,14 @@
 <?php
+$url = parse_url(getenv("CLEARDB_DATABASE_URL"));
+
+$server = $url["host"];
+$username = $url["user"];
+$password = $url["pass"];
+$db = substr($url["path"], 1);
+
+$conn = new mysqli($server, $username, $password, $db);
 
 
-
- $db = mysqli_init();
-$db->ssl_set( '/bd9aa57ef63287-cert.pem', '/bd9aa57ef63287-cert.pem', '/cleardb-ca.pem', null, null);
-$db->real_connect('us-cdbr-iron-east-05.cleardb.net', 'bd9aa57ef63287', 'b9e32419', 'heroku_cd6b3866e127c21');
 
 // Check connection
 if (mysqli_connect_errno())
