@@ -45,7 +45,7 @@ Your browser isn't invited for super fun audio time.
 					<div class="content">
 						<header>
 							<h2>Add Usernames Here</h2>
-							<form action="/post.php" method="post">
+							<form method="post">
   <br>
   <input type="text" name="username"><br>
   <input type="submit" value="Submit">
