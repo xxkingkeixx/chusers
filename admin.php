@@ -57,7 +57,7 @@ Your browser isn't invited for super fun audio time.
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-		<?php require 'print.php'; ?>  			
+                            <p>while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }</p>			
 							
 						</header>
 				
