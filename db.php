@@ -15,7 +15,7 @@ if (mysqli_connect_errno())
     }
 else 
 {
-   print("Connected to :" +$server);
+   printf("Connected to : %s and the DB name is: %s" ,$server,$db);
 }
 
 if ($result = $mysqli->query("SELECT DATABASE()")) {
