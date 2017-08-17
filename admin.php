@@ -53,7 +53,7 @@ Your browser isn't invited for super fun audio time.
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
-						<a href="#four" class="goto-next scrolly">Next</a>
+						<a href="#five" class="goto-next scrolly">Next</a>
 				</section>
 				
 				<section id="five" class="wrapper style2 special fade">
