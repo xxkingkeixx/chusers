@@ -59,7 +59,7 @@ Your browser isn't invited for super fun audio time.
 				<section id="five" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
-							<h2>Results</h2>
+							<h2>Added Usernames</h2>
 							<?php
 							require 'post.php';
 							
