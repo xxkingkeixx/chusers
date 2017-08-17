@@ -21,17 +21,18 @@ $conn = new mysqli($server, $username, $password, $db);
     $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
     
   
+    mysqli_query($conn,$sql);
     
     
     
+    mysqli_select_db($conn,'heroku_cd6b3866e127c21');
     
     
-    
-    mysqli_select_db($db,$conn);
 $sql2 = "SELECT * FROM store"; $mydata = $mysqli->query($sql2); while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
 
 
-    mysqli_query($conn,$sql);
+
+    
 
 
 
