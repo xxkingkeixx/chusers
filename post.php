@@ -31,8 +31,8 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
        echo 'user exists';
     
   }
-  else
-  {
+         else
+        {
     
     $user_name = $_POST['user_name']; 
     
