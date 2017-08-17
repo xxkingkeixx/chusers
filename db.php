@@ -15,7 +15,7 @@ if (mysqli_connect_errno())
     }
 else 
 {
-    echo "connection successful";
+    echo " database connection successful.  Details: Server name: %s", $server[0];
 }
 
 if ($result = $mysqli->query("SELECT DATABASE()")) {
