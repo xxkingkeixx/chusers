@@ -59,7 +59,7 @@ Your browser isn't invited for super fun audio time.
 							<h2>Added Usernames</h2>
                             <p><?php     mysqli_select_db($db,$conn);
 $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
- while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; } ?></p>			
+ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; } mysqli_close($conn); ?></p>			
 							
 						</header>
 				
