@@ -21,7 +21,7 @@ if( !empty( $_POST) ) {
 }
 
 
-mysqli_select_db("chatangu");
+mysqli_select_db("heroku_cd6b3866e127c21");
 $sql2 = "SELECT * FROM  store";
 
 $mydata = mysqli_query('sql1');
