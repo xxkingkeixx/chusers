@@ -30,16 +30,7 @@ $conn = new mysqli($server, $username, $password, $db);
     
     
     
-    
-    mysql_select_db($db,$conn);
-$sql2 = "SELECT * FROM  store";
-
-$mydata = mysql_query('$sql2,$conn');
-
-while($record = mysql_fetch_array($mydata)){
-    echo "<br>";
-    echo  $record['username'];
-}
+  
 
 
     

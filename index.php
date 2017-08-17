@@ -1,7 +1,4 @@
-<?php 
-require 'db.php';
 
-?>
 
 
 <!DOCTYPE html>

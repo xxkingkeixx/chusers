@@ -1,7 +1,5 @@
-<?php 
-require 'db.php';
-
-?>
+<?php
+require 'post.php';						?>
 
 
 <!DOCTYPE html>
@@ -60,9 +58,7 @@ Your browser isn't invited for super fun audio time.
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-						<?php
-						require 'post.php';
-						?>
+						
 							
 						</header>
 				
