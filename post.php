@@ -11,8 +11,8 @@ $conn = new mysqli($server, $username, $password, $db);
 
 
    
-  if( !empty( $_POST) ) {
-    print_r($_POST); exit;
+  if(empty($_POST) ) {
+     exit;
   }   
   else {
       
