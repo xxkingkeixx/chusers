@@ -1,4 +1,4 @@
-
+<?php require 'post.php'; ?>
 
 
 <!DOCTYPE html>
@@ -57,7 +57,7 @@ Your browser isn't invited for super fun audio time.
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-						<?php include 'post.php'; ?>
+		<?php require 'print.php'; ?>  			
 							
 						</header>
 				
