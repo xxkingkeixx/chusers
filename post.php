@@ -35,7 +35,7 @@ $mydata = mysqli_query('$sql2,$conn');
 
 while($record = mysqli_fetch_array($mydata)){
     echo "<br>";
-    echo  $record['username'];
+    echo  $record['user_name'];
 }
 
 
