@@ -55,6 +55,21 @@ Your browser isn't invited for super fun audio time.
 					</div>
 					
 				</section>
+				
+				<section id="five" class="wrapper style2 special fade">
+					<div class="container">
+						<header>
+							<h2>Results</h2>
+							<?php
+							require 'post.php';
+							
+							?>
+							
+						</header>
+				
+                            
+					</div>
+				</section>
 
 		
 			<!-- Footer -->
