@@ -45,10 +45,10 @@ Your browser isn't invited for super fun audio time.
 					<div class="content">
 						<header>
 							<h2>Add Usernames Here</h2>
-							<form method="post" action="post.php">
+							<form method="post">
   <br>
   <input type="text" name="user_name"><br>
-  <input type="submit" value="Insert">
+  <input type="submit" value="Submit">
 </form>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
@@ -60,7 +60,9 @@ Your browser isn't invited for super fun audio time.
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-						
+						<?php
+						require 'post.php';
+						?>
 							
 						</header>
 				
