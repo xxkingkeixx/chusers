@@ -9,7 +9,7 @@ $db = substr($url["path"], 1);
 
 
  $db = mysqli_init();
-$db->ssl_set( /bd9aa57ef63287-cert.pem, /bd9aa57ef63287-cert.pem, /cleardb-ca.pem, null, null);
+$db->ssl_set( '/bd9aa57ef63287-cert.pem', '/bd9aa57ef63287-cert.pem', '/cleardb-ca.pem', null, null);
 $db->real_connect($server, $username, $password, $db);
 
 // Check connection
