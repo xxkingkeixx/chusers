@@ -20,7 +20,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
      exit;
   }   
 
-     
+ else{    
     
     
     
@@ -53,7 +53,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
     exit;
 }
 
-   
+ }
 
     
 
