@@ -14,17 +14,7 @@ $conn = new mysqli($server, $username, $password, $db);
    
     
     
-    //Insert Username
     
-    if(!$conn)
-    {
-        echo 'not connected';
-    }
-    
-    if(!mysqli_select_db($conn,'heroku_cd6b3866e127c21'))
-    {
-        echo 'database not selected';
-    }
     
     
     
