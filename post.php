@@ -29,8 +29,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
      if(mysqli_fetch_row($query)[0])
   {
        echo 'user exists';
-     
-      exit;
+    
   }
   else
   {
