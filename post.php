@@ -23,13 +23,7 @@ $conn = new mysqli($server, $username, $password, $db);
     $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
     
     
-    if(!mysqli_query($conn,$sql))
-    {
-        echo 'not inserted';
-    }
-    else {
-        echo 'inserted';
-    }
+   
     
     
     
