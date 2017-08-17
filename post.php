@@ -24,9 +24,9 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
     
     $user_name = $_POST['user_name'];
     
-    $query = mysqli_query("SELECT user_name FROM store WHERE user_name='".$user_name."'");
+    $query = mysqli_query("SELECT count(*) FROM store WHERE user_name = '$username'");
     
-     if (mysql_num_rows($query) != 0)
+     if(mysqli_fetch_row($query)[0])
   {
        mysqli_select_db($db,$conn);
 $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
