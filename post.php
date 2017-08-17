@@ -17,7 +17,7 @@ $conn = new mysqli($server, $username, $password, $db);
     
     
     $user_name = $_POST['user_name'];
-     if (!$_POST['user_name']) die('no username');
+     
     $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
     
   
