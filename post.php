@@ -21,7 +21,7 @@ $conn = new mysqli($server, $username, $password, $db);
     $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
     
   
-    mysqli_query($conn,$sql);
+    
     
     
     
@@ -31,7 +31,7 @@ $conn = new mysqli($server, $username, $password, $db);
 $sql2 = "SELECT * FROM store"; $mydata = $mysqli->query($sql2); while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
 
 
-    
+    mysqli_query($conn,$sql);
 
 
 
