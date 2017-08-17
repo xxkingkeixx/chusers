@@ -28,10 +28,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
     
      if(mysqli_fetch_row($query)[0])
   {
-       mysqli_select_db($db,$conn);
-$sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
-while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
-
+       echo 'user exists';
      
       exit;
   }
