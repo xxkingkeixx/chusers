@@ -18,4 +18,10 @@ else
     echo "connection successful";
 }
 
+if ($result = $mysqli->query("SELECT DATABASE()")) {
+    $row = $result->fetch_row();
+    printf("Default database is %s.\n", $row[0]);
+    $result->close();
+}
+
 ?>
