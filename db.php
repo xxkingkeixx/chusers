@@ -20,7 +20,7 @@ else
 
 if ($result = $mysqli->query("SELECT DATABASE()")) {
     $row = $result->fetch_row();
-    printf("Default database is %s.\n", $row[0]);
+    echo "Default database is %s.\n", $row[0];
     $result->close();
 }
 
