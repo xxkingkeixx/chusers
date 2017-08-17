@@ -31,12 +31,12 @@ $conn = new mysqli($server, $username, $password, $db);
     
     
     
-    mysql_select_db($db,$conn);
+    mysqli_select_db($db,$conn);
 $sql2 = "SELECT * FROM  store";
 
-$mydata = mysql_query('$sql2,$conn');
+$mydata = mysqli_query('$sql2,$conn');
 
-while($record = mysql_fetch_array($mydata)){
+while($record = mysqli_fetch_array($mydata)){
     echo "<br>";
     echo  $record['user_name'];
 }
