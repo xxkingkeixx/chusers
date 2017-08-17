@@ -16,7 +16,7 @@ $conn = new mysqli($server, $username, $password, $db);
  if( !empty( $_POST) ) {
     print_r($_POST); exit;
        
-    
+ }
     
     $user_name = $_POST['user_name'];
     
@@ -36,7 +36,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
 
 
     
-}
+
 
 
 
