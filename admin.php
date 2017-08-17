@@ -47,8 +47,7 @@ Your browser isn't invited for super fun audio time.
 							<h2>Add Usernames Here</h2>
 							<form method="post">
   <br>
-  <input type="text" name="username"><br>
-  <input type="submit" value="Submit">
+  <input type="text" name="user_name"><br>
 </form>
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>

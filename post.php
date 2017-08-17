@@ -12,7 +12,7 @@
     
     //Insert Username
     
-    $sql = "INSERT INTO store (username) VALUES ( '{$mysqli->real_escape_string($_POST['username'])}'";
+    $sql = "INSERT INTO store (user_name) VALUES ( '{$mysqli->real_escape_string($_POST['user_name'])}'";
     
     $insert = $mysqli->query($sql);
     
