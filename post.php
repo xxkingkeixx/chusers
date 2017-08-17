@@ -1,20 +1,40 @@
 <?php
-//only process the form if POST isn't empty
 
 
     
-    //Check Connection
-    
-    if( $mysqli->connect_error ) {
-        die( 'Connect Error: ' . $mysqli->connect_errno . ': ' . $mysqli->connect_error);
-    }
+   
     
     
     //Insert Username
     
-    $sql = "INSERT INTO store (user_name) VALUES ( '{$mysqli->real_escape_string($_POST['user_name'])}'";
+    if(!$conn)
+    {
+        echo 'not connected';
+    }
     
-    $insert = $mysqli->query($sql);
+    if(!mysqli_select_db($conn,'heroku_cd6b3866e127c21'))
+    {
+        echo 'database not selected';
+    }
+    
+    
+    
+    $user_name = $_POST['user_name'];
+    
+    $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
+    
+    
+    if(!mysqli_query($conn,$sql))
+    {
+        echo 'not inserted';
+    }
+    else {
+        echo 'inserted';
+    }
+    
+    
+    header("refresh:2; url=admin.php");
+    
     
     
     
