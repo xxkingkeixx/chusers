@@ -22,7 +22,7 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
 
      
     
-    $user_name = $_POST['user_name'];
+    
     
     $query = mysqli_query("SELECT count(*) FROM store WHERE user_name = '$username'");
     
@@ -34,7 +34,8 @@ while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name'];
   }
   else
   {
-     
+    
+    $user_name = $_POST['user_name']; 
     
     $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
     
