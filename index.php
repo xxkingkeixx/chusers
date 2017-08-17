@@ -1,3 +1,9 @@
+<?php 
+require 'db.php';
+session_start();
+?>
+
+
 <!DOCTYPE html>
 <html lang = "en-us">
 <head>
