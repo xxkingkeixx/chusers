@@ -25,7 +25,7 @@ $mydata = mysql_query('$sql2,$conn');
 
 while($record = mysql_fetch_array($mydata)){
     echo "<br>";
-    echo "$record";
+    echo  $record['username'];
 }
 
 
