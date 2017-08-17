@@ -61,7 +61,7 @@ Your browser isn't invited for super fun audio time.
                             mysqli_select_db($db,$conn);
 							$sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
 							while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
-						 ?></p>			
+							mysqli_close($conn); ?></p>			
 							
 						</header>
 				
