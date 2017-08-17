@@ -26,7 +26,9 @@ $conn = new mysqli($server, $username, $password, $db);
     
     
     mysqli_select_db($conn,'heroku_cd6b3866e127c21');
-   $sql2 = "SELECT * FROM store"; $mydata = $mysqli->query($sql2); while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
+    
+    mysqli_select_db($db,$conn);
+$sql2 = "SELECT * FROM store"; $mydata = $mysqli->query($sql2); while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
 
 
     
