@@ -31,7 +31,7 @@ $conn = new mysqli($server, $username, $password, $db);
     mysqli_select_db($db,$conn);
 $sql2 = "SELECT * FROM  store";
 
-$mydata = mysqli_query('$sql2,$conn');
+$mydata = mysqli_query($sql2,$conn);
 
 while($record = mysqli_fetch_array($mydata)){
     echo "<br>";
