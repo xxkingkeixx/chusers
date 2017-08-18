@@ -8,27 +8,18 @@ $password = $url["pass"];
 $db = substr($url["path"], 1);
 
 $conn = new mysqli($server, $username, $password, $db);
-$user_name = $_POST['user_name']; 
+ 
 
 
 
 
-  if(isset($user_name)){
-$mysqli_get_users = mysqli_query("SELECT * FROM store where user_name='$user_name'");
+if (isset($_POST['user_name']))
+{
+    $user = $_POST['user_name'];
 
-$get_rows = mysqli_affected_rows($conn);
-mysqli_select_db($db,$conn);
-if($get_rows >=1){
-echo "user exists";
-die();
+    if (mysqli_num_rows(mysqli_query("SELECT * FROM store WHERE user_name='$user'")))
+            echo "Name is taken";
+    else echo "Name available";
 }
-
-else{
-echo "user do not exists";
-}
-
-
-
-} 
   
 ?>
