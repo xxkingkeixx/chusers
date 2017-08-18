@@ -14,7 +14,7 @@ if ($res=mysqli_query($conn,$usercount))
   {
   // Return the number of rows in result set
   $rowcount=mysqli_num_rows($res);
-  printf("Result set has %d rows.\n",$rowcount);
+  printf("Total usernames: %d \n",$rowcount);
   // Free result set
   mysqli_free_result($res);
   }
