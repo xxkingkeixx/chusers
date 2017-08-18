@@ -20,7 +20,7 @@ mysqli_select_db($db,$conn);
 
 
 $temp = 'apple,cherry,orange,a,b,c';
-$exploded = preg_split('@,@', $temp, NULL, PREG_SPLIT_NO_EMPTY);
+$exploded = preg_split(',', $temp, NULL, PREG_SPLIT_NO_EMPTY);
 echo "$exploded";
 
    
