@@ -21,7 +21,9 @@ mysqli_select_db($db,$conn);
 
 
 $exploded = preg_split('@,@', 'apple,orange,banana,a,b,c', NULL, PREG_SPLIT_NO_EMPTY);
-print_r(array_slice($exploded,1));
+foreach ($exploded as $value) {
+    echo $value . '<br>';
+}
    
   if(empty($_POST) ) {
     
