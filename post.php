@@ -36,15 +36,15 @@ foreach (explode(',',$input) as $piece)
     $piece = mysqli_real_escape_string(trim ($input));
     $sql = "INSERT INTO store VALUES($piece)";
     //Run sql
-     mysqli_query($conn,$sql);
      
-     print($piece);
-}
    
     
     }
             
-           
+       mysqli_query($conn,$sql);
+     
+     print($piece);
+}    
             
         
       
