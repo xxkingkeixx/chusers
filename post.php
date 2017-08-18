@@ -12,7 +12,7 @@ mysqli_select_db($db, $conn);
 $res = mysqli_query("SELECT * FROM store", $conn);
 $num_rows = mysqli_num_rows($res);
 
-echo "'$num_rows . 'Total Usernames'";
+echo "$num_rows . 'Total Usernames'";
 
 
 // show records in db
