@@ -30,22 +30,24 @@ mysqli_select_db($db,$conn);
       else
         {
            
-      $input = "Basketball, Tennis, Futbol, Volleyball";     
-foreach (explode(',',$input) as $piece)
-{
-    $piece = mysqli_real_escape_string(trim ($piece));
-    $sql = "INSERT INTO store VALUES($piece)";
-    //Run sql
-     mysqli_query($conn,$sql);
-     
-     
+            $array = explode(',', $_POST['user_name']);
+            
+    $sql="";    
+    foreach($array as $tag_name){
+       //modify below to add $id along with $tag_name
+       $sql="('{$tag_name}'),"; // you need to remove last comma else it will throw mysql error  
+    }
 
-}
+    if($sql!=""){
+    //rtrim to remove last ',' from string. 
+    $sql=rtrim($sql,',');
+
+    $sql="INSERT INTO store (user_name) VALUES {$sql};";
     
     }
             
-           
+            header("Refresh:0; url=admin.php");
             
-        
+        }   
       
 ?>
