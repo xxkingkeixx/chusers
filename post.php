@@ -32,6 +32,7 @@ mysqli_select_db($db,$conn);
            
             $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
             mysqli_query($conn,$sql);
+            header("Refresh:0; url=admin.php");
             
         }   
       
