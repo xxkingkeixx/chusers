@@ -8,18 +8,26 @@ $password = $url["pass"];
 $db = substr($url["path"], 1);
 
 $conn = new mysqli($server, $username, $password, $db);
- 
+$user_name = $_POST['user_name']; 
 
 
+mysqli_select_db($db,$conn);
 
+   
+  if(empty($_POST) ) {
+     $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
+    while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; } 
+     die(); 
 
-if (isset($_POST['user_name']))
-{
-    $user = $_POST['user_name'];
-
-    if (mysql_num_rows(mysql_query("SELECT * FROM store WHERE user_name='$user'")))
-            echo "Name is taken";
-    else echo "Name available";
-}
+  }
   
+      else
+        {
+            $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
+    while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
+            $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
+            mysqli_query($conn,$sql);
+            
+        }   
+      
 ?>
