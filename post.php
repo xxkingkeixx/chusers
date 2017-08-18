@@ -10,7 +10,7 @@ $db = substr($url["path"], 1);
 $conn = new mysqli($server, $username, $password, $db);
  
 
-
+print($server);
 
 
 if (isset($_POST['user_name']))
