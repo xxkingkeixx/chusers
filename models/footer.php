@@ -42,4 +42,7 @@ $("nav a").on("mouseenter",function(){
 
 </script> 
 
+	</body>
+</html>
+
 '; ?>

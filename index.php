@@ -1,6 +1,3 @@
-<!DOCTYPE html>
-<html lang = "en-us">
-
 <!-- create models and include them where you want your code
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
@@ -122,6 +119,3 @@
 <?php require 'models/disqus.php' ?>
 <?php require 'models/footer.php' ?>
 
-
-	</body>
-</html>
