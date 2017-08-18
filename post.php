@@ -35,7 +35,7 @@ mysqli_select_db($db,$conn);
     while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
             $sql = "INSERT INTO store (user_name) VALUES ('$user_name')";
             mysqli_query($conn,$sql);
-            
+            exit;
         }   
         }
         }
