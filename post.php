@@ -10,13 +10,20 @@ $conn = new mysqli($server, $username, $password, $db);
 $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
 while($record = $mydata->fetch_assoc())
 { 
+    //show user names
     echo "<br>"; 
     echo $record['user_name'];
-    
+    // show if user is available
     $capture = $record['user_status'];
     if (($capture) == true ){
         
-     echo "Available";
+     echo "  - Status : Available";
+     
+    }
+     else
+     {
+     echo " - Status : Taken by"; 
+     echo ' ' . $record['buyer'];
      }
      } 
 //assign post from form
