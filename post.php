@@ -20,10 +20,7 @@ mysqli_select_db($db,$conn);
 
 
 
-$exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
-foreach ($exploded as $value) {
-    echo $value . '<br>';
-}
+
    
   if(empty($_POST) ) {
     
@@ -31,10 +28,14 @@ foreach ($exploded as $value) {
 
   }
   
-  //    else
-//        {
-  //   $Input = explode(',', 'a, b, c, d, e, f, g');
-//$Query = 'INSERT INTO store(user_name) VALUES ($input)';
+     else
+        {
+  $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
+  foreach ($exploded as $value) {
+    $Query = 'INSERT INTO store(user_name) VALUES ($value)';
+    mysqli_query($Query);
+  }
+
 
 //foreach ($Input as $Entry)
 //{
@@ -43,7 +44,7 @@ foreach ($exploded as $value) {
 
 //$Query = substr_replace($Query, '', -2);
 
-//mysqli_query($Query);
+//
          
        
       
