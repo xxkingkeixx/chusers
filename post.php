@@ -20,7 +20,7 @@ mysqli_select_db($db,$conn);
 
 
 
-$exploded = preg_split('@/@', '1/2//3/', NULL, PREG_SPLIT_NO_EMPTY);
+$exploded = preg_split('@,@', 'apple,orange,banana,a,b,c', NULL, PREG_SPLIT_NO_EMPTY);
 print_r(array_values($exploded));
    
   if(empty($_POST) ) {
