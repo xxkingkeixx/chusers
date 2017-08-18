@@ -8,11 +8,16 @@ $db = substr($url["path"], 1);
 $conn = new mysqli($server, $username, $password, $db);
 
 //display total records in db
-mysqli_select_db($db, $conn);
-$res = mysqli_query("SELECT * FROM store", $conn);
-$num_rows = mysqli_num_rows($res);
+$usercount="SELECT user_name FROM store";
 
-echo "$num_rows . 'Total Usernames'";
+if ($res=mysqli_query($conn,$usercount))
+  {
+  // Return the number of rows in result set
+  $rowcount=mysqli_num_rows($res);
+  printf("Result set has %d rows.\n",$rowcount);
+  // Free result set
+  mysqli_free_result($res);
+  }
 
 
 // show records in db
