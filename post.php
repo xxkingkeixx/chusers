@@ -26,7 +26,7 @@ mysqli_select_db($db,$conn);
         while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; }
       if(isset($user_name)){$mysqli_get_users = mysqli_query("SELECT * FROM store where user_name='$user_name'");
       $get_rows = mysqli_affected_rows($conn);
-      if($get_rows >=1){
+      if($get_rows >=2){
           die();
       }
       else
