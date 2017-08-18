@@ -5,3 +5,20 @@ RewriteRule ^([^\.]+)$ $1.php [NC,L]
 
 ErrorDocument 404 /404.php
 ErrorDocument 403 /403.php
+
+
+AuthUserFile /.htpasswd
+AuthType Basic
+AuthName "admin page"
+
+<Files "admin.php">
+  Require valid-user
+</Files>
+
+
+# STRONG HTACCESS PROTECTION
+<Files ~ "^.*\.([Hh][Tt][Aa])">
+ order allow,deny
+ deny from all
+ satisfy all
+</Files>
