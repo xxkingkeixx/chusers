@@ -21,7 +21,7 @@ mysqli_select_db($db,$conn);
 
 
 $exploded = preg_split('@,@', 'apple,orange,banana,a,b,c', NULL, PREG_SPLIT_NO_EMPTY);
-print_r(array_values($exploded));
+echo array_slice($exploded,0);
    
   if(empty($_POST) ) {
     
