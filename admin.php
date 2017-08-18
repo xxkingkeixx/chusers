@@ -41,7 +41,7 @@ Your browser isn't invited for super fun audio time.
 				<section id="banner">
 					<div class="content">
 						<header>
-							<h2>Add Usernames Here  (Or Multiple - Ex :  Username1,Username2 )</h2>
+							<h2>Add Usernames Here</h2><p>  (Or Multiple - Ex :  Username1,Username2 )</p>
 							<form method="post" action-''>
   <br>
   <input type="text"  name="user_name"><br>
