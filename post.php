@@ -1,57 +1,33 @@
 <?php
-
+//connect to DB
 $url = parse_url(getenv("CLEARDB_DATABASE_URL"));
-
 $server = $url["host"];
 $username = $url["user"];
 $password = $url["pass"];
 $db = substr($url["path"], 1);
-
 $conn = new mysqli($server, $username, $password, $db);
-
- $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
-    while($record = $mydata->fetch_assoc()){ echo "<br>"; echo $record['user_name']; } 
-
-
+// show records in db
+$sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
+while($record = $mydata->fetch_assoc())
+{ 
+    echo "<br>"; 
+    echo $record['user_name'];
+    
+    $capture = $record['user_status'];
+    if (($capture) == true ){
+        
+     echo "Available";
+     }
+     } 
+//assign post from form
 $user_name = $_POST['user_name']; 
-
-
 mysqli_select_db($db,$conn);
 
-
-
-
-   
-  if(empty($_POST) ) {
+//if form is empty
+if(empty($_POST) ) {die(); }
+//if form has commas , allow multiple entries  
+else{$exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);foreach ($exploded as $value) {$result = $value;$sql = "INSERT INTO store(user_name) VALUES ('$result')";mysqli_query($conn,$sql); }}
     
-     die(); 
-
-  }
-  
-     else
-        {
-  $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
-  foreach ($exploded as $value) {
-      
-      $result = $value;
-    $sql = "INSERT INTO store(user_name) VALUES ('$result')";
-    mysqli_query($conn,$sql); 
-  }
-        }
-//$Query = 'INSERT INTO store(user_name) VALUES ($input)';
-
-//foreach ($Input as $Entry)
-//{
-  //  $Query .= '("' . $Entry . '"), ';
-//}
-
-//$Query = substr_replace($Query, '', -2);
-
-//mysqli_query($Query);
-         
-       
-      
-//}    
             
         
       
