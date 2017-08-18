@@ -20,6 +20,7 @@ mysqli_select_db($db,$conn);
 
 
 
+
    
   if(empty($_POST) ) {
     
@@ -27,27 +28,28 @@ mysqli_select_db($db,$conn);
 
   }
   
-      else
+     else
         {
-           
-            $array = explode(',', $_POST['user_name']);
-            
-    $sql="";    
-    foreach($array as $tag_name){
-       //modify below to add $id along with $tag_name
-       $sql="('{$tag_name}'),"; // you need to remove last comma else it will throw mysql error  
-    }
+  $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
+  foreach ($exploded as $value) {
+    mysqli_query("INSERT INTO store(user_name) VALUES ('$value')");
+  }
+        }
+//$Query = 'INSERT INTO store(user_name) VALUES ($input)';
 
-    if($sql!=""){
-    //rtrim to remove last ',' from string. 
-    $sql=rtrim($sql,',');
+//foreach ($Input as $Entry)
+//{
+  //  $Query .= '("' . $Entry . '"), ';
+//}
 
-    $sql="INSERT INTO store (user_name) VALUES {$sql};";
-    
-    }
+//$Query = substr_replace($Query, '', -2);
+
+//mysqli_query($Query);
+         
+       
+      
+//}    
             
-            header("Refresh:0; url=admin.php");
-            
-        }   
+        
       
 ?>
