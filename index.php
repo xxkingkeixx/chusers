@@ -119,8 +119,8 @@
 					</div>
 				</section>
 
-<?php require '/models/disqus.php' ?>
-<?php require '/models/footer.php' ?>
+<?php require 'models/disqus.php' ?>
+<?php require 'models/footer.php' ?>
 
 
 	</body>
