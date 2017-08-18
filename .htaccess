@@ -11,7 +11,7 @@ AuthUserFile .htpasswd
 AuthType Basic
 AuthName "admin page"
 
-<Files "admin.php">
+<Files "/admin.php">
   Require valid-user
 </Files>
 
