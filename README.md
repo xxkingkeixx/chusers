@@ -1,30 +1,64 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+<!--Header -->
+The Chatango Warehouse
+Buy and offer for original accounts, or browse profile tutorials.
+Learn about current projects coming soon!
 
+<!-- Page 1 -->
+Over 500 Original Usernames Available
+The biggest repository of original usernames you'll ever find.
+Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available, the prices of these usernames will be vastly lower than original market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
+All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Because of the high volume of requests for usernames you should expect a wait-time of at least 5 minutes. All transactions are safely secured with Paypal and once you pay for a username, you will be told when the username is free to register. Furthermore, all transactions are final.
 
-Hi there! Welcome to Cloud9 IDE!
+<!-- Two -->
+Security is Our Priority
+Developers: Debugger / Aeri<br>  
+Bot: Iceball
+As recently stated, every account is secured as a chat, and when a purchase is made, the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed, or the helper bot (coming soon).
 
-To get you started, we have created a small hello world application.
+<!-- Three -->
+Chatango Tutorials and Upcoming Projects
+Have problems creating a full profile or mini profile? Visit our free tutorials page.
+The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.
 
-1) Open the hello-world.php file
+<!-- Four -->
+Chatangu.TK
+Subtitle
 
-2) Follow the run instructions in the file's comments
+<!-- Box Top Right -->
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-area-chart"></span>
+									<h3>Box 1 Title</h3>
+									<p>Box 1 Description</p>
+								</section>
+<!-- Box Top Center -->
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-comment"></span>
+									<h3>Box 2 Title</h3>
+									<p>Box 2 Description</p>
+								</section>
+<!-- Box Top Left -->								
+								<section class="4u$ 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-flask"></span>
+									<h3>Box 3 Title</h3>
+									<p>Box 3 Description</p>
+								</section>
+<!-- Box Bottom Left -->
+								<section class="4u 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-paper-plane"></span>
+									<h3>Box 4 Title</h3>
+									<p>Box 4 Description</p>
+								</section>
+<!-- Box Bottom Center -->
+								<section class="4u 6u(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-file"></span>
+									<h3>Box 5 Title</h3>
+									<p>Box 5 Description</p>
+								</section>
+<!-- Box Bottom Right -->
+								<section class="4u$ 6u$(medium) 12u$(xsmall)">
+									<span class="icon alt major fa-lock"></span>
+									<h3>Box 6 Title</h3>
+									<p>Box 6 Description</p>
+								</section>
 
-3) If you want to look at the Apache logs, check out ~/lib/apache2/log
-
-And that's all there is to it! Just have fun. Go ahead and edit the code, 
-or add new files. It's all up to you! 
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
