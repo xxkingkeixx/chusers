@@ -6,6 +6,14 @@ $username = $url["user"];
 $password = $url["pass"];
 $db = substr($url["path"], 1);
 $conn = new mysqli($server, $username, $password, $db);
+
+//display total records in db
+$res = mysqli_query("SELECT * FROM store", $conn);
+$num_rows = mysqli_num_rows($res);
+
+echo "$num_rows Total Usernames\n";
+
+
 // show records in db
 $sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
 while($record = $mydata->fetch_assoc())
