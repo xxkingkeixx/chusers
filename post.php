@@ -33,7 +33,7 @@ mysqli_select_db($db,$conn);
       $input = "Basketball, Tennis, Futbol, Volleyball";     
 foreach (explode(',',$input) as $piece)
 {
-    $piece = mysqli_real_escape_string(trim ($piece));
+    $piece = mysqli_real_escape_string(trim ($input));
     $sql = "INSERT INTO store VALUES($piece)";
     //Run sql
      mysqli_query($conn,$sql);
