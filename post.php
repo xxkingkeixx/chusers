@@ -21,7 +21,7 @@ mysqli_select_db($db,$conn);
 
 
 $exploded = preg_split('@/@', '1/2//3/', NULL, PREG_SPLIT_NO_EMPTY);
-print($exploded);
+print($exploded[0]);
    
   if(empty($_POST) ) {
     
