@@ -47,7 +47,15 @@ mysqli_select_db($db,$conn);
 //if form is empty
 if(empty($_POST) ) {die(); }
 //if form has commas , allow multiple entries  
-else{$exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);foreach ($exploded as $value) {$result = $value;$sql = "INSERT INTO store(user_name) VALUES ('$result')";mysqli_query($conn,$sql); header("Refresh:0; url=admin.php"); }}
+else
+{
+    $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
+    foreach ($exploded as $value) 
+    {$result = $value;$sql = "INSERT INTO store(user_name) VALUES ('$result')";
+    mysqli_query($conn,$sql); 
+    header("Refresh:0; url=admin.php"); }
+    
+}
     
             
         
