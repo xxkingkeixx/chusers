@@ -1,6 +1,7 @@
+<?php echo '
 <head>
 <title>Shop</title>
-<meta charset ='UTF-8'>
+<meta charset ="UTF-8">
 <meta name="description" content="The chatango username warehouse">
 <meta name="keywords" content="chatango,chatangu,shop,buy,purchase,usernames">
 <meta name="author" content="Kei, Aeri">
@@ -13,10 +14,12 @@
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
 <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
 <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
-<audio id='beep' preload="auto">
+<audio id="beep" preload="auto">
 	
 <!--     Change Audio Here  -->   	
 <source src="audio/ding.mp3"></source>
-Your browser isn't invited for super fun audio time.
+Your browser isn"t invited for super fun audio time.
 </audio>		
 </head>
+
+'; ?>
