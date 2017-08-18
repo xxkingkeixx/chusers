@@ -1,6 +1,4 @@
 <!-- create models and include them where you want your code
-<?php require 'models/page1.php' ?>
-
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
 
@@ -12,14 +10,14 @@
 							<p>Buy and offer for original accounts, or browse profile tutorials.<br />
 							Learn about current projects coming soon!</p>
 						</header>
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 					</div>
 					<a href="#one" class="goto-next scrolly">Next</a>
 				</section>
 
 			<!-- One -->
 				<section id="one" class="spotlight style1 bottom">
-					<span class="image fit main"><img src="images/pic02.jpg" alt="" /></span>
+					<span class="image fit main"><img src="//images/pic02.jpg" alt="" /></span>
 					<div class="content">
 						<div class="container">
 							<div class="row">
@@ -43,7 +41,7 @@
 
 			<!-- Two -->
 				<section id="two" class="spotlight style2 right">
-					<span class="image fit main"><img src="images/pic03.jpg" alt="" /></span>
+					<span class="image fit main"><img src="/images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Security is Our Priority</h2>
@@ -57,7 +55,7 @@
 
 			<!-- Three -->
 				<section id="three" class="spotlight style3 left">
-					<span class="image fit main bottom"><img src="images/pic04.jpg" alt="" /></span>
+					<span class="image fit main bottom"><img src="/images/pic04.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Chatango Tutorials and Upcoming Projects</h2>
