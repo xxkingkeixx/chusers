@@ -78,7 +78,7 @@
 						</div>
 						<footer class="major">
 							<ul class="actions">
-								<li><a href="#" class="button">Explore Avaliable Usernames/a></li>
+								<li><a href="#" class="button">Explore Avaliable Usernames</a></li>
 							</ul>
 						</footer>
 					</div>
