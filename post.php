@@ -29,22 +29,19 @@ mysqli_select_db($db,$conn);
   
       else
         {
-           
-      $input = "Basketball, Tennis, Futbol, Volleyball";     
-foreach (explode(',',$input) as $piece)
+     $Input = explode(',', 'a, b, c, d, e, f, g');
+$Query = 'INSERT INTO store(user_name) VALUES ($input)';
+
+foreach ($Input as $Entry)
 {
-    
-mysqli_select_db($db,$conn);
-    $piece = mysqli_real_escape_string(trim ($piece));
-    $sql = "INSERT INTO store VALUES($piece)";
-    //Run sql
-     
+    $Query .= '("' . $Entry . '"), ';
+}
+
+$Query = substr_replace($Query, '', -2);
+
+mysqli_query($Query);
          
-       mysqli_query($conn,$sql);
-     
-     print($piece);
-    
-    }
+       
       
 }    
             
