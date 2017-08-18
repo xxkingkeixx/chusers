@@ -21,7 +21,7 @@ if ($res=mysqli_query($conn,$usercount))
 
 
 // show records in db
-$sql2 = "SELECT * FROM store"; $mydata = $mydata = mysqli_query($conn,$sql2); 
+$sql2 = "SELECT * FROM store ORDER BY name"; $mydata = $mydata = mysqli_query($conn,$sql2); 
 while($record = $mydata->fetch_assoc())
 { 
     //show user names
