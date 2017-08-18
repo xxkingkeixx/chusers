@@ -7,7 +7,7 @@ $password = $url["pass"];
 $db = substr($url["path"], 1);
 $conn = new mysqli($server, $username, $password, $db);
 
-echo $_SERVER['DOCUMENT_ROOT'];
+//echo $_SERVER['DOCUMENT_ROOT'];
 //display total records in db
 $usercount="SELECT user_name FROM store";
 
