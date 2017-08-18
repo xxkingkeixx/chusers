@@ -71,43 +71,10 @@
 			<!-- Four -->
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
-						<header class="major">
-							<h2>Chatangu.TK</h2>
-							<p>Subtitle</p>
-						</header>
-						<div class="box alt">
-							<div class="row uniform">
-								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-area-chart"></span>
-									<h3>Ipsum sed commodo</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-comment"></span>
-									<h3>Eleifend lorem ornare</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u$ 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-flask"></span>
-									<h3>Cubilia cep lobortis</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-paper-plane"></span>
-									<h3>Non semper interdum</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u 6u(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-file"></span>
-									<h3>Odio laoreet accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-								<section class="4u$ 6u$(medium) 12u$(xsmall)">
-									<span class="icon alt major fa-lock"></span>
-									<h3>Massa arcu accumsan</h3>
-									<p>Feugiat accumsan lorem eu ac lorem amet accumsan donec. Blandit orci porttitor.</p>
-								</section>
-							</div>
+						
+						
+						
+						
 						</div>
 						<footer class="major">
 							<ul class="actions">
