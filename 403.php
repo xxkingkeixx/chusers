@@ -18,7 +18,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
 <head>
  
-<title>Error 404</title>
+<title>Error 403</title>
 <link rel="shortcut icon" href="FAVICON URL">
 
  
@@ -45,10 +45,10 @@ h2 {
 
 </style>
 
-<h1>Error 404: Page Not Found</h1>
+<h1>Error 403: Page Forbidden</h1>
 
 <h2>
-Oops! We couldn't find that page,
+You do not have permission for this page,
 <br>
 please return to the main site.
 </h2>
