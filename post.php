@@ -34,7 +34,7 @@ mysqli_select_db($db,$conn);
 foreach (explode(',',$input) as $piece)
 {
     $piece = mysqli_real_escape_string(trim ($piece));
-    $sql = "INSERT INTO store (user_name) VALUES($piece)";
+    $sql = "INSERT INTO store (user_name) VALUES({$piece})";
     //Run sql
      mysqli_query($conn,$sql);
 }
