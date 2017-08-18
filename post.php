@@ -16,7 +16,7 @@ $conn = new mysqli($server, $username, $password, $db);
 $user_name = $_POST['user_name']; 
 
 
-mysqli_select_db($db,$conn);
+
 
 
 
