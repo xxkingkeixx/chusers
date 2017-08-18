@@ -30,25 +30,20 @@ mysqli_select_db($db,$conn);
       else
         {
            
-            $array = explode(',', $_POST['user_name']);
-            
-    $sql="";    
-    foreach($array as $user_name){
-       //modify below to add $id along with $tag_name
-       $sql="('{$user_name}'),"; // you need to remove last comma else it will throw mysql error  
-    }
-
-    if($sql!=""){
-    //rtrim to remove last ',' from string. 
-    $sql=rtrim($sql,',');
-
-    $sql="INSERT INTO store (user_name) VALUES {$sql};";
-    mysqli_query($conn,$sql);
+           
+foreach (explode(',',$user_name) as $piece)
+{
+    $piece = mysql_real_escape_string(trim ($piece));
+    $sql = "INSERT INTO store VALUES($piece)";
+    //Run sql
+     mysqli_query($conn,$sql);
+}
+   
     
     }
             
            
             
-        }   
+         
       
 ?>
