@@ -30,8 +30,8 @@ mysqli_select_db($db,$conn);
       else
         {
            
-           
-foreach (explode(',','$user_name') as $piece)
+      $input = "Basketball, Tennis, Futbol, Volleyball";     
+foreach (explode(',',$input) as $piece)
 {
     $piece = mysqli_real_escape_string(trim ($piece));
     $sql = "INSERT INTO store VALUES($piece)";
