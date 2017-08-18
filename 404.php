@@ -25,7 +25,7 @@
 <style type="text/css">
 
   body {
-  padding-top: 300px;
+  padding-top: 200px;
   text-align: center;
   background: url(http://i.imgur.com/jQBeP4X.png) 50%;
   background-size: cover;
