@@ -7,12 +7,6 @@ ErrorDocument 404 /404.php
 ErrorDocument 403 /403.php
 
 
-AuthUserFile /.htpasswd
-AuthType Basic
-AuthName "admin page"
 
-<Files "admin.php">
-  Require valid-user
-</Files>
 
 
