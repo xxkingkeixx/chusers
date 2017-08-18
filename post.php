@@ -31,7 +31,7 @@ mysqli_select_db($db,$conn);
         {
            
            
-$myArray = implode(',', $_POST['user_name']);
+$myArray = implode(',', $user_name);
 
     $sql="INSERT INTO store (user_name) VALUES {$sql};";
     mysqli_query($conn,$sql);
