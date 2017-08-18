@@ -11,7 +11,7 @@ $conn = new mysqli($server, $username, $password, $db);
 $res = mysqli_query("SELECT * FROM store", $conn);
 $num_rows = mysqli_num_rows($res);
 
-echo "$num_rows Total Usernames\n";
+echo $num_rows . "Total Usernames";
 
 
 // show records in db
