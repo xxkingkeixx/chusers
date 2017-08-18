@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang = "en-us">
+
 <!-- create models and include them where you want your code
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
@@ -71,8 +74,8 @@
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
 						<header class="major">
-							<h2>Accumsan sed tempus adipiscing blandit</h2>
-							<p>Iaculis ac volutpat vis non enim gravida nisi faucibus posuere arcu consequat</p>
+							<h2>Chatangu.TK</h2>
+							<p>Subtitle</p>
 						</header>
 						<div class="box alt">
 							<div class="row uniform">
@@ -110,7 +113,7 @@
 						</div>
 						<footer class="major">
 							<ul class="actions">
-								<li><a href="#" class="button">Magna sed feugiat</a></li>
+								<li><a href="#" class="button">Click here to explore avaliable usernames!</a></li>
 							</ul>
 						</footer>
 					</div>
@@ -118,3 +121,7 @@
 
 <?php require '/models/disqus.php' ?>
 <?php require '/models/footer.php' ?>
+
+
+	</body>
+</html>

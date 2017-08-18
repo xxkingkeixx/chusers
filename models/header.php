@@ -1,5 +1,3 @@
-<!DOCTYPE html>
-<html lang = "en-us">
 <head>
 <title>Shop</title>
 <meta charset ='UTF-8'>
