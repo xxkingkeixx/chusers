@@ -16,7 +16,7 @@ mysqli_select_db($db,$conn);
   if(isset($user_name)){
 $mysqli_get_users = mysqli_query("SELECT * FROM store where user_name=$user_name");
 
-$get_rows = mysqli_affected_rows($connect);
+$get_rows = mysqli_affected_rows($conn);
 
 if($get_rows >=1){
 echo "user exists";
