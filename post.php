@@ -33,9 +33,9 @@ mysqli_select_db($db,$conn);
             $array = explode(',', $_POST['user_name']);
             
     $sql="";    
-    foreach($array as $tag_name){
+    foreach($array as $user_name){
        //modify below to add $id along with $tag_name
-       $sql="('{$tag_name}'),"; // you need to remove last comma else it will throw mysql error  
+       $sql="('{$user_name}'),"; // you need to remove last comma else it will throw mysql error  
     }
 
     if($sql!=""){
