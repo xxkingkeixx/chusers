@@ -7,7 +7,7 @@ ErrorDocument 404 /404.php
 ErrorDocument 403 /403.php
 
 
-AuthUserFile /.htpasswd
+AuthUserFile "/.htpasswd"
 AuthType Basic
 AuthName "admin page"
 
