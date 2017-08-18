@@ -35,7 +35,7 @@ mysqli_select_db($db,$conn);
     $sql="";    
     foreach($array as $tag_name){
        //modify below to add $id along with $tag_name
-       $sql="('{$tag_name}')"; // you need to remove last comma else it will throw mysql error  
+       $sql="('{$tag_name}'),"; // you need to remove last comma else it will throw mysql error  
     }
 
     if($sql!=""){
@@ -44,10 +44,10 @@ mysqli_select_db($db,$conn);
 
     $sql="INSERT INTO store (user_name) VALUES {$sql};";
     mysqli_query($conn,$sql);
-            header("Refresh:0; url=admin.php");
     
     }
             
+           
             
         }   
       
