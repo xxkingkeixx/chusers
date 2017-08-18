@@ -32,8 +32,7 @@ mysqli_select_db($db,$conn);
         {
   $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
   foreach ($exploded as $value) {
-      mysqli_select_db($db,$conn);
-    mysqli_query('INSERT INTO store(user_name) VALUES ($value)');
+    mysqli_query('INSERT INTO store VALUES ($value)');
   }
         }
 //$Query = 'INSERT INTO store(user_name) VALUES ($input)';
