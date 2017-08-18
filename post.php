@@ -20,7 +20,6 @@ mysqli_select_db($db,$conn);
 
 
 
-
    
   if(empty($_POST) ) {
     
@@ -28,29 +27,24 @@ mysqli_select_db($db,$conn);
 
   }
   
-     else
+      else
         {
-  $exploded = preg_split('@,@', $user_name, NULL, PREG_SPLIT_NO_EMPTY);
-  foreach ($exploded as $value) {
-      $sql = 'INSERT INTO store (user_name) VALUES ($value)';
-      mysqli_query($conn,$sql);
+           
+      $input = "Basketball, Tennis, Futbol, Volleyball";     
+foreach (explode(',',$input) as $piece)
+{
+    $piece = mysqli_real_escape_string(trim ($piece));
+    $sql = "INSERT INTO store VALUES($piece)";
+    //Run sql
+     mysqli_query($conn,$sql);
+     
+     
+
+}
     
-  }
-        }
-//$Query = 'INSERT INTO store(user_name) VALUES ($input)';
-
-//foreach ($Input as $Entry)
-//{
-  //  $Query .= '("' . $Entry . '"), ';
-//}
-
-//$Query = substr_replace($Query, '', -2);
-
-//mysqli_query($Query);
-         
-       
-      
-//}    
+    }
+            
+           
             
         
       
