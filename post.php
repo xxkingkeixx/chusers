@@ -19,10 +19,9 @@ $user_name = $_POST['user_name'];
 mysqli_select_db($db,$conn);
 
 
-$temp = 'apple,cherry,orange,a,b,c';
-$exploded = preg_split('@,@', '$temp', NULL, PREG_SPLIT_NO_EMPTY);
-echo "$exploded";
 
+$exploded = preg_split('@/@', '1/2//3/', NULL, PREG_SPLIT_NO_EMPTY);
+echo $exploded;
    
   if(empty($_POST) ) {
     
