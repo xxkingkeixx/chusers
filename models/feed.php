@@ -23,7 +23,7 @@ if ($res=mysqli_query($conn,$usercount))
  echo 
   
   '<b>' . 
-  '   |   Last 10' .
+  ' // Last 10' .
   'Added Usernames</b>' .
   '</marquee></div>';
 
