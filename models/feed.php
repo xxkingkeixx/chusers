@@ -4,10 +4,9 @@
 
 
 
-echo '<link rel="stylesheet" href="assets/css/feed.css" /><div id="feed"><marquee><B>Total Usernames: </B>' .
-  htmlspecialchars
-  (
- '<?php 
+echo '<link rel="stylesheet" href="assets/css/feed.css" /><div id="feed"><marquee><B>Total Usernames: </B>';
+  
+ 
 $usercount="SELECT user_name FROM store";
 
 if ($res=mysqli_query($conn,$usercount))
@@ -17,9 +16,9 @@ if ($res=mysqli_query($conn,$usercount))
   printf("%d",$rowcount);
   // Free result set
   mysqli_free_result($res);
-  } ?>')
+  } 
   
-  . '<b>Last 10 Added Usernames</b>' .  '</marquee></div>';
+ echo '<b>Last 10 Added Usernames</b>' .  '</marquee></div>';
 
 
 
