@@ -3,12 +3,12 @@
 //display total records in db
 
 
-
+//add html
 echo '<link rel="stylesheet" href="assets/css/feed.css" /><div id="feed"><marquee>
 
-<B>Available Accounts: 
-  
-  </B>';
+<B>Available Accounts: </B>';
+
+//fetch ammount of users
 $usercount="SELECT user_name FROM store";
 if ($res=mysqli_query($conn,$usercount))
   {
@@ -18,6 +18,8 @@ if ($res=mysqli_query($conn,$usercount))
   // Free result set
   mysqli_free_result($res);
   } 
+  
+ //add html 
  echo 
   
   '<b>' . 
