@@ -18,7 +18,7 @@ if ($res=mysqli_query($conn,$usercount))
   mysqli_free_result($res);
   } 
   
- echo '<b>Last 10 Added Usernames</b>' .  '</marquee></div>';
+ echo '   <b>Last 10 Added Usernames</b>' .  '</marquee></div>';
 
 
 
