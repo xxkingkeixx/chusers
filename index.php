@@ -1,6 +1,7 @@
 <!-- create models and include them where you want your code
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
+<?php require 'db.php' ?>
 
 			<!-- Banner -->
 				<section id="banner">
@@ -79,7 +80,7 @@
 						
 						
 					</div>
-					<?php require 'feed.php' ?>
+					<?php require 'models/feed.php' ?>
 						<footer class="major">
 							<ul class="actions">
 								<li><a href="#" class="button">Explore Avaliable Accounts</a></li>
