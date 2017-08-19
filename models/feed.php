@@ -6,7 +6,7 @@
 
 echo '<link rel="stylesheet" href="assets/css/feed.css" /><div id="feed"><marquee>
 
-<B>Total Usernames: 
+<B>Available Accounts: 
   
   </B>';
 $usercount="SELECT user_name FROM store";
@@ -19,10 +19,11 @@ if ($res=mysqli_query($conn,$usercount))
   mysqli_free_result($res);
   } 
  echo 
-  '<b>' . |  ' Last 10' . 'Added Usernames</b>' .  '
- 
- 
- </marquee></div>';
+  
+  '<b>' . 
+  '|   Last 10' .
+  'Added Usernames</b>' .
+  '</marquee></div>';
 
 
 
