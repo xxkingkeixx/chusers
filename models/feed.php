@@ -23,7 +23,7 @@ if ($res=mysqli_query($conn,$usercount))
  echo 
   
   '<b>' . 
-  ' . . . Last 50 Added Usernames . . .</b>';
+  ' . . . Last 50 Added Usernames . . .';
 //last 50 added to the database
 
 
@@ -40,7 +40,7 @@ while ($lastusers = mysqli_fetch_array($row)) {
 
 
 
-echo '</marquee></div>';
+echo '</b></marquee></div>';
 
 
 
