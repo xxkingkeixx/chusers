@@ -32,6 +32,7 @@ if ($les=mysqli_query($conn,$lastusers)){
  $row = mysqli_fetch_array($lastusers);
 echo $row['user_name'];
 
+mysqli_free_result();
 }
 
 
