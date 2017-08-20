@@ -6,7 +6,7 @@
 //add html
 echo '<link rel="stylesheet" href="assets/css/feed.css" /><div id="feed"><marquee>
 
-<B>Available Accounts: </B>';
+<B>Available Accounts: ';
 
 //fetch ammount of users
 $usercount="SELECT user_name FROM store";
@@ -22,7 +22,7 @@ if ($res=mysqli_query($conn,$usercount))
  //add html 
  echo 
   
-  '<b>' . 
+   
   ' . . . Last 50 Added Usernames . . .';
 //last 50 added to the database
 
