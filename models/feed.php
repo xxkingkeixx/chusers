@@ -23,10 +23,11 @@ if ($res=mysqli_query($conn,$usercount))
  echo 
   
   '<b>' . 
-  ' . . . Last 10 ' .
-  'Added Usernames . . .</b>';
-//last 10 added to the database
-$lastusers = mysqli_query(" SELECT * 
+  ' . . . Last 50 Added Usernames . . .</b>';
+//last 50 added to the database
+$lastusers = mysqli_query
+("SELECT user_name FROM (
+  SELECT * 
   FROM store 
   ORDER BY user_id DESC
   LIMIT 50
@@ -37,12 +38,7 @@ echo $row['user_name'];
 
 
 
-
-
-
- 
- 
- echo '</marquee></div>';
+echo '</marquee></div>';
 
 
 
