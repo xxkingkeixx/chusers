@@ -26,7 +26,7 @@ if ($res=mysqli_query($conn,$usercount))
   ' . . . Last 10 ' .
   'Added Usernames . . .</b>';
 //last 10 added to the database
-$lastusers = "SELECT * FROM store LIMIT 10 OFFSET 540-10";
+$lastusers = ("SELECT * FROM store ORDER BY user_id DESC LIMIT 10") or die(mysql_error());
 
 if ($les=mysqli_query($conn,$lastusers)){
  $row = mysql_fetch_array($lastusers);
