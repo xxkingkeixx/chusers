@@ -35,7 +35,7 @@ $row = mysqli_query($conn, "SELECT user_name FROM (
 ) AS store ORDER BY user_id ASC");
 
 while ($lastusers = mysqli_fetch_array($row)) {
-    echo $lastusers['user_name'] . "  ";
+    echo $lastusers['user_name'] . ",  ";
 }
 
 
