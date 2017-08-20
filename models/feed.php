@@ -28,10 +28,11 @@ if ($res=mysqli_query($conn,$usercount))
 //last 10 added to the database
 $lastusers = "SELECT * FROM store LIMIT 10 OFFSET 540-10";
 
-$les=mysqli_query($conn,$lastusers);
- 
-printf("%d",$lastusers);
- 
+if ($les=mysqli_query($conn,$lastusers)){
+ $row = mysql_fetch_array($lastusers);
+echo $row['user_name'];
+
+}
 
 
 
