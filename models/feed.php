@@ -29,7 +29,7 @@ if ($res=mysqli_query($conn,$usercount))
 $lastusers = ("SELECT * FROM store ORDER BY user_id DESC LIMIT 10") or die(mysql_error());
 
 if ($les=mysqli_query($conn,$lastusers)){
- $row = mysql_fetch_array($lastusers);
+ $row = mysqli_fetch_array($lastusers);
 echo $row['user_name'];
 
 }
