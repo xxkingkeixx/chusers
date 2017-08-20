@@ -30,7 +30,7 @@ $lastusers = "SELECT * FROM store LIMIT 10 OFFSET 540-10";
 
 $les=mysqli_query($conn,$lastusers);
  
-printf("%d",$les);
+printf("%d",$lastusers);
  
 
 
