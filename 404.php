@@ -56,10 +56,6 @@ h2 {
 
 </style> 
 
-<!--- TAB TITLE CODE --->
-<script language=javascript>document.title=("Error404: Page Not Found")</script>
-
-
 <h1>Error 404: Page Not Found</h1>
 
 

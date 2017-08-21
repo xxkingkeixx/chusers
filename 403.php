@@ -24,6 +24,20 @@
  
 <style type="text/css">
 
+<style>
+
+body{
+background-image: url('http://i66.tinypic.com/2dqm6g6.png') !important; background-repeat;repeat !important; 
+background-position:left!important;
+width: 100%;
+height: 100%;
+background-size: 100% 100%;
+background-repeat:repeat;
+background-attachment:fixed;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
   body {
   padding-top: 200px;
   text-align: center;
@@ -34,24 +48,30 @@
 h1 {
   font-size: 30px;
   color:#fff;
-  font-family: verdana;
+  font-family: sans-serif;
+  padding-bottom:20px;
+  padding-top:50px;
 }
 
 h2 {
   font-size: 20px;
-  font-family: tahoma;
+  font-family: sans-serif;
   color:#fff;
 }
 
-</style>
 
-<h1>Error 403: Page Forbidden</h1>
+</style> 
+
+
+<h1>Error 403: Page Not Found</h1>
+
 
 <h2>
-You do not have permission for this page,
+Sorry, this page is forbidden.
 <br>
-please return to the main site.
+Please return to the main site.
 </h2>
+
 
 </body>
 </html>

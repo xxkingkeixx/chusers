@@ -73,11 +73,11 @@
                 <!-- work Filter -->
                 <div class="row">
                     <ul class="col container-filter categories-filter">
-                        <li><a class="categories" data-filter="*">All</a></li>
+                        <li><a class="categories active" data-filter="*">All</a></li>
                         <li><a class="categories" data-filter=".premium">Premium</a></li>
                         <li><a class="categories" data-filter=".regular">Regular</a></li>
                         <li><a class="categories" data-filter=".lowest">Lowest Price</a></li>
-                        <li><a class="categories active" data-filter=".latest">Latest</a></li>
+                        <li><a class="categories" data-filter=".latest">Latest</a></li>
                     </ul>
                 </div>
                 <!-- End work Filter -->
