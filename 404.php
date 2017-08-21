@@ -65,5 +65,9 @@ Oops! We couldn't find that page,
 please return to the main site.
 </h2>
 
+<a href="http://chatangu.tk/">
+  <img src="http://i.imgur.com/QLlgDh6.png" width="100">
+</a>
+
 </body>
 </html>
