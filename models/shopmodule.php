@@ -22,7 +22,7 @@
                     <div class="nf-item premium spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
+                                <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Consequat massa quis</h5>
@@ -37,7 +37,7 @@
                     <div class="nf-item lowest spacing">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="images/exploreimages/portfolio/2.jpg" class="item-container">
+                                <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Bookmarksgrove right at</h5>
@@ -52,7 +52,7 @@
                     <div class="nf-item regular spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="images/exploreimages/portfolio/4.jpg" class="item-container">
+                                <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
@@ -67,7 +67,7 @@
                     <div class="nf-item latest spacing">
                         <div class="item-box">
                             <a href="portfolio-single7-youtube.html">
-                                <img alt="1" src="images/exploreimages/portfolio/8.jpg" class="item-container">
+                                <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Subline of her own road</h5>
