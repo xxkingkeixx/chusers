@@ -67,59 +67,58 @@
         </section>
         <!-- End About Section -->
 
-        <!-- Work Section -->
+       <!-- Work Section -->
         <section class="ptb ptb-sm-80">
             <div class="container">
                 <!-- work Filter -->
                 <div class="row">
                     <ul class="col container-filter categories-filter">
                         <li><a class="categories active" data-filter="*">All</a></li>
-                        <li><a class="categories" data-filter=".premium">Premium</a></li>
-                        <li><a class="categories" data-filter=".regular">Regular</a></li>
-                        <li><a class="categories" data-filter=".lowest">Lowest Price</a></li>
-                        <li><a class="categories" data-filter=".latest">Latest</a></li>
+                        <li><a class="categories" data-filter=".branding">Branding</a></li>
+                        <li><a class="categories" data-filter=".design">Design</a></li>
+                        <li><a class="categories" data-filter=".photo">Photo</a></li>
+                        <li><a class="categories" data-filter=".coffee">coffee</a></li>
                     </ul>
                 </div>
                 <!-- End work Filter -->
+                <div class="row container-grid nf-col-3">
 
-                <div class="row container-grid nf-col-3" style="position: relative; height: 718.8px;">
-                    <div class="nf-item premium spacing" style="position: absolute; left: 0px; top: 0px;">
+                    <div class="nf-item branding coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/1.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Abut</h5>
-                                        <p class="white">Premium
+                                        <h5 class="white">Consequat massa quis</h5>
+                                        <p class="white">Branding, Design</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item lowest spacing" style="position: absolute; left: 0px; top: 0px; display: none;">
+                    <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="images/exploreimages/portfolio/2.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/2.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Bookmarksgrove right at</h5>
-                                        <p class="white">lowest</p>
+                                        <p class="white">Branding, Design, Coffee</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-
-                    <div class="nf-item latest spacing" style="position: absolute; left: 0px; top: 239px;">
+                    <div class="nf-item branding coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single3.html">
-                                <img alt="1" src="images/exploreimages/portfolio/3.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/3.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">A small river named</h5>
-                                        <p class="white">latest</p>
+                                        <p class="white">Branding, Design</p>
                                     </div>
                                 </div>
                             </a>
@@ -128,131 +127,132 @@
 
 
 
-                    <div class="nf-item regular spacing" style="position: absolute; left: 0px; top: 0px; display: none;">
+                    <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="images/exploreimages/portfolio/4.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/4.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
-                                        <p class="white">regular</p>
+                                        <p class="white">Branding, Design</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item premium spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
+                    <div class="nf-item branding spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/5.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/5.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Because there were</h5>
-                                        <p class="white">premium</p>
+                                        <p class="white">Branding, Design, Coffee</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item lowest spacing" style="position: absolute; left: 379px; top: 0px; display: none;">
+                    <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single5-slider.html">
-                                <img alt="1" src="images/exploreimages/portfolio/6.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/6.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Ran over her cheek</h5>
-                                        <p class="white">lowest</p>
+                                        <p class="white">Branding, Slider</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item regular spacing" style="position: absolute; left: 379px; top: 0px; display: none;">
+                    <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single6-video.html">
-                                <img alt="1" src="images/exploreimages/portfolio/7.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/7.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Oxmox advised her</h5>
-                                        <p class="white">regular</p>
+                                        <p class="white">Branding, Video</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item latest spacing" style="position: absolute; left: 0px; top: 479px;">
+                    <div class="nf-item coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single7-youtube.html">
-                                <img alt="1" src="images/exploreimages/portfolio/8.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/8.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Subline of her own road</h5>
-                                        <p class="white">latest</p>
+                                        <p class="white">Branding, Youtube</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item regular spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
+                    <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single8-vimeo.html">
-                                <img alt="1" src="images/exploreimages/portfolio/9.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/9.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">But the Little Blind</h5>
-                                        <p class="white">regular</p>
+                                        <p class="white">Branding, Vimeo</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item regular spacing" style="position: absolute; left: 0px; top: 270px; display: none;">
+                    <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/10.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/10.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Even the all-powerful</h5>
-                                        <p class="white">regular</p>
+                                        <p class="white">Branding, Design</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item lowest spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
+                    <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="images/exploreimages/portfolio/11.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/11.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Italic Mountains</h5>
-                                        <p class="white">lowest</p>
+                                        <p class="white">Branding, Coffee</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
 
-                    <div class="nf-item lowest spacing" style="position: absolute; left: 0px; top: 270px; display: none;">
+                    <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="images/exploreimages/portfolio/12.jpg" class="item-container">
+                                <img alt="1" src="img/portfolio/12.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">control about the blind</h5>
-                                        <p class="white">lowest</p>
+                                        <p class="white">Branding, Design</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
+
                 </div>
             </div>
 
