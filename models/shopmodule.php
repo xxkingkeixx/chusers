@@ -14,10 +14,11 @@
                     </ul>
                 </div>
                 <!-- End work Filter -->
+                
+        
                 <div class="row container-grid nf-col-3">
-                    
-
-
+            
+            
                     <div class="nf-item premium spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
@@ -31,6 +32,7 @@
                             </a>
                         </div>
                     </div>
+
 
                     <div class="nf-item lowest spacing">
                         <div class="item-box">
@@ -46,6 +48,7 @@
                         </div>
                     </div>
 
+
                     <div class="nf-item regular spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
@@ -59,6 +62,7 @@
                             </a>
                         </div>
                     </div>
+                
 
                     <div class="nf-item latest spacing">
                         <div class="item-box">
@@ -73,6 +77,7 @@
                             </a>
                         </div>
                     </div>
+                    
 
         </div>
         </div>
