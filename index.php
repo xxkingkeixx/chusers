@@ -83,7 +83,7 @@
 					<?php require 'models/feed.php' ?>
 						<footer class="major">
 							<ul class="actions">
-								<li><a href="#" class="button">Explore Avaliable Accounts</a></li>
+								<li><a href="/explore.php" class="button">Explore Avaliable Accounts</a></li>
 							</ul>
 						</footer>
 					</div>
