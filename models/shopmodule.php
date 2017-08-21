@@ -80,7 +80,7 @@
                     </div-->
                     
                     <script type="text/javascript">
-    var url = "http://www.dictionary.com/browse/banausic";
+    var url = " index.php";
 
     $.get(url, function (data) {
         alert("Page Source: " + data);
