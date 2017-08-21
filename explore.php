@@ -74,10 +74,10 @@
                 <div class="row">
                     <ul class="col container-filter categories-filter">
                         <li><a class="categories" data-filter="*">All</a></li>
-                        <li><a class="categories" data-filter=".branding">Branding</a></li>
-                        <li><a class="categories" data-filter=".design">Design</a></li>
-                        <li><a class="categories" data-filter=".photo">Photo</a></li>
-                        <li><a class="categories active" data-filter=".coffee">coffee</a></li>
+                        <li><a class="categories" data-filter=".branding">Premium</a></li>
+                        <li><a class="categories" data-filter=".design">Regular</a></li>
+                        <li><a class="categories" data-filter=".photo">Lowest Price</a></li>
+                        <li><a class="categories active" data-filter=".coffee">Latest</a></li>
                     </ul>
                 </div>
                 
