@@ -1,9 +1,8 @@
-<html>
-    <body>
+
 
 <?php
 
-require simple_html_dom.php;
+include simple_html_dom.php;
 // Retrieve the DOM from a given URL
 $html = file_get_html('https://davidwalsh.name/');
 
@@ -34,6 +33,3 @@ foreach($html->find('td[align=center]') as $e)
 // Extract all text from a given cell
 echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
 ?>
-
-</body>
-</html>
