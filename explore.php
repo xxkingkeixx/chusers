@@ -80,6 +80,7 @@
                         <li><a class="categories active" data-filter=".coffee">coffee</a></li>
                     </ul>
                 </div>
+                
                 <!-- End work Filter -->
                 <div class="row container-grid nf-col-3" style="position: relative; height: 718.8px;">
 
@@ -259,35 +260,6 @@
         </section>
         <!-- End Work Section -->
 
-        <!-- Testimonials -->
-        <section id="testimonial" class="pb pb-sm-80">
-            <div class="container">
-                <div class="owl-carousel testimonial-carousel nf-carousel-theme owl-theme" style="opacity: 1; display: block;">
-                    <div class="owl-wrapper-outer autoHeight" style="height: 202px;"><div class="owl-wrapper" style="width: 1824px; left: 0px; display: block; transition: all 1000ms ease; transform: translate3d(0px, 0px, 0px);"><div class="owl-item" style="width: 304px;"><div class="item">
-                        <div class="testimonial text-center dark-color">
-                            <div class="container-icon"><i class="fa fa-quote-right"></i></div>
-                            <p class="lead">" I got a dummy for Christmas and started teaching myself. I got books and records and sat in front of the practising. I did my first show in the third grade and just kept going. "</p>
-                            <h6 class="quote-author">Jeff Dunham <span style="font-weight: 400;">( Appel Studio )</span></h6>
-                        </div>
-                    </div></div><div class="owl-item" style="width: 304px;"><div class="item">
-                        <div class="testimonial text-center dark-color">
-                            <div class="container-icon"><i class="fa fa-quote-right"></i></div>
-                            <p class="lead">" It's true, you can never eat a pet you name. And anyway, I did my first show in the third grade it would be like a ventriloquist eating his dummy. "</p>
-                            <h6 class="quote-author">Alexander Theroux <span style="font-weight: 400;">( USA )</span></h6>
-                        </div>
-                    </div></div><div class="owl-item" style="width: 304px;"><div class="item">
-                        <div class="testimonial text-center dark-color">
-                            <div class="container-icon"><i class="fa fa-quote-right"></i></div>
-                            <p class="lead">" We're not leaving here without Buster, man. Leave no crash-test dummy behind! "</p>
-                            <h6 class="quote-author">Adam Savage <span style="font-weight: 400;">( Artist )</span></h6>
-                        </div>
-                    </div></div></div></div>
-                    
-                    
-                <div class="owl-controls"><div class="owl-pagination"><div class="owl-page active"><span class=""></span></div><div class="owl-page"><span class=""></span></div><div class="owl-page"><span class=""></span></div></div></div></div>
-            </div>
-        </section>
-        <!-- End Testimonials -->
         <div class="spacer-60"></div>
         <!-- END CONTENT ---------------------------------------------------------------------------->
 
