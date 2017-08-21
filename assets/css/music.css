@@ -18,7 +18,7 @@
 #musicplayer img {
     position: fixed;
     top:90%;
-    left:1.5%;
+    left:1.75%;
     width: 35px;
     padding: 5px 5px 5px 5px;
 }
@@ -31,8 +31,8 @@
     padding: 5px 5px 5px 5px;
     overflow: hidden;
     position: fixed;
-    top:89%;
-    left:1%;
+    top:90%;
+    left:1.75%;
     text-align: center;
     background: #; /* player background */
     border-left: 1px solid #; /* player border */
