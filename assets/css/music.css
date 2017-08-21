@@ -1,9 +1,6 @@
-
-/*MUSIC PLAYER*/
- 
 #musicplayer {
     position: fixed;
-    z-index: 99999999900000000000000000009;
+    z-index: 999999;
     bottom:20px;
     margin-left: 10px;
     width: 31px;
@@ -19,7 +16,6 @@
 }
  
 #musicplayer img {
-    z-index:9999999999;
     width: 17px;
     padding: 8px 0px 0px 8px;
 }
@@ -47,7 +43,7 @@
 }
  
 .play {
-    z-index: 99999999999;
+    z-index: 9999;
     left: 300px; /*move the player side to side*/
     width: 30px;
     height: 30px;
