@@ -80,7 +80,6 @@
 						
 						
 					</div>
-					<?php require 'models/music.php' ?>
 					<?php require 'models/feed.php' ?>
 						<footer class="major">
 							<ul class="actions">
@@ -92,3 +91,4 @@
 
 <?php require 'models/disqus.php' ?>
 <?php require 'models/footer.php' ?>
+					<?php require 'models/music.php' ?>
