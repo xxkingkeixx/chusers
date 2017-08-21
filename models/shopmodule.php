@@ -39,7 +39,7 @@
                                 <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Rethoric question ran over</h5>
+                                        <h5 class="white">Example</h5>
                                         <p class="white">regular</p>
                                     </div>
                                 </div>
@@ -55,7 +55,7 @@
                                 <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Bookmarksgrove right at</h5>
+                                        <h5 class="white">Example</h5>
                                         <p class="white">lowest</p>
                                     </div>
                                 </div>
@@ -71,7 +71,7 @@
                                 <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Subline of her own road</h5>
+                                        <h5 class="white">Example</h5>
                                         <p class="white">latest</p>
                                     </div>
                                 </div>
