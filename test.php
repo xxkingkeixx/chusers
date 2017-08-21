@@ -3,33 +3,33 @@
 <?php
 
 include simple_html_dom.php;
-// Retrieve the DOM from a given URL
-$html = file_get_html('https://davidwalsh.name/');
 
-// Find all "A" tags and print their HREFs
-foreach($html->find('a') as $e) 
-    echo $e->href . '<br>';
+error_reporting(E_ALL); 
+//base url
+$base = 'https://play.google.com/store/apps';
 
-// Retrieve all images and print their SRCs
-foreach($html->find('img') as $e)
-    echo $e->src . '<br>';
+$curl = curl_init();
+curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, FALSE);
+curl_setopt($curl, CURLOPT_HEADER, false);
+curl_setopt($curl, CURLOPT_FOLLOWLOCATION, true);
+curl_setopt($curl, CURLOPT_URL, $base);
+curl_setopt($curl, CURLOPT_REFERER, $base);
+curl_setopt($curl, CURLOPT_RETURNTRANSFER, TRUE);
+$str = curl_exec($curl);
+curl_close($curl);
 
-// Find all images, print their text with the "<>" included
-foreach($html->find('img') as $e)
-    echo $e->outertext . '<br>';
+// Create a DOM object
+$html_base = new simple_html_dom();
+// Load HTML from a string
+$html_base->load($str);
 
-// Find the DIV tag with an id of "myId"
-foreach($html->find('div#myId') as $e)
-    echo $e->innertext . '<br>';
+//get all category links
+foreach($html_base->find('a') as $element) {
+    echo "<pre>";
+    print_r( $element->href );
+    echo "</pre>";
+}
 
-// Find all SPAN tags that have a class of "myClass"
-foreach($html->find('span.myClass') as $e)
-    echo $e->outertext . '<br>';
-
-// Find all TD tags with "align=center"
-foreach($html->find('td[align=center]') as $e)
-    echo $e->innertext . '<br>';
-    
-// Extract all text from a given cell
-echo $html->find('td[align="center"]', 1)->plaintext.'<br><hr>';
+$html_base->clear(); 
+unset($html_base);
 ?>
