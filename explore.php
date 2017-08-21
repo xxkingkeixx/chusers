@@ -41,16 +41,19 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color">Chatangu.tk</span> The biggest<br />
-                            repository of Chatango accounts.
+                            <span class="color">Chatangu.tk.</span> The biggest<br />
+                            repository of Chatango accounts
                         </h2>
                     </div>
                 </div>
             </div>
         </section>
         <!-- End About Section -->
+        
  <?php require 'models/shopmodule.php' ?>
+ 
         <!-- End Work Section -->
+    
 
         <div class="spacer-60"></div>
         <!-- END CONTENT ---------------------------------------------------------------------------->
