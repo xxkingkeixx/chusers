@@ -13,13 +13,13 @@
     <link rel="apple-touch-icon" href="img/favicon.png">
 
     <!-- CSS -->
-    <link href="css/style.css" rel="stylesheet" type="text/css">
-    <link href="css/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/font-awesome.css" rel="stylesheet" type="text/css">
-    <link href="css/ionicons.css" rel="stylesheet" type="text/css">
-    <link href="css/plugin/sidebar-menu.css" rel="stylesheet" type="text/css">
-    <link href="css/plugin/animate.css" rel="stylesheet" type="text/css">
-    <link href="css/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/style.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/ionicons.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/plugin/sidebar-menu.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/plugin/animate.css" rel="stylesheet" type="text/css">
+    <link href="css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css">
 
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
 
@@ -107,7 +107,7 @@
                                         <a class="close-cart-list"><i class="fa fa-times-circle"></i></a>
                                         <div class="media">
                                             <a class="pull-left">
-                                                <img src="img/product/02.jpg" alt="fashion"></a>
+                                                <img src="images/exploreimages/product/02.jpg" alt="fashion"></a>
                                             <div class="media-body">
                                                 <h6><a>Fashion Model New /01</a></h6>
                                                 <p>$399.00</p>
@@ -118,7 +118,7 @@
                                         <a class="close-cart-list"><i class="fa fa-times-circle"></i></a>
                                         <div class="media">
                                             <a class="pull-left">
-                                                <img src="img/product/06.jpg" alt="fashion"></a>
+                                                <img src="images/exploreimages/product/06.jpg" alt="fashion"></a>
                                             <div class="media-body">
                                                 <h6><a>Fashion Model New /02</a></h6>
                                                 <p>$399.00</p>
@@ -409,7 +409,7 @@
             <div class="flexslider fullscreen-carousel hero-slider-1 ">
                 
             <div class="flex-viewport" style="overflow: hidden; position: relative;"><ul class="slides" style="width: 1200%; transition-duration: 0.7s; transform: translate3d(-1336px, 0px, 0px);"><li data-slide="dark-slide" class="clone" aria-hidden="true" style="width: 334px; float: left; display: block;">
-                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="img/full/18.jpg" style="background-image: url(&quot;img/full/18.jpg&quot;); top: 0px;">
+                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="images/exploreimages/full/18.jpg" style="background-image: url(&quot;images/exploreimages/full/18.jpg&quot;); top: 0px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 80px; display: none;">
@@ -423,7 +423,7 @@
 
                     <!--Slide-->
                     <li data-slide="light-slide" style="width: 334px; float: left; display: block;" class="">
-                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="img/full/11.jpg" style="background-image: url(&quot;img/full/11.jpg&quot;); top: 388.4px;">
+                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="images/exploreimages/full/11.jpg" style="background-image: url(&quot;images/exploreimages/full/11.jpg&quot;); top: 388.4px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 80px; display: none;">
@@ -437,7 +437,7 @@
 
                     <!--Slide-->
                     <li data-slide="dark-slide" style="width: 334px; float: left; display: block;" class="">
-                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="img/full/20.jpg" style="background-image: url(&quot;img/full/20.jpg&quot;); top: 388.4px;">
+                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="images/exploreimages/full/20.jpg" style="background-image: url(&quot;images/exploreimages/full/20.jpg&quot;); top: 388.4px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 80px; display: none;">
@@ -453,7 +453,7 @@
 
                     <!--Slide-->
                     <li data-slide="light-slide" style="width: 334px; float: left; display: block;" class="">
-                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="img/full/02.jpg" style="background-image: url(&quot;img/full/02.jpg&quot;); top: 388.4px;">
+                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="images/exploreimages/full/02.jpg" style="background-image: url(&quot;images/exploreimages/full/02.jpg&quot;); top: 388.4px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 80px; display: none;">
@@ -469,7 +469,7 @@
 
                     <!--Slide-->
                     <li data-slide="dark-slide" style="width: 334px; float: left; display: block;" class="flex-active-slide">
-                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="img/full/18.jpg" style="background-image: url(&quot;img/full/18.jpg&quot;); top: 388.4px;">
+                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="images/exploreimages/full/18.jpg" style="background-image: url(&quot;images/exploreimages/full/18.jpg&quot;); top: 388.4px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 0px; display: table-cell;">
@@ -482,7 +482,7 @@
                     </li>
 
                 <li data-slide="light-slide" style="width: 334px; float: left; display: block;" class="clone" aria-hidden="true">
-                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="img/full/11.jpg" style="background-image: url(&quot;img/full/11.jpg&quot;); top: 0px;">
+                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="images/exploreimages/full/11.jpg" style="background-image: url(&quot;images/exploreimages/full/11.jpg&quot;); top: 0px;">
                             <div class="js-Slide-fullscreen-height container" style="height: 400px;">
                                 <div class="intro-content">
                                     <div class="intro-content-inner" style="top: 80px; display: none;">
@@ -533,7 +533,7 @@
                     <div class="nf-item branding coffee spacing" style="position: absolute; left: 0px; top: 0px;">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/1.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Consequat massa quis</h5>
@@ -547,7 +547,7 @@
                     <div class="nf-item photo spacing" style="position: absolute; left: 0px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="img/portfolio/2.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/2.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Bookmarksgrove right at</h5>
@@ -561,7 +561,7 @@
                     <div class="nf-item branding coffee spacing" style="position: absolute; left: 0px; top: 239px;">
                         <div class="item-box">
                             <a href="portfolio-single3.html">
-                                <img alt="1" src="img/portfolio/3.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/3.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">A small river named</h5>
@@ -577,7 +577,7 @@
                     <div class="nf-item design spacing" style="position: absolute; left: 0px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="img/portfolio/4.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/4.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
@@ -591,7 +591,7 @@
                     <div class="nf-item branding spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/5.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/5.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Because there were</h5>
@@ -605,7 +605,7 @@
                     <div class="nf-item photo spacing" style="position: absolute; left: 379px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single5-slider.html">
-                                <img alt="1" src="img/portfolio/6.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/6.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Ran over her cheek</h5>
@@ -619,7 +619,7 @@
                     <div class="nf-item design spacing" style="position: absolute; left: 379px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single6-video.html">
-                                <img alt="1" src="img/portfolio/7.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/7.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Oxmox advised her</h5>
@@ -633,7 +633,7 @@
                     <div class="nf-item coffee spacing" style="position: absolute; left: 0px; top: 479px;">
                         <div class="item-box">
                             <a href="portfolio-single7-youtube.html">
-                                <img alt="1" src="img/portfolio/8.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/8.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Subline of her own road</h5>
@@ -647,7 +647,7 @@
                     <div class="nf-item design spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single8-vimeo.html">
-                                <img alt="1" src="img/portfolio/9.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/9.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">But the Little Blind</h5>
@@ -661,7 +661,7 @@
                     <div class="nf-item design spacing" style="position: absolute; left: 0px; top: 270px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/10.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/10.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Even the all-powerful</h5>
@@ -675,7 +675,7 @@
                     <div class="nf-item photo spacing" style="position: absolute; left: 759px; top: 0px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="img/portfolio/11.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/11.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Italic Mountains</h5>
@@ -689,7 +689,7 @@
                     <div class="nf-item photo spacing" style="position: absolute; left: 0px; top: 270px; display: none;">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="img/portfolio/12.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/12.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">control about the blind</h5>
