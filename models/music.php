@@ -1,4 +1,4 @@
-<?php echo '
+<?php echo '<link rel="stylesheet" href="assets/css/music.css" />
 
 
 
