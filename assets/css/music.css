@@ -1,7 +1,7 @@
 #musicplayer {
     position: fixed;
-    top:86%;
-    left:1%;
+    top:80%;
+    left:0%;
     z-index: 999999;
     width: 30px;
     height: 30px;
