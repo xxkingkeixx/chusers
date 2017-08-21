@@ -43,31 +43,7 @@
     </div>
     <!-- End Search Overlay Menu -->
 
-    <!-- Sidemenu -->
-    <section id="pushmenu-right" class="pushmenu pushmenu-right side-menu">
-        <a id="menu-sidebar-close-icon" class="menu-close"><i class="ion ion-android-close"></i></a>
-        <h5 class="white">Sign In</h5>
-        <div class="sign-in">
-            <input class="input-sm form-full" type="email" aria-required="true" id="email" name="email" placeholder="Email" value="">
-            <input class="input-sm form-full" type="password" aria-required="true" id="password" name="password" placeholder="Password" value="">
-            <input type="submit" class="btn btn-md btn-color-b form-full" value="Sign In">
-            <a>New Customer?</a>
-        </div>
-        <ul>
-            <li><a class="all-demos-link" target="_blank" href="../demo.html">Main Demo Page</a></li>
-            <li><a href="home.html">Home Default</a></li>
-            <li><a href="portfolio-grid-2col.html">Portfolio</a></li>
-            <li><a href="login-register.html">Login &amp; Signup</a></li>
-            <li><a href="faq-1.html">FAQ</a></li>
-            <li><a href="about-1.html">About</a></li>
-            <li><a href="service-1.html">Service</a></li>
-            <li><a href="blog-grid-3col.html">Blog</a></li>
-            <li><a href="404-error-1.html">404 Error</a></li>
-            <li><a href="shop-checkout.html">Shopping Cart</a></li>
-            <li><a href="contact-1.html">Contact Us</a></li>
-        </ul>
-    </section>
-    <!--End Sidemenu -->
+
 
     <!-- Site Wraper -->
     <div class="wrapper">
