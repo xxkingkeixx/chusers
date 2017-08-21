@@ -3,7 +3,7 @@
  
 #musicplayer {
     position: fixed;
-    z-index: 999999;
+    z-index: 99999999999999999;
     bottom:20px;
     margin-left: 10px;
     width: 31px;
