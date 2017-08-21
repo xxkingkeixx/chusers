@@ -130,7 +130,25 @@
     <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Angora - $1</h5><p class="white">lowest</p>
-                </div></div></a></div></div>                
+                </div></div></a></div></div>
+                
+<div class="nf-item regular spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Anticyclone - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item regular spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Armchair - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div> 
+                
+<div class="nf-item regular spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Armrest - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>  
                 
                 <!-------------------------------------------------------------------------- A -------------------------------------------------------------------------->
                 
