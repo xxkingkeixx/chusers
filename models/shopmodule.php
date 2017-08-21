@@ -79,13 +79,7 @@
                         </div>
                     </div-->
                     
-                    <script type="text/javascript">
-    var url = " index.php";
-
-    $.get(url, function (data) {
-        alert("Page Source: " + data);
-    });
-</script>
+                   
                     
 
         </div>
