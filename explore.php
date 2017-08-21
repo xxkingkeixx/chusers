@@ -3,7 +3,7 @@
 <html>
 <head>
     <meta charset="utf-8" />
-    <title>Mazel - Multiprapose Html template</title>
+    <title>Explore</title>
     <meta name="description" content="" />
     <meta name="keywords" content="" />
     <meta name="author" content="nileforest">
