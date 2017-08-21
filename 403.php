@@ -19,12 +19,11 @@
 <head>
  
 <title>Error 403</title>
-<link rel="shortcut icon" href="FAVICON URL">
+<link rel="shortcut icon" href="http://i.imgur.com/1b26JQf.png">
 
  
 <style type="text/css">
 
-<style>
 
 body{
 background-image: url('http://i66.tinypic.com/2dqm6g6.png') !important; background-repeat;repeat !important; 
@@ -63,7 +62,7 @@ h2 {
 </style> 
 
 
-<h1>Error 403: Page Not Found</h1>
+<h1>Error 403: Page Forbidden</h1>
 
 
 <h2>
