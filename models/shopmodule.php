@@ -1,5 +1,7 @@
 <?php echo '
 
+<title>Explore</title>
+
   <!-- Work Section -->
         <section class="ptb ptb-sm-80">
             <div class="container">
