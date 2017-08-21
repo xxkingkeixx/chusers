@@ -24,7 +24,7 @@
                                 <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Consequat massa quis</h5>
+                                        <h5 class="white">Abut</h5>
                                         <p class="white">premium</p>
                                     </div>
                                 </div>
