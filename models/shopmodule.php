@@ -102,17 +102,35 @@
             <h5 class="white">Albany - $10</h5><p class="white">premium</p>
                 </div></div></a></div></div>
 
-<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
-    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
-        <div class="item-mask"><div class="item-caption">
-            <h5 class="white">Amatory - $1</h5><p class="white">premium</p>
-                </div></div></a></div></div>
-
 <div class="nf-item lowest spacing"><div class="item-box"><a href="#lowest">
     <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Amatory - $1</h5><p class="white">lowest</p>
                 </div></div></a></div></div>
+                
+<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Amazons - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Anagram - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item lowest spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Anglian - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item lowest spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Angora - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>                
                 
                 <!-------------------------------------------------------------------------- A -------------------------------------------------------------------------->
                 
