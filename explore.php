@@ -68,7 +68,7 @@
         <!-- End About Section -->
 
        <!-- Work Section -->
-        <section class="ptb ptb-sm-80">
+       
             <div class="container">
                 <!-- work Filter -->
                 <div class="row">
@@ -256,7 +256,7 @@
                 </div>
             </div>
 
-        </section>
+      
         <!-- End Work Section -->
 
         <div class="spacer-60"></div>
