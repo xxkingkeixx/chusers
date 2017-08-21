@@ -5,7 +5,10 @@
     margin-left: 10px;
     width: 31px;
     height: 31px;
-    border-color:#;
+    -webkit-border-radius: 0%;
+    -moz-border-radius: 0%;
+    border-radius: 0%;
+    border-color:#1a1b24;
     -webkit-transition: all .7s ease;
     -moz-transition: all .7s ease;
     -o-transition: all .7s ease;
