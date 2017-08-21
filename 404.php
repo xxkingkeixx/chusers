@@ -43,7 +43,7 @@ h1 {
   font-size: 30px;
   color:#fff;
   font-family: sans-serif;
-  padding-bottom:20px;
+  padding-bottom:10px;
   padding-top:50px;
 }
 
