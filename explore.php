@@ -94,7 +94,7 @@
                 
                 <div class="row container-grid nf-col-5"> <!--how many in a row number-->       
         
- <?php require 'models/shopmoduleabc.php' ?>
+ <?php require 'models/shopmodule.php' ?>
 
         </div>
         </div>
