@@ -16,7 +16,7 @@
                 <!-- End work Filter -->
                 
         
-                <div class="row container-grid nf-col-3">
+                <div class="row container-grid nf-col-4">
             
             
                     <div class="nf-item premium spacing">
