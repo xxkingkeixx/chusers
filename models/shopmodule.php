@@ -40,6 +40,8 @@
                         <li><a class="categories" data-filter=".premium">premium</a></li>
                         <li><a class="categories" data-filter=".regular">regular</a></li>
                         <li><a class="categories" data-filter=".lowest">lowest</a></li>
+                        <li><a class="categories" data-filter=".a">a</a></li>
+                        <li><a class="categories" data-filter=".b">b</a></li>
                     </ul>
                 </div>
                 
@@ -48,25 +50,25 @@
                 <!------------------------------------------------------------------ START SHOP MODULE ------------------------------------------------------------------>
                 <!-------------------------------------------------------------------------- A -------------------------------------------------------------------------->
 
-<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
     <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Abut - $10</h5><p class="white">premium</p>
                 </div></div></a></div></div>
 
-<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
     <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Accompanied - $10</h5><p class="white">premium</p>
                 </div></div></a></div></div>
 
-<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
     <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Accurately - $10</h5><p class="white">premium</p>
                 </div></div></a></div></div>
                                     
-<div class="nf-item premium spacing"><div class="item-box"><a href="#premium">
+<div class="nf-item premium b spacing"><div class="item-box"><a href="#premium">
     <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
         <div class="item-mask"><div class="item-caption">
             <h5 class="white">Acquitting - $10</h5><p class="white">premium</p>
