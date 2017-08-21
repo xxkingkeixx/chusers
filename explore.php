@@ -80,11 +80,11 @@
                         <li><a class="categories active" data-filter=".latest">Latest</a></li>
                     </ul>
                 </div>
-                
                 <!-- End work Filter -->
-                <div class="row container-grid nf-col-3" style="position: relative; height: 718.8px;">
+                
 
-                    <div class="nf-item premium latest spacing" style="position: absolute; left: 0px; top: 0px;">
+                <div class="row container-grid nf-col-3" style="position: relative; height: 718.8px;">
+                    <div class="nf-item premium spacing" style="position: absolute; left: 0px; top: 0px;">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
                                 <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
@@ -112,7 +112,7 @@
                         </div>
                     </div>
 
-                    <div class="nf-item premium latest spacing" style="position: absolute; left: 0px; top: 239px;">
+                    <div class="nf-item latest spacing" style="position: absolute; left: 0px; top: 239px;">
                         <div class="item-box">
                             <a href="portfolio-single3.html">
                                 <img alt="1" src="images/exploreimages/portfolio/3.jpg" class="item-container">
