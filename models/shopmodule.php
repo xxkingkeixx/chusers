@@ -15,9 +15,8 @@
                 </div>
                 <!-- End work Filter -->
                 
-        
-                <div class="row container-grid nf-col-4">
-            
+         
+                <div class="row container-grid nf-col-4"> <!--how many in a row number-->
             
                     <div class="nf-item premium spacing">
                         <div class="item-box">

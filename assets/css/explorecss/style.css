@@ -973,12 +973,12 @@ form label.error {
     }
 
     .ptb-sm-80 {
-        padding-top: 80px;
-        padding-bottom: 80px;
+        padding-top: 50px;
+        padding-bottom: 50px;
     }
 
     .pb-sm-80 {
-        padding-bottom: 80px;
+        padding-bottom: 50px;
     }
 
     .pt-sm-80 {
