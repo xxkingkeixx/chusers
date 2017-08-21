@@ -7,10 +7,6 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
 <link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon">
-
-
-
-
 </head>
 
 <<!DOCTYPE html>
@@ -18,11 +14,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
 <head>
  
-<title>Error 404</title>
-<link rel="shortcut icon" href="FAVICON URL">
-
  
+<title>Error 404</title>
+<link rel="shortcut icon" href="http://i.imgur.com/1b26JQf.png">
 <style type="text/css">
+
+
+body{
+background-image: url('http://i66.tinypic.com/2dqm6g6.png') !important; background-repeat;repeat !important; 
+background-position:left!important;
+width: 100%;
+height: 100%;
+background-size: 100% 100%;
+background-repeat:repeat;
+background-attachment:fixed;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
 
   body {
   padding-top: 200px;
@@ -34,18 +42,26 @@
 h1 {
   font-size: 30px;
   color:#fff;
-  font-family: verdana;
+  font-family: sans-serif;
+  padding-bottom:20px;
+  padding-top:50px;
 }
 
 h2 {
   font-size: 20px;
-  font-family: tahoma;
+  font-family: sans-serif;
   color:#fff;
 }
 
-</style>
+
+</style> 
+
+<!--- TAB TITLE CODE --->
+<script language=javascript>document.title=("Error404: Page Not Found")</script>
+
 
 <h1>Error 404: Page Not Found</h1>
+
 
 <h2>
 Oops! We couldn't find that page,
