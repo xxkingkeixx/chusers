@@ -1,4 +1,5 @@
 <?php echo '
+
   <!-- Work Section -->
         <section class="ptb ptb-sm-80">
             <div class="container">
@@ -15,8 +16,6 @@
                 <!-- End work Filter -->
                 <div class="row container-grid nf-col-3">
                     
-                    
-                   
 
 
                     <div class="nf-item premium spacing">
