@@ -63,11 +63,13 @@ h2 {
 Oops! We couldn't find that page,
 <br>
 please return to the main site.
-</h2>
 
+
+<center>
 <a href="http://chatangu.tk/">
-  <img src="http://i.imgur.com/QLlgDh6.png" width="100">
+  <img src="http://i.imgur.com/QLlgDh6.png" width="50">
 </a>
+</h2>
 
 </body>
 </html>
