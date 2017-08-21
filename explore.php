@@ -29,7 +29,7 @@
         </div>
     </section>
     <!-- End Preloader -->
-    <div> <?php require 'parse.php' ?></div>
+
 
 
     <!-- Site Wraper -->

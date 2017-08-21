@@ -2,7 +2,7 @@
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
 <?php require 'db.php' ?>
-<?php require 'parse.php' ?>
+
 			<!-- Banner -->
 				<section id="banner">
 					<div class="content">
