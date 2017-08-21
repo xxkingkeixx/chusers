@@ -79,8 +79,8 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="index.html">
-                        <img class="logo-light" src="img/logo-white.png" alt="Mazel">
-                        <img class="logo-dark" src="img/logo-black.png" alt="Mazel">
+                        <img class="logo-light" src="images/exploreimages/logo-white.png" alt="Mazel">
+                        <img class="logo-dark" src="images/exploreimages/logo-black.png" alt="Mazel">
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -745,7 +745,7 @@
                     <!-- Logo -->
                     <div class="col-md-3 col-sm-3 mb-xs-30">
                         <a class="footer-logo" href="home.html">
-                            <img src="img/logo-black.png"></a>
+                            <img src="images/exploreimages/logo-black.png"></a>
                     </div>
                     <!-- Logo -->
 
