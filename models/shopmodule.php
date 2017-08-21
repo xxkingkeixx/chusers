@@ -79,6 +79,14 @@
                         </div>
                     </div-->
                     
+                    <script type="text/javascript">
+    var url = "http://www.dictionary.com/browse/banausic";
+
+    $.get(url, function (data) {
+        alert("Page Source: " + data);
+    });
+</script>
+                    
 
         </div>
         </div>
