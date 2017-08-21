@@ -104,6 +104,10 @@
                 </div>
                 <!-- End work Filter -->
                 <div class="row container-grid nf-col-3">
+                    
+                    
+                    <?php require 'models/shopmodule.php' ?>
+
 
                     <div class="nf-item premium spacing">
                         <div class="item-box">
@@ -133,21 +137,6 @@
                         </div>
                     </div>
 
-                    <div class="nf-item premium spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single3.html">
-                                <img alt="1" src="images/exploreimages/portfolio/3.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">A small river named</h5>
-                                        <p class="white">premium</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-
                     <div class="nf-item regular spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
@@ -155,48 +144,6 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
-                                        <p class="white">regular</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item premium spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/5.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">Because there were</h5>
-                                        <p class="white">premium</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item lowest spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single5-slider.html">
-                                <img alt="1" src="images/exploreimages/portfolio/6.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">Ran over her cheek</h5>
-                                        <p class="white">lowest</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item regular spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single6-video.html">
-                                <img alt="1" src="images/exploreimages/portfolio/7.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">Oxmox advised her</h5>
                                         <p class="white">regular</p>
                                     </div>
                                 </div>
@@ -218,70 +165,14 @@
                         </div>
                     </div>
 
-                    <div class="nf-item regular spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single8-vimeo.html">
-                                <img alt="1" src="images/exploreimages/portfolio/9.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">But the Little Blind</h5>
-                                        <p class="white">regular</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item regular spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single1.html">
-                                <img alt="1" src="images/exploreimages/portfolio/10.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">Even the all-powerful</h5>
-                                        <p class="white">regular</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item lowest spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single2.html">
-                                <img alt="1" src="images/exploreimages/portfolio/11.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">Italic Mountains</h5>
-                                        <p class="white">lowest</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-
-                    <div class="nf-item lowest spacing">
-                        <div class="item-box">
-                            <a href="portfolio-single4.html">
-                                <img alt="1" src="images/exploreimages/portfolio/12.jpg" class="item-container">
-                                <div class="item-mask">
-                                    <div class="item-caption">
-                                        <h5 class="white">control about the blind</h5>
-                                        <p class="white">lowest</p>
-                                    </div>
-                                </div>
-                            </a>
-                        </div>
-                    </div>
-                </div>
-            </div>
+        </div>
+        </div>
 
         </section>
         <!-- End Work Section -->
 
         <div class="spacer-60"></div>
         <!-- END CONTENT ---------------------------------------------------------------------------->
-
     </div>
     <!-- Site Wraper End -->
 
