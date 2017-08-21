@@ -40,6 +40,7 @@
                         <li><a class="categories" data-filter=".premium">premium</a></li>
                         <li><a class="categories" data-filter=".regular">regular</a></li>
                         <li><a class="categories" data-filter=".lowest">lowest</a></li>
+                        <br>
                         <li><a class="categories" data-filter=".a">a</a></li>
                         <li><a class="categories" data-filter=".b">b</a></li>
                     </ul>
