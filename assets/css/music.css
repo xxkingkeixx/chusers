@@ -5,15 +5,14 @@
     z-index: 999999;
     width: 31px;
     height: 31px;
-    -webkit-border-radius: 0%;
-    -moz-border-radius: 0%;
-    border-radius: 0%;
-    border-color:#1a1b24;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    border-left:0px;
     -webkit-transition: all .7s ease;
     -moz-transition: all .7s ease;
     -o-transition: all .7s ease;
     transition: all .7s ease;
-    opacity:0;
 }
  
 #musicplayer img {
@@ -21,15 +20,15 @@
     top:91%;
     left:1.5%;
     width: 40px;
-    padding: 8px 8px 8px 8px;
+    padding: 5px 5px 5px 5px;
 }
  
  
 .play {
     z-index: 9999;
     left: 300px; /*move the player side to side*/
-    width: 30px;
-    height: 30px;
+    width: 35px;
+    height: 35px;
     padding: 5px 5px 5px 5px;
     overflow: hidden;
     position: fixed;
