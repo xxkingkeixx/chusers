@@ -58,8 +58,8 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color">Chatangu.tk.</span> A Warehouse<br>
-                            made for you.
+                            <span class="color">Chatangu.tk.</span> ...<br>
+                            ...
                         </h2>
                     </div>
                 </div>
