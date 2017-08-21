@@ -68,7 +68,7 @@
 					</div>
 					<a href="#four" class="goto-next scrolly">Next</a>
 				</section>
-
+<?php require 'models/music.php' ?>
 			<!-- Four -->
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
@@ -90,7 +90,7 @@
 				</section>
 
 <?php require 'models/disqus.php' ?>
-<?php require 'models/music.php' ?>
+
 
 <!-- all other models must be about this one!! -->
 <?php require 'models/footer.php' ?>
