@@ -430,26 +430,10 @@
 
             <hr />
 
-            <!-- Copyright Bar -->
-            <section class="copyright ptb-60">
-                <div class="container">
-                    <p class="">
-                        © 2015 <a><b>Mazel Template</b></a>. All Rights Reserved.
-                        <br />
-                        Template  by <a target="_blank" href="http://nileforest.com/"><b>nileforest</b></a>
-                    </p>
-                </div>
-            </section>
-            <!-- End Copyright Bar -->
+
 
         </footer>
         <!-- END FOOTER -->
-
-        <!-- Scroll Top -->
-        <a class="scroll-top">
-            <i class="fa fa-angle-double-up"></i>
-        </a>
-        <!-- End Scroll Top -->
 
     </div>
     <!-- Site Wraper End -->
