@@ -10,7 +10,7 @@
                         <li><a class="categories" data-filter=".premium">premium</a></li>
                         <li><a class="categories" data-filter=".regular">regular</a></li>
                         <li><a class="categories" data-filter=".lowest">lowest</a></li>
-                        <li><a class="categories" data-filter=".latest">latest</a></li>
+                        <!--li><a class="categories" data-filter=".latest">latest</a></li-->
                     </ul>
                 </div>
                 <!-- End work Filter -->
@@ -65,7 +65,7 @@
 
 
 
-                    <div class="nf-item latest spacing">
+                    <!--div class="nf-item latest spacing">
                         <div class="item-box">
                             <a href="portfolio-single7-youtube.html">
                                 <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
@@ -77,7 +77,7 @@
                                 </div>
                             </a>
                         </div>
-                    </div>
+                    </div-->
                     
 
         </div>
