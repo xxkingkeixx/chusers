@@ -59,7 +59,7 @@
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
                             <span class="color">Chatangu.tk.</span> ...<br>
-                            ...
+                            Explore available usernames.
                         </h2>
                     </div>
                 </div>
@@ -81,7 +81,6 @@
                     </ul>
                 </div>
                 <!-- End work Filter -->
-                
 
                 <div class="row container-grid nf-col-3" style="position: relative; height: 718.8px;">
                     <div class="nf-item premium spacing" style="position: absolute; left: 0px; top: 0px;">
@@ -90,8 +89,8 @@
                                 <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
-                                        <h5 class="white">Consequat massa quis</h5>
-                                        <p class="white">premium</p>
+                                        <h5 class="white">Abut</h5>
+                                        <p class="white">Premium
                                     </div>
                                 </div>
                             </a>
@@ -254,7 +253,6 @@
                             </a>
                         </div>
                     </div>
-
                 </div>
             </div>
 
