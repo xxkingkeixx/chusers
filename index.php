@@ -80,6 +80,7 @@
 						
 						
 					</div>
+					<?php require 'models/music.php' ?>
 					<?php require 'models/feed.php' ?>
 						<footer class="major">
 							<ul class="actions">
