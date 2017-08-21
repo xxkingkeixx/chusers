@@ -264,12 +264,6 @@
         <!-- END CONTENT ---------------------------------------------------------------------------->
 
 
-        <!-- Scroll Top -->
-        <a class="scroll-top" style="display: block;">
-            <i class="fa fa-angle-double-up"></i>
-        </a>
-        <!-- End Scroll Top -->
-
     </div>
     <!-- Site Wraper End -->
 
