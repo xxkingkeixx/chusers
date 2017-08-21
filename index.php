@@ -90,5 +90,6 @@
 				</section>
 
 <?php require 'models/disqus.php' ?>
-<?php require 'models/footer.php' ?>
 <?php require 'models/music.php' ?>
+<?php require 'models/footer.php' ?>
+
