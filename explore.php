@@ -268,7 +268,6 @@
 
 
     <!-- JS -->
-
     <script src="js/explorejs/jquery-1.11.2.min.js" type="text/javascript"></script>
     <script src="js/explorejs/plugin/jquery.easing.js" type="text/javascript"></script>
     <script src="js/explorejs/jquery-ui.min.js" type="text/javascript"></script>
