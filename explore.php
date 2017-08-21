@@ -80,8 +80,8 @@
                 <!-- Logo -->
                 <div class="logo">
                     <a href="index.html">
-                        <img class="logo-light" src="img/logo-white.png" alt="Mazel" />
-                        <img class="logo-dark" src="img/logo-black.png" alt="Mazel" />
+                        <img class="logo-light" src="images/exploreimages/logo-white.png" alt="Mazel" />
+                        <img class="logo-dark" src="images/exploreimages/logo-black.png" alt="Mazel" />
                     </a>
                 </div>
                 <!-- End Logo -->
@@ -108,7 +108,7 @@
                                         <a class="close-cart-list"><i class="fa fa-times-circle"></i></a>
                                         <div class="media">
                                             <a class="pull-left">
-                                                <img src="img/product/02.jpg" alt="fashion" /></a>
+                                                <img src="images/exploreimages/product/02.jpg" alt="fashion" /></a>
                                             <div class="media-body">
                                                 <h6><a>Fashion Model New /01</a></h6>
                                                 <p>$399.00</p>
@@ -119,7 +119,7 @@
                                         <a class="close-cart-list"><i class="fa fa-times-circle"></i></a>
                                         <div class="media">
                                             <a class="pull-left">
-                                                <img src="img/product/06.jpg" alt="fashion" /></a>
+                                                <img src="images/exploreimages/product/06.jpg" alt="fashion" /></a>
                                             <div class="media-body">
                                                 <h6><a>Fashion Model New /02</a></h6>
                                                 <p>$399.00</p>
@@ -410,7 +410,7 @@
 
                     <!--Slide-->
                     <li data-slide="light-slide">
-                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="img/full/11.jpg">
+                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="images/exploreimages/full/11.jpg">
                             <div class="js-Slide-fullscreen-height container">
                                 <div class="intro-content">
                                     <div class="intro-content-inner">
@@ -424,7 +424,7 @@
 
                     <!--Slide-->
                     <li data-slide="dark-slide">
-                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="img/full/20.jpg">
+                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="images/exploreimages/full/20.jpg">
                             <div class="js-Slide-fullscreen-height container">
                                 <div class="intro-content">
                                     <div class="intro-content-inner">
@@ -440,7 +440,7 @@
 
                     <!--Slide-->
                     <li data-slide="light-slide">
-                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="img/full/02.jpg">
+                        <div class="slide-bg-image overlay-light parallax parallax-section1" data-background-img="images/exploreimages/full/02.jpg">
                             <div class="js-Slide-fullscreen-height container">
                                 <div class="intro-content">
                                     <div class="intro-content-inner">
@@ -456,7 +456,7 @@
 
                     <!--Slide-->
                     <li data-slide="dark-slide">
-                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="img/full/18.jpg">
+                        <div class="slide-bg-image overlay-dark dark-bg parallax parallax-section1" data-background-img="images/exploreimages/full/18.jpg">
                             <div class="js-Slide-fullscreen-height container">
                                 <div class="intro-content">
                                     <div class="intro-content-inner">
@@ -510,7 +510,7 @@
                     <div class="nf-item branding coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/1.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/1.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Consequat massa quis</h5>
@@ -524,7 +524,7 @@
                     <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="img/portfolio/2.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/2.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Bookmarksgrove right at</h5>
@@ -538,7 +538,7 @@
                     <div class="nf-item branding coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single3.html">
-                                <img alt="1" src="img/portfolio/3.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/3.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">A small river named</h5>
@@ -554,7 +554,7 @@
                     <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="img/portfolio/4.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/4.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
@@ -568,7 +568,7 @@
                     <div class="nf-item branding spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/5.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/5.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Because there were</h5>
@@ -582,7 +582,7 @@
                     <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single5-slider.html">
-                                <img alt="1" src="img/portfolio/6.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/6.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Ran over her cheek</h5>
@@ -596,7 +596,7 @@
                     <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single6-video.html">
-                                <img alt="1" src="img/portfolio/7.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/7.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Oxmox advised her</h5>
@@ -610,7 +610,7 @@
                     <div class="nf-item coffee spacing">
                         <div class="item-box">
                             <a href="portfolio-single7-youtube.html">
-                                <img alt="1" src="img/portfolio/8.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/8.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Subline of her own road</h5>
@@ -624,7 +624,7 @@
                     <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single8-vimeo.html">
-                                <img alt="1" src="img/portfolio/9.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/9.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">But the Little Blind</h5>
@@ -638,7 +638,7 @@
                     <div class="nf-item design spacing">
                         <div class="item-box">
                             <a href="portfolio-single1.html">
-                                <img alt="1" src="img/portfolio/10.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/10.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Even the all-powerful</h5>
@@ -652,7 +652,7 @@
                     <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single2.html">
-                                <img alt="1" src="img/portfolio/11.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/11.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Italic Mountains</h5>
@@ -666,7 +666,7 @@
                     <div class="nf-item photo spacing">
                         <div class="item-box">
                             <a href="portfolio-single4.html">
-                                <img alt="1" src="img/portfolio/12.jpg" class="item-container">
+                                <img alt="1" src="images/exploreimages/portfolio/12.jpg" class="item-container">
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">control about the blind</h5>
@@ -722,7 +722,7 @@
                     <!-- Logo -->
                     <div class="col-md-3 col-sm-3 mb-xs-30">
                         <a class="footer-logo" href="home.html">
-                            <img src="img/logo-black.png" /></a>
+                            <img src="images/exploreimages/logo-black.png" /></a>
                     </div>
                     <!-- Logo -->
 
