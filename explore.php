@@ -91,7 +91,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Consequat massa quis</h5>
-                                        <p class="white">premium, regular</p>
+                                        <p class="white">premium</p>
                                     </div>
                                 </div>
                             </a>
@@ -105,12 +105,13 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Bookmarksgrove right at</h5>
-                                        <p class="white">premium, regular, latest</p>
+                                        <p class="white">lowest</p>
                                     </div>
                                 </div>
                             </a>
                         </div>
                     </div>
+
 
                     <div class="nf-item latest spacing" style="position: absolute; left: 0px; top: 239px;">
                         <div class="item-box">
@@ -119,7 +120,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">A small river named</h5>
-                                        <p class="white">premium, regular</p>
+                                        <p class="white">latest</p>
                                     </div>
                                 </div>
                             </a>
@@ -135,7 +136,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Rethoric question ran over</h5>
-                                        <p class="white">premium, regular</p>
+                                        <p class="white">regular</p>
                                     </div>
                                 </div>
                             </a>
@@ -149,7 +150,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Because there were</h5>
-                                        <p class="white">premium, regular, latest</p>
+                                        <p class="white">premium</p>
                                     </div>
                                 </div>
                             </a>
@@ -163,7 +164,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Ran over her cheek</h5>
-                                        <p class="white">premium, Slider</p>
+                                        <p class="white">lowest</p>
                                     </div>
                                 </div>
                             </a>
@@ -177,7 +178,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Oxmox advised her</h5>
-                                        <p class="white">premium, Video</p>
+                                        <p class="white">regular</p>
                                     </div>
                                 </div>
                             </a>
@@ -191,7 +192,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Subline of her own road</h5>
-                                        <p class="white">premium, Youtube</p>
+                                        <p class="white">latest</p>
                                     </div>
                                 </div>
                             </a>
@@ -205,7 +206,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">But the Little Blind</h5>
-                                        <p class="white">premium, Vimeo</p>
+                                        <p class="white">regular</p>
                                     </div>
                                 </div>
                             </a>
@@ -219,7 +220,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Even the all-powerful</h5>
-                                        <p class="white">premium, regular</p>
+                                        <p class="white">regular</p>
                                     </div>
                                 </div>
                             </a>
@@ -233,7 +234,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">Italic Mountains</h5>
-                                        <p class="white">premium, latest</p>
+                                        <p class="white">lowest</p>
                                     </div>
                                 </div>
                             </a>
@@ -247,7 +248,7 @@
                                 <div class="item-mask">
                                     <div class="item-caption">
                                         <h5 class="white">control about the blind</h5>
-                                        <p class="white">premium, regular</p>
+                                        <p class="white">lowest</p>
                                     </div>
                                 </div>
                             </a>
