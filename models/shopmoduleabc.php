@@ -404,15 +404,339 @@
                 
 <!-------------------------------------------------------------------------- B - END ---------------------------------------------------------------------->               
 <!-------------------------------------------------------------------------- C ---------------------------------------------------------------------------->                 
+
                 
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Camels - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+                          
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cannonballs - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Capetown - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Capita - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
                 
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cardinals - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Caretakers - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
                 
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Catering - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+         
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Catheter - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cavalry - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Ceilidh - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Celebrates - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Example - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Censure - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chaste - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+                    
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cheats - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                                                                
+ 
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Check - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+            
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Checking - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>               
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chide - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>                  
                 
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chimeras - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+                            
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chins - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chives - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Choosing - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Choosy - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chords - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chromite - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Chutney - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>                
                 
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Ciders - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cilium - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>                
                 
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Classic - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Climbdown - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cobblers - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>                
                 
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Colds - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>                
                 
-<!-------------------------------------------------------------------------- END ---------------------------------------------------------------------------->                 
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Colourings - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Complaint - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Complementary - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Compounding - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Conditions - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>     
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Confide - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Confirmed - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+            
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Conga - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+                                            
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Congestion - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Contraband - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>                            
+
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Coups - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cowards - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Crackle - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Creak - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+                                            
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Crease - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+            
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cree - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Crossness - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+
+<div class="nf-item regular c spacing"><div class="item-box"><a href="#regular">
+    <img alt="1" src="http://i.imgur.com/eDprqAd.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Crowding - $5</h5><p class="white">regular</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Curtsies - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Curved - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+
+<div class="nf-item premium c spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cutting - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+                
+<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cygnet - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>
+                
+<div class="nf-item lowest c spacing"><div class="item-box"><a href="#lowest">
+    <img alt="1" src="http://i.imgur.com/4rxy3eM.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Cystine - $1</h5><p class="white">lowest</p>
+                </div></div></a></div></div>
+                
+<!-------------------------------------------------------------------------- C END ---------------------------------------------------------------------------->                 
 <!------------------------------------------------------------------ END SHOP MODULE ------------------------------------------------------------------>
        
 ' ; ?>
