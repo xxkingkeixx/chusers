@@ -78,7 +78,7 @@
         <!-- Intro Section -->
         <section id="intro">
             <!-- Hero Slider Section -->
-            <div class="flexslider fullscreen-carousel hero-slider-1 ">
+            <!--div class="flexslider fullscreen-carousel hero-slider-1 "-->
                 <ul class="slides">
 
                     <!--Slide-->
@@ -140,7 +140,6 @@
                             </div>
                         </div>
                     </li>
-
                 </ul>
             </div>
             <!-- End Hero Slider Section -->
