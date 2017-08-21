@@ -11,7 +11,7 @@ class ComposerStaticInitfb1e0d174782bf58296c96a63347e11e
         array (
             'Sunra\\PhpSimple\\HtmlDomParser' => 
             array (
-                0 => __DIR__ . '/..' . '/sunra/php-simple-html-dom-parser/Src',
+                0 => __DIR__ . '/../..' . '/Src',
             ),
         ),
     );
