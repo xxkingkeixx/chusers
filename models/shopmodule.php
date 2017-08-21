@@ -147,7 +147,32 @@
             <h5 class="white">Armrest - $5</h5><p class="white">regular</p>
                 </div></div></a></div></div>  
                 
-<!-------------------------------------------------------------------------- A -------------------------------------------------------------------------->
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Assertively - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Assumption - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>
+
+<div class="nf-item legendary a spacing"><div class="item-box"><a href="#legendary">
+    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Austerity - $20</h5><p class="white">legendary</p>
+                </div></div></a></div></div>     
+
+<div class="nf-item premium a spacing"><div class="item-box"><a href="#premium">
+    <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
+        <div class="item-mask"><div class="item-caption">
+            <h5 class="white">Awakes - $10</h5><p class="white">premium</p>
+                </div></div></a></div></div>                
+                
+<!-------------------------------------------------------------------------- A - END ---------------------------------------------------------------------->
+<!-------------------------------------------------------------------------- B ---------------------------------------------------------------------------->               
                 
                 
                 
@@ -155,6 +180,12 @@
                 
                 
                 
+                
+                
+                
+                
+                
+<!-------------------------------------------------------------------------- B - END ---------------------------------------------------------------------->               
                 
                 
                 
