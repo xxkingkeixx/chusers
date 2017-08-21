@@ -91,5 +91,7 @@
 
 <?php require 'models/disqus.php' ?>
 <?php require 'models/music.php' ?>
+
+<!-- all other models must be about this one!! -->
 <?php require 'models/footer.php' ?>
 
