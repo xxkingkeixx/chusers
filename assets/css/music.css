@@ -13,6 +13,7 @@
     -moz-transition: all .7s ease;
     -o-transition: all .7s ease;
     transition: all .7s ease;
+    opacity:0;
 }
  
 #musicplayer img {
@@ -26,7 +27,7 @@
     left: 300px; /*move the player side to side*/
     width: 30px;
     height: 30px;
-    padding: 0px 5px 5px 5px;
+    padding: 5px 5px 5px 5px;
     overflow: hidden;
     position: fixed;
     top:93.5%;
