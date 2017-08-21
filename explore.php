@@ -29,6 +29,7 @@
         </div>
     </section>
     <!-- End Preloader -->
+    <div> <?php require 'parse.php' ?></div>
 
 
     <!-- Site Wraper -->
@@ -51,8 +52,8 @@
         <!-- End About Section -->
         
  <?php require 'models/shopmodule.php' ?>
- <?php require 'db.php' ?>
- <?php require 'parse.php' ?>
+
+
  
         <!-- End Work Section -->
     
