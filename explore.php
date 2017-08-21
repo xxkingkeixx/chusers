@@ -58,8 +58,8 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color">We are Mazel.</span> A Digitel<br>
-                            Agency from the city of Berlin
+                            <span class="color">Chatangu.tk</span> A Warehouse<br>
+                            made for you.
                         </h2>
                     </div>
                 </div>
