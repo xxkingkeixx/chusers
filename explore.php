@@ -1,16 +1,16 @@
-<html><head>
-    <meta charset="utf-8">
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
     <title>Mazel - Multiprapose Html template</title>
-    <meta name="description" content="">
-    <meta name="keywords" content="">
+    <meta name="description" content="" />
+    <meta name="keywords" content="" />
     <meta name="author" content="nileforest">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
-    <!-- Favicone Icon -->
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico">
-    <link rel="icon" type="image/png" href="img/favicon.png">
-    <link rel="apple-touch-icon" href="img/favicon.png">
+   
 
     <!-- CSS -->
     <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css">
@@ -20,7 +20,9 @@
     <link href="assets/css/explorecss/sidebar-menu.css" rel="stylesheet" type="text/css">
     <link href="assets/css/explorecss/animate.css" rel="stylesheet" type="text/css">
     <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css">
+
 </head>
+
 <body>
 
     <!-- Preloader -->
@@ -361,8 +363,6 @@
                             </ul>
                             <!-- End Dropdown -->
                         </li>
-                        
-                        
                         <li>
                             <a class="menu-has-sub">Elements <i class="fa fa-angle-down"></i></a>
                             <!-- Dropdown -->
@@ -809,8 +809,7 @@
     </div>
     <!-- Site Wraper End -->
 
-
-    <!-- JS -->
+ <!-- JS -->
     <script src="assets/js/explorejs/jquery-1.11.2.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/plugin/jquery.easing.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/jquery-ui.min.js" type="text/javascript"></script>
@@ -832,4 +831,5 @@
     <script src="assets/js/explorejs/navigation.js" type="text/javascript"></script>
 
 
-</body></html>
+</body>
+</html>
