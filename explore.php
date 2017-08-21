@@ -13,13 +13,13 @@
     <link rel="apple-touch-icon" href="img/favicon.png">
 
     <!-- CSS -->
-    <link href="css/explorecss/style.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/bootstrap.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/font-awesome.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/ionicons.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/plugin/sidebar-menu.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/plugin/animate.css" rel="stylesheet" type="text/css">
-    <link href="css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/font-awesome.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/ionicons.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/plugin/sidebar-menu.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/plugin/animate.css" rel="stylesheet" type="text/css">
+    <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css">
 
 <style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></head>
 
