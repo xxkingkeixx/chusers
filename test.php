@@ -8,7 +8,7 @@ include 'simple_html_dom.php';
 $html = file_get_html("https://www.merriam-webster.com/dictionary/dictionary");
 
 
-$title = $html->find("div.card-primary-content",0)->outertext;
+$title = $html->find("div.card-primary-content",0)->plaintext;
 echo $title;
 
 
