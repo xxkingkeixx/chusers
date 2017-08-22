@@ -15,6 +15,10 @@ else
 
 $title = $html->find(".definition-inner-item with-sense")->innertext;
 echo $title;
+if ($title) {
+    echo $title[0]->plaintext;
+}
+
 
 
 
