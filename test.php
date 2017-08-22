@@ -5,16 +5,17 @@ ini_set('display_errors', 1);
 ini_set('display_startup_errors', 1);
 error_reporting(E_ALL);
 include 'simple_html_dom.php';
-$html = file_get_html("http://www.wikihow.com/Adjust-Bass-on-Computer");
-if($html){
-    echo 'ok';
-}
-else
-    echo 'um..';
-    
-
-$title = $html->find("div#intro",0)->innertext;
-echo $title;
+$url = 'http://www.dictionary.com/browse/banausic';
+	$page = file_get_contents($url);
+	$page = mb_convert_encoding($page, 'utf-8', mb_detect_encoding($page));
+	$page = mb_convert_encoding($page, 'html-entities', 'utf-8'); 
+	$dom = new DOMDocument();
+	libxml_use_internal_errors(true);
+	$dom->loadHTML($page);
+	libxml_use_internal_errors(false);
+	$contentSection = $dom->getElementsByClassName('def-list');
+	$pageContent = $dom->saveHTML($contentSection);
+	echo $pageContent;	
 
 
 
