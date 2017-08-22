@@ -1,8 +1,6 @@
 <?php 
 include 'db.php';
-ini_set('display_errors', 1);
-ini_set('display_startup_errors', 1);
-error_reporting(E_ALL);
+
 include 'simple_html_dom.php';
 
 $row = mysqli_query($conn, "SELECT user_name FROM (
@@ -19,8 +17,8 @@ while ($lastusers = mysqli_fetch_array($row)) {
     echo $title;
     
       //save definitions to corresponding username 
-    $save = mysqli_query($conn, 'UPDATE store SET def = $title WHERE  user_name = $lastusers["user_name"]');
-     mysqli_query($conn,$save);
+    $save = mysqli_query($conn, 'UPDATE store SET def = $title, WHERE  user_name = $lastusers["user_name"]');
+     mysqli_query($save);
     
     
 }
