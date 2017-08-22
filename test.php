@@ -13,7 +13,7 @@ else
     echo 'um..';
     
 
-$title = $html->find(".definition-inner-item with-sense",0)->outertext;
+$title = $html->find("p.definition-inner-item with-sense")->innertext;
 echo $title;
 
 
