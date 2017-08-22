@@ -13,7 +13,7 @@ $url = 'https://www.merriam-webster.com/dictionary/dictionary';
 	libxml_use_internal_errors(true);
 	$dom->loadHTML($page);
 	libxml_use_internal_errors(false);
-	$contentSection = $dom->getElementById('card-primary-content');
+	$contentSection = $dom->find('.definition-inner-item with-sense');
 	$pageContent = $dom->saveHTML($contentSection);
 	echo $pageContent;	
 
