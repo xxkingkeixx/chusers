@@ -9,7 +9,9 @@ $html = file_get_html("https://www.merriam-webster.com/dictionary/dictionary");
 
 
 $title = $html->find("div.card-primary-content",0)->plaintext;
-echo $title;
+foreach($title as $title){
+    echo '<br>' . $title;
+}
 
 
 
