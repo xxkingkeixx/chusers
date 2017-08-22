@@ -73,11 +73,6 @@
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
 
-						
-						
-						
-						
-						
 					</div>
 					<?php require 'models/feed.php' ?>
 						<footer class="major">
