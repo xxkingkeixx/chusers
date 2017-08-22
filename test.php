@@ -13,7 +13,7 @@ else
     echo 'um..';
     
 
-$title = $html_>find("div#intro",0)->innertext;
+$title = $html->find("div#intro",0)->innertext;
 echo $title;
 
 
