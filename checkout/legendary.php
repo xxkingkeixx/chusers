@@ -23,7 +23,7 @@
 <td valign="top"><label for="email">*EMAIL</label></td>
 <td valign="top"><input  type="text" name="email" maxlength="80" size="30"></td></tr>
 <tr>
-<td valign="top"><label for="comments">*ACCOUNT REQUESTED / ACCOUNT TO CONTACT YOU</label></td>
+<td valign="top"><label for="comments">**ACCOUNT REQUESTED & ACCOUNT TO CONTACT YOU</label></td>
 <td valign="top"><textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea></td></tr>
 <tr>
 <td colspan="2" style="text-align:center"><input type="submit" value="Submit">
