@@ -15,9 +15,10 @@ while ($lastusers = mysqli_fetch_array($row)) {
     $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $lastusers["user_name"] );
     $title = $html->find("div.card-primary-content",0)->innertext;
     echo $title;
+    $a = $lastusers["user_name"];
     
       //save definitions to corresponding username 
-    $save = mysqli_query($conn, 'UPDATE store SET def = $title, WHERE  user_name = $lastusers["user_name"]');
+    $save = mysqli_query($conn, "UPDATE store SET def = '$title', WHERE  user_name = '$a'");
      mysqli_query($save);
     
     
