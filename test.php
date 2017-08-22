@@ -18,8 +18,8 @@ while ($lastusers = mysqli_fetch_array($row)) {
     $a = $lastusers["user_name"];
     
       //save definitions to corresponding username 
-    $save = mysqli_query($conn, "UPDATE store SET def = '$title', WHERE  user_name = '$a'");
-     mysqli_query($save);
+    $save = mysqli_query($conn, "UPDATE store SET def = '$title' WHERE  user_name = '$a'");
+     mysqli_query($conn,$save);
     
     
 }
