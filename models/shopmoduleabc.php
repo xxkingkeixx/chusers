@@ -474,12 +474,6 @@
 <div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
     <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
         <div class="item-mask"><div class="item-caption">
-            <h5 class="white">Example - $20</h5><p class="white">legendary</p>
-                </div></div></a></div></div>
-
-<div class="nf-item legendary c spacing"><div class="item-box"><a href="#legendary">
-    <img alt="1" src="http://i.imgur.com/2nov74U.jpg" class="item-container">
-        <div class="item-mask"><div class="item-caption">
             <h5 class="white">Censure - $20</h5><p class="white">legendary</p>
                 </div></div></a></div></div>
 
