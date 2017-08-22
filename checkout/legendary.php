@@ -13,19 +13,3 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
-
-
-<form name="contactform" method="post" action="send_form_email.php"><table width="450px">
-<tr>
-<td valign="top"><label for="name">*NAME</label></td>
-<td valign="top"><input  type="text" name="name" maxlength="50" size="30"></td></tr>
-<tr>
-<td valign="top"><label for="email">*EMAIL</label></td>
-<td valign="top"><input  type="text" name="email" maxlength="80" size="30"></td></tr>
-<tr>
-<td valign="top"><label for="comments">**ACCOUNT REQUESTED & ACCOUNT TO CONTACT YOU</label></td>
-<td valign="top"><textarea  name="comments" maxlength="1000" cols="25" rows="6"></textarea></td></tr>
-<tr>
-<td colspan="2" style="text-align:center"><input type="submit" value="Submit">
-<a href="http://www.freecontactform.com/email_form.php">Email Form</a></td>
-</tr></table></form>
