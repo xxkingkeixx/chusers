@@ -18,7 +18,7 @@
 
 			<!-- One -->
 				<section id="one" class="spotlight style1 bottom">
-					<span class="image fit main"><img src="/images/pic02.jpg" alt="" /></span>
+					<span class="image fit main"><img src="//images/pic02.jpg" alt="" /></span>
 					<div class="content">
 						<div class="container">
 							<div class="row">
@@ -72,10 +72,9 @@
 			<!-- Four -->
 				<section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
+
 						
 						
-					<ul id="myList">...</ul>
-					<div id="{myList}-nav"></div>
 						
 						
 						
