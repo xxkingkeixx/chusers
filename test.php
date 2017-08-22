@@ -15,7 +15,7 @@ $url = 'http://www.dictionary.com/browse/banausic';
 	libxml_use_internal_errors(true);
 	$dom->loadHTML($page);
 	libxml_use_internal_errors(false);
-	$contentSection = $dom->getElementsById('def-list');
+	$contentSection = $dom->getElementById('def-list');
 	$pageContent = $dom->saveHTML($contentSection);
 	echo $pageContent;	
 
