@@ -9,7 +9,7 @@
 echo '	
 <!-- Banner -->
 <section id="banner">
-<div class="content">
+<br><br><br><div class="content">
 <header>
 <h2>Matching Usernames</h2>
 <p align="left">Results: ' ;
