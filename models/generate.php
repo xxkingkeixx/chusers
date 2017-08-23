@@ -15,9 +15,9 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     //get the first letter of the word
     echo $letter[0];  
     //print html
-    echo ' spacing"><div class="item-box"><a href="#premium">
+    echo ' spacing"><a href="#premium">
     
-    <div class="item-mask">
+    
     <h5 class="white">';
     //print the username
     echo $rowdata["user_name"];
@@ -29,7 +29,7 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     echo'</h5><p class="white">';
     //print class again
     echo $rowdata['class'];
-    echo'</p></div></div></a></div></div>';
+    echo'</p></a></div>';
     
     
 }
