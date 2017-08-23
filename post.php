@@ -66,22 +66,22 @@ $explode = preg_split('@,@', $_POST['user_names'], NULL, PREG_SPLIT_NO_EMPTY);
 if(isset($_POST['class']) &&
 $_POST['class'] == 'legendary')
 {
-mysqli_query($conn, "UPDATE store SET class = 'legendary' WHERE  user_name = '$value'");
+mysqli_query($conn, "UPDATE store SET class = 'legendary' SET price = '20' WHERE  user_name = '$value'");
 }
 if(isset($_POST['class']) &&
 $_POST['class'] == 'premium')
 {
-mysqli_query($conn, "UPDATE store SET class = 'premium' WHERE  user_name = '$value'");
+mysqli_query($conn, "UPDATE store SET class = 'premium' SET price = '10' WHERE  user_name = '$value'");
 }
 if(isset($_POST['class']) &&
 $_POST['class'] == 'normal')
 {
-mysqli_query($conn, "UPDATE store SET class = 'normal' WHERE  user_name = '$value'");
+mysqli_query($conn, "UPDATE store SET class = 'normal' SET price = '5' WHERE  user_name = '$value'");
 }
 if(isset($_POST['class']) &&
 $_POST['class'] == 'lowest')
 {
-mysqli_query($conn, "UPDATE store SET class = 'lowest' WHERE  user_name = '$value'");
+mysqli_query($conn, "UPDATE store SET class = 'lowest' SET price= '1' WHERE  user_name = '$value'");
 }
 }
 

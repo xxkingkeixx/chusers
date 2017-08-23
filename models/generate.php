@@ -14,7 +14,9 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     <div class="item-mask"><div class="item-caption">
     <h5 class="white">';
     echo $rowdata["user_name"];
-    echo '</h5><p class="white">';
+    echo ' - $';
+    echo $rowdata['price'];
+    echo'</h5><p class="white">';
     echo $rowdata['class'];
     echo'</p></div></div></a></div></div>';
     
