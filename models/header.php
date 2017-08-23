@@ -19,7 +19,7 @@
 <audio id="beep" preload="auto">
 	
 <!--     Change Audio Here  -->   	
-<source src="audio/ding.mp3"></source>
+<source src="audio/click.ogg"></source>
 Your browser isn"t invited for super fun audio time.
 </audio>		
 </head>
