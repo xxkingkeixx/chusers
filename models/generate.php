@@ -17,6 +17,7 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     //print html
     echo ' spacing"><div class="item-box"><a href="#premium">
     
+    <div class="item-mask">
     <h5 class="white">';
     //print the username
     echo $rowdata["user_name"];
