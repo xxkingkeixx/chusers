@@ -22,7 +22,7 @@ echo $row["user_name"] . '</h3></header>';
 echo '
 <span class="image"><img src="/images/search.jpg" alt="" /></span>
 </div>';
-echo '<p>';
+
 
 echo '<br>Definition:<br>';
     $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
@@ -31,7 +31,7 @@ echo '<br>Definition:<br>';
 
 
 
-echo '</p></section> ';
+echo '</section> ';
 
 ?>
 
