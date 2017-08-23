@@ -2,20 +2,27 @@
 <?php require 'navbar.php' ?>
 <?php require 'db.php'     ?>
 
-	<!-- Banner -->
-				<section id="banner">
-					<div class="content">
-						<header>
-						    <h2>Matching Usernames:</h2>
-							<p></p>
+<?php echo '	
+<!-- Banner -->
+<section id="banner">
+<div class="content">
+<header>
+<h2>Matching Usernames</h2>
+<p>Results: ' ;
+$query=mysqli_query($conn,"SELECT * FROM store WHERE user_name='$user_name' ");
+$count=mysqli_num_rows($query);
+$row=mysqli_fetch_array($query);
+echo $count;					
+							
+echo '</p>
 						</header>
-						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="/images/search.jpg" alt="" /></span>
 					</div>
-					<a href="#one" class="goto-next scrolly">Next</a>
+					
 				</section>
+';
 
-
-
+?>
 
 
 
