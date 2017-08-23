@@ -93,13 +93,8 @@
                 </div>
                 
                 <div class="row container-grid nf-col-5"> <!--how many in a row number-->  
-
-        
- <?php require 'models/shopmoduleabc.php' ?>
- <?php require 'models/shopmoduledefghi.php' ?>
- <?php require 'models/shopmodulejklmno.php' ?>
- <?php require 'models/shopmodulepqrs.php' ?>
- <?php require 'models/shopmoduletuvwxyz.php' ?> 
+     <?php require 'models/generate.php'; ?>
+ 
 
  
         </div>
