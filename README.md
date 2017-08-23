@@ -62,3 +62,10 @@ $("myList").listnav({
     prefixes: [],          // Set an array of prefixes that should be counted for the prefix and the first word after the prefix ex: ['the', 'a', 'my']
     filterSelector: ''     // Set the filter to a CSS selector rather than the first text letter for each item
 });
+
+
+//update db
+
+  //save definitions to corresponding username 
+    $save = mysqli_query($conn, "UPDATE store SET def = '$title' WHERE  user_name = '$a'");
+     mysqli_query($conn,$save);

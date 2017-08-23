@@ -11,30 +11,34 @@ echo '
 <header>
 <h2>Matching Usernames</h2>
 <p align="left">Results: ' ;
-
+//find a username match
 $query=mysqli_query($conn,"SELECT * FROM store WHERE user_name='$user_name' ");
+//number of results
 $count=mysqli_num_rows($query);
+//the result
 $row=mysqli_fetch_array($query);
 echo $count;					
 							
 echo '<br>';
 echo $row["user_name"];
-
+//if the user isn't found print suggestions
 if($count == 0){
-	echo 'No results found. Did you mean: <br>';
-	$format = strtoupper($user_name[0] . '%');
-	$sug = mysqli_query($conn,"SELECT * FROM store WHERE user_name LIKE '$format'");
-	
-	while ($printsuggestions = mysqli_fetch_array($sug)) {
-    echo $printsuggestions["user_name"] . "<br>  ";
-   }
-    echo '
-    </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
-    ';
-    echo '</div></section> ';
-   }
+echo 'No results found. Did you mean: <br>';
+//take the first letter of the word and find words like it 	
+$format = strtoupper($user_name[0] . '%');
+$sug = mysqli_query($conn,"SELECT * FROM store WHERE user_name LIKE '$format'");
+//print results	
+while ($printsuggestions = mysqli_fetch_array($sug)) {
+echo $printsuggestions["user_name"] . "<br>  ";
+}
+//print html
+echo '
+</p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
+';
+echo '</div></section> ';
+}
 
-
+//if results are found parse the definition
 else 
 echo '<br>Definition:<br>';
     $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
