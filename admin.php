@@ -21,7 +21,7 @@
 								<form method="post" action="">
 									<div class="row uniform 50%">
 										<div class="6u 12u$(xsmall)">
-											<input type="text" name="usernames" id="name" value="" placeholder="usernames here" />
+											<input type="text" name="user_names" id="name" value="" placeholder="usernames here" />
 										</div>
 
 										<div class="4u 12u$(medium)">
