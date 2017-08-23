@@ -42,18 +42,23 @@ Your browser isn't invited for super fun audio time.
 					<div class="content">
 						<header>
 							<h2>Add Usernames Here</h2><p>  (Or Multiple - Ex :  Username1,Username2 )</p>
-							<form method="post" action-''>
+							<form method="post" action=''>
   <br>
   <input type="text"  name="user_name"><br>
   <input type="submit" value="Insert">
 </form><br>
 <h2>Specify Price for username(s)</h2>
-<form method="post" action-''>
+<form method="post" action=''>
   <input type="text"  name="user_names"><br>
   <input type="checkbox" name="class" value="legendary">Legendary<br>
   <input type="checkbox" name="class" value="premium">Premium<br> 
   <input type="checkbox" name="class" value="normal">Normal<br>
-  <input type="checkbox" name="class" value="lowest">Lowest 
+  <input type="checkbox" name="class" value="lowest">Lowest<br>
+  <div class="6u$ 12u$(medium)">
+											<input type="checkbox" id="human" name="human" checked>
+											<label for="human">I am a human and not a robot</label>
+										</div>
+
 </form>
 
 
