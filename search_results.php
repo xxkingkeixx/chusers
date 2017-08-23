@@ -27,20 +27,22 @@ if($count == 0){
 	
 	while ($printsuggestions = mysqli_fetch_array($sug)) {
     echo $printsuggestions["user_name"] . "<br>  ";
-   
-}
-}
+   }
+    echo '
+    </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
+    ';
+    echo '</div></section> ';
+   }
 
+
+else 
 echo '<br>Definition:<br>';
     $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
  $title = $html->find("div.card-primary-content",0)->innertext;
     echo $title;
 
 
-echo '
-</p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
-';
-echo '</div></section> ';
+
 
 ?>
 
