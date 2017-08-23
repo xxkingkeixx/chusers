@@ -1,0 +1,12 @@
+[23-Aug-2017 16:39:43 UTC] PHP Warning:  require(db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/models/generate.php on line 3
+[23-Aug-2017 16:39:43 UTC] PHP Stack trace:
+[23-Aug-2017 16:39:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/generate.php:0
+[23-Aug-2017 16:39:43 UTC] PHP Fatal error:  require(): Failed opening required 'db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/models/generate.php on line 3
+[23-Aug-2017 16:39:43 UTC] PHP Stack trace:
+[23-Aug-2017 16:39:43 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/generate.php:0
+[23-Aug-2017 16:41:32 UTC] PHP Warning:  require(/db.php): failed to open stream: No such file or directory in /home/ubuntu/workspace/models/generate.php on line 3
+[23-Aug-2017 16:41:32 UTC] PHP Stack trace:
+[23-Aug-2017 16:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/generate.php:0
+[23-Aug-2017 16:41:32 UTC] PHP Fatal error:  require(): Failed opening required '/db.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/ubuntu/workspace/models/generate.php on line 3
+[23-Aug-2017 16:41:32 UTC] PHP Stack trace:
+[23-Aug-2017 16:41:32 UTC] PHP   1. {main}() /home/ubuntu/workspace/models/generate.php:0

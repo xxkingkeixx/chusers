@@ -1,4 +1,4 @@
-
+<?php include 'db.php' ; ?>
 <!DOCTYPE html>
 <html>
 <head>
@@ -92,7 +92,8 @@
                     </ul>
                 </div>
                 
-                <div class="row container-grid nf-col-5"> <!--how many in a row number-->       
+                <div class="row container-grid nf-col-5"> <!--how many in a row number-->  
+
         
  <?php require 'models/shopmoduleabc.php' ?>
  <?php require 'models/shopmoduledefghi.php' ?>
