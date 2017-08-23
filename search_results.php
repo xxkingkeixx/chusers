@@ -10,7 +10,7 @@ echo '
 <!-- Banner -->
 <section id="banner">
 <div class="content">
-<br><header>
+<br><br><header>
 <h2>Matching Usernames</h2>
 <p align="left">Results: ' ;
 //find a username match
