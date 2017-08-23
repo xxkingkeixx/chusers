@@ -114,19 +114,19 @@
     <script src="assets/js/explorejs/jquery.easing.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/jquery-ui.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/bootstrap.min.js" type="text/javascript"></script>
-    <script src="assets/js/explorejs/jquery.flexslider.js" type="text/javascript"></script>
-    <script src="assets/js/explorejs/jquery.fitvids.js" type="text/javascript"></script>
+
+   
     <script src="assets/js/explorejs/jquery.viewportchecker.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/jquery.stellar.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/wow.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/jquery.colorbox-min.js" type="text/javascript"></script>
-    <script src="assets/js/explorejs/owl.carousel.min.js" type="text/javascript"></script>
+    
     <script src="assets/js/explorejs/isotope.pkgd.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/masonry.pkgd.min.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-    <script src="assets/js/explorejs/sidebar-menu.js" type="text/javascript"></script>
+  
     <script src="assets/js/explorejs/jquery.fs.tipper.min.js" type="text/javascript"></script>
-    <script src="assets/js/explorejs/mediaelement-and-player.min.js"></script>
+   
     <script src="assets/js/explorejs/theme.js" type="text/javascript"></script>
     <script src="assets/js/explorejs/navigation.js" type="text/javascript"></script>
 
