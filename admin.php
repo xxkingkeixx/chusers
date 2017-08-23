@@ -54,7 +54,7 @@
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-                        		<p><?php require 'post.php'; ?></p>	
+                        		
 							
 						</header>
 				
