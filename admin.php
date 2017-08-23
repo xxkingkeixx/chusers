@@ -48,10 +48,12 @@ Your browser isn't invited for super fun audio time.
   <input type="submit" value="Insert">
 </form><br>
 <h2>Specify Price for username(s)</h2>
+<div class="row uniform 50%">
+
 <form method="post" action=''>
   <input type="text"  name="user_names"><br>
   <div class="6u$ 12u$(medium)">
-  <input type="checkbox" name="class" value="legendary">
+  <input type="checkbox" name="class" value="legendary" checked>
   <label for="class">Legendary</label>
 										</div>
   <div class="6u$ 12u$(medium)">
@@ -67,7 +69,7 @@ Your browser isn't invited for super fun audio time.
   <label for="class">Lowest</label>
 										</div>
   	
-											<input type="checkbox" id="human" name="human" checked>
+</div>											
 											
 
 										
