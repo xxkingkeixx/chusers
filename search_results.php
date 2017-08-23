@@ -18,7 +18,7 @@ $row=mysqli_fetch_array($query);
 echo $count;					
 							
 echo '</p><h3>';
-echo $row["user_name"] . '</h3>';
+echo $row["user_name"] . '</h3></header>';
 echo '<p>';
 
 echo '<br>Definition:<br>';
@@ -28,7 +28,7 @@ echo '<br>Definition:<br>';
 
 
 
-echo '</p></header>
+echo '</p>
 <span class="image"><img src="/images/search.jpg" alt="" /></span>
 </div>
 </section> ';
