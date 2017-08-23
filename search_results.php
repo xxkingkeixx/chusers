@@ -9,8 +9,8 @@
 echo '	
 <!-- Banner -->
 <section id="banner">
-<br><div class="content">
-<header>
+<div class="content">
+<br><header>
 <h2>Matching Usernames</h2>
 <p align="left">Results: ' ;
 //find a username match
