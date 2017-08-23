@@ -46,11 +46,21 @@ Your browser isn't invited for super fun audio time.
   <br>
   <input type="text"  name="user_name"><br>
   <input type="submit" value="Insert">
+</form><br>
+<h2>Specify Price for username(s)</h2>
+<form method="post" action-''>
+  <input type="text"  name="user_names"><br>
+  <input type="checkbox" name="class" value="legendary">Legendary<br>
+  <input type="checkbox" name="class" value="premium">Premium<br> 
+  <input type="checkbox" name="class" value="normal">Normal<br>
+  <input type="checkbox" name="class" value="lowest">Lowest<br> 
 </form>
+
+
 						</header>
 						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
 					</div>
-						<a href="#five" class="goto-next scrolly">Next</a>
+						
 				</section>
 				
 				<section id="five" class="wrapper style2 special fade">

@@ -7,6 +7,7 @@ $usersep = mysqli_query($conn, "SELECT user_name FROM store ");
 while ($rowdata = mysqli_fetch_array($row)  ) {
     $letter = $rowdata['user_name'];
     echo '<div class="nf-item ';
+    echo $rowdata['class'] . " ";
     echo $letter[0];  
     echo ' spacing"><div class="item-box"><a href="#premium">
     <img alt="1" src="http://i.imgur.com/DVAxSJV.png" class="item-container">
