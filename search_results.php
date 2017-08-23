@@ -26,6 +26,7 @@ if($count == 0){
 	$sug = mysqli_query($conn,'SELECT * FROM store WHERE user_name LIKE "A%"');
 	while ($printsuggestions = mysqli_fetch_array($sug)) {
     echo $printsuggestions["user_name"] . "<br>  ";
+    echo $format;
 }
 }
 
