@@ -7,7 +7,7 @@
 					<h1 id="logo"><a href="http://chatangu.tk/">Chatangu</a></h1>
 					<nav id="nav" style="margin-right:40px;">
 						<ul>
-							<li id="list"><a href="index" class="fa fa-home fa-fw"></a></li>
+							<li id="list"><a href="/" class="fa fa-home fa-fw"></a></li>
 							<li id="list"> <form method="post" action="search_results.php"><input id="search" type="text" style ="border-radius:33px;height:25px;" method="post" name="user_name" maxlength="50" " class="form-control" placeholder="Search for Usernames" /></form></li>
 						<!-- Developers -->
 							<li id="list">
