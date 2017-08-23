@@ -6,7 +6,7 @@ $usersep = mysqli_query($conn, "SELECT user_name FROM store ");
 
 while ($rowdata = mysqli_fetch_array($row) && $usersplit = mysqli_fetch_array($usersep) ) {
     $letter = $usersplit['user_name'];
-    echo $letter;
+    echo $letter[0];
     //echo $rowdata["user_name"] . ",  ";
 }
 
