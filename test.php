@@ -24,7 +24,7 @@ while ($lastusers = mysqli_fetch_array($row)) {
 
 
 try {
-    file_get_html('https://www.merriam-webster.com/dictionary/" . $lastusers["user_name"]');
+    @file_get_html('https://www.merriam-webster.com/dictionary/" . $lastusers["user_name"]');
 }
 catch (Exception $e) {
     echo $e->getMessage();
