@@ -18,7 +18,7 @@
 
 			<!-- One -->
 				<section id="one" class="spotlight style1 bottom">
-					<span class="image fit main"><img src="//images/pic02.jpg" alt="" /></span>
+					<span class="image fit main"><img src="/images/pic03.jpg" alt="" /></span>
 					<div class="content">
 						<div class="container">
 							<div class="row">
@@ -42,7 +42,7 @@
 
 			<!-- Two -->
 				<section id="two" class="spotlight style2 right">
-					<span class="image fit main"><img src="/images/pic03.jpg" alt="" /></span>
+					<span class="image fit main"><img src="/images/onep.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Security is Our Priority</h2>
