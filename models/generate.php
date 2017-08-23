@@ -16,7 +16,7 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     echo $letter[0];  
     //print html
     echo ' spacing"><div class="item-box"><a href="#premium">
-    <img alt="1" src="images/flower.png" class="item-container">
+    <img alt="1" src="" class="item-container">
     <div class="item-mask"><div class="item-caption">
     <h5 class="white">';
     //print the username
