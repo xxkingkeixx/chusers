@@ -1,5 +1,7 @@
 <?php 
-   
+require 'header.php'; 
+require 'navbar.php';
+require 'db.php';    
 
 
 echo '	
@@ -46,3 +48,5 @@ echo '</p>
 
 
 
+
+<?php require 'models/footer.php'; ?>
