@@ -19,7 +19,7 @@ echo $count;
 							
 echo '</p><h3>';
 echo $row["user_name"] . '</h3></header>';
-echo '</p>
+echo '
 <span class="image"><img src="/images/search.jpg" alt="" /></span>
 </div>';
 echo '<p>';
@@ -31,7 +31,7 @@ echo '<br>Definition:<br>';
 
 
 
-echo '</section> ';
+echo '</p></section> ';
 
 ?>
 
