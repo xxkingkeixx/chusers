@@ -8,7 +8,7 @@
 					<nav id="nav" style="margin-right:40px;">
 						<ul>
 							<li id="list"><a href="index.html" class="fa fa-home fa-fw"></a></li>
-							<li id="list"> <form method="post" name="user_name" type="text" action="search_results.php"><input id="search"  style ="border-radius:33px;height:25px;"  class="form-control" placeholder="Search for Usernames" /><input type="submit"> </form></li>
+							<li id="list"> <form method="post" name="user_name" type="text" action="search_results.php"><input id="search"  style ="border-radius:33px;height:25px;"  class="form-control" placeholder="Search for Usernames" /> </form></li>
 						<!-- Developers -->
 							<li id="list">
 								<a href="/">Developers</a>
