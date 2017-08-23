@@ -24,6 +24,7 @@ if($count == 0){
 	echo 'No results found. Did you mean: <br>';
 	$format = strtoupper($user_name[0] . '%');
 	$sug = mysqli_query($conn,"SELECT * FROM store WHERE user_name LIKE '$format'");
+	echo '$format';
 	while ($printsuggestions = mysqli_fetch_array($sug)) {
     echo $printsuggestions["user_name"] . "<br>  ";
    
