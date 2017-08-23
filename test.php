@@ -3,11 +3,7 @@ include 'db.php';
 
 include 'simple_html_dom.php';
 
-$row = mysqli_query($conn, "SELECT user_name FROM (
-  SELECT * 
-  FROM store 
-  ORDER BY user_id DESC
-) AS store ORDER BY user_id ASC");
+$row = mysqli_query($conn, "SELECT user_name FROM store ");
 
 while ($lastusers = mysqli_fetch_array($row)) {
     echo '<br>' .$lastusers["user_name"];
