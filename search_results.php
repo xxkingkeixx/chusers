@@ -41,12 +41,17 @@ echo '</div></section> ';
 }
 
 //if results are found parse the definition
-else 
+else {
+	
+echo '
+</p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
+';
 echo '<br>Definition:<br>';
-    $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
- $title = $html->find("div.card-primary-content",0)->innertext;
-    echo $title;
-
+$html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
+$title = $html->find("div.card-primary-content",0)->innertext;
+ echo $title;
+ echo '</div></section> ';
+}
 
 
 
