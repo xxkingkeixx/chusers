@@ -33,11 +33,11 @@
 											<label for="priority-normal">Premium</label>
 										</div>
 										<div class="4u$ 12u$(medium)">
-											<input type="checkbox" id="priority-high" name="class" value='Normal'>
+											<input type="checkbox" id="priority-high" name="class" value='normal'>
 											<label for="priority-high">Normal</label>
 										</div>
 										<div class="4u$ 12u$(medium)">
-											<input type="checkbox" id="priority-h" name="class" value='Lowest'>
+											<input type="checkbox" id="priority-h" name="class" value='lowest'>
 											<label for="priority-h">Lowest</label>
 										</div>
 									
