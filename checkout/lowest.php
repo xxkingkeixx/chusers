@@ -7,6 +7,7 @@
 	<option value="Lowest">Lowest $1.00 USD</option>
 </select> </td></tr>
 <tr><td><input type="hidden" name="on1" value="**Acc to Contact You On">**Acc to Contact You On</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
+<tr><td><input type="hidden" name="on2" value="What username are you buying?">What username are you buying?</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">

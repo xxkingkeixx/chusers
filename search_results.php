@@ -1,10 +1,8 @@
+<?php require 'models/header.php' ?>
+<?php require 'models/navbar.php' ?>
+<?php require 'db.php'     ?>
+
 <?php 
-require 'header.php'; 
-require 'navbar.php';
-require 'db.php';    
-
-error_reporting(E_ALL);
-
 echo '	
 <!-- Banner -->
 <section id="banner">
@@ -13,10 +11,10 @@ echo '
 <h2>Matching Usernames</h2>
 <p>Results: ' ;
 
-//$query=mysqli_query($conn,"SELECT * FROM store WHERE user_name='$user_name' ");
-//$count=mysqli_num_rows($query);
-//$row=mysqli_fetch_array($query);
-//echo $count;					
+$query=mysqli_query($conn,"SELECT * FROM store WHERE user_name='$user_name' ");
+$count=mysqli_num_rows($query);
+$row=mysqli_fetch_array($query);
+echo $count;					
 							
 echo '</p>
 </header>
@@ -50,4 +48,5 @@ echo '</p>
 
 
 
-<?php require 'models/footer.php'; ?>
+<?php require 'models/disqus.php' ?>
+<?php require 'models/footer.php' ?>
