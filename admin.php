@@ -53,7 +53,7 @@ Your browser isn't invited for super fun audio time.
   <input type="checkbox" name="class" value="legendary">Legendary<br>
   <input type="checkbox" name="class" value="premium">Premium<br> 
   <input type="checkbox" name="class" value="normal">Normal<br>
-  <input type="checkbox" name="class" value="lowest">Lowest<br> 
+  <input type="checkbox" name="class" value="lowest">Lowest 
 </form>
 
 
