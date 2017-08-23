@@ -63,5 +63,5 @@
 				</section>
 
 		
-!-- all other models must be about this one!! -->
+
 <?php require 'models/footer.php' ?>		
