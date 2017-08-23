@@ -46,7 +46,7 @@ else {
 echo '
 </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
 ';
-echo '<br>Definition:<br>';
+echo '<br><br>Definition:<br>';
 $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
 $title = $html->find("div.card-primary-content",0)->innertext;
  echo $title;
