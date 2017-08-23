@@ -18,11 +18,11 @@ $row=mysqli_fetch_array($query);
 echo $count;					
 							
 echo '</p><h3>';
-echo $row . '</h3>';
+echo $row["user_name"] . '</h3>';
 echo '<p>';
 
 echo '<br>Definition:<br>';
-    $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row );
+    $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
  $title = $html->find("div.card-primary-content",0)->innertext;
     echo $title;
 
