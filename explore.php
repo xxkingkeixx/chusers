@@ -11,13 +11,13 @@
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
   <!-- CSS -->
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/style.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/bootstrap.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/font-awesome.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/ionicons.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/plugin/sidebar-menu.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/plugin/animate.css" rel="stylesheet" type="text/css" />
-    <link href="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/css/jquery-ui.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/bootstrap.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/font-awesome.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/ionicons.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/sidebar-menu.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/animate.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css" />
 </head>
 
 <body>
@@ -110,25 +110,25 @@
     <!-- Site Wraper End -->
 
  <!-- JS -->
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/jquery-1.11.2.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.easing.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/jquery-ui.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/bootstrap.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.flexslider.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.fitvids.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.viewportchecker.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.stellar.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/wow.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.colorbox-min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/owl.carousel.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/isotope.pkgd.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/masonry.pkgd.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/imagesloaded.pkgd.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/sidebar-menu.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/jquery.fs.tipper.min.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/plugin/mediaelement-and-player.min.js"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/theme.js" type="text/javascript"></script>
-    <script src="http://theme.nileforest.com/html/mazel-v1.5/01_mazel_multiprapose/js/navigation.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/jquery-1.11.2.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.easing.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/jquery-ui.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/bootstrap.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.flexslider.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.fitvids.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.viewportchecker.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.stellar.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/wow.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.colorbox-min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/owl.carousel.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/isotope.pkgd.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/masonry.pkgd.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/imagesloaded.pkgd.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/sidebar-menu.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/jquery.fs.tipper.min.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/plugin/mediaelement-and-player.min.js"></script>
+    <script src="assets/js/explorejs/theme.js" type="text/javascript"></script>
+    <script src="assets/js/explorejs/navigation.js" type="text/javascript"></script>
 
 
 </body>
