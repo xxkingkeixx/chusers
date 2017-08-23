@@ -111,7 +111,6 @@ Your browser isn't invited for super fun audio time.
 					</ul>
 				</footer>
 
-		</div>
 
 		<!-- Scripts -->
 			<script src="assets/js/jquery.min.js"></script>
@@ -123,21 +122,21 @@ Your browser isn't invited for super fun audio time.
 			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
 			<script src="assets/js/main.js"></script>
 
-<?php echo "<script type=\"text/javascript\">
+<script>
 
-$(\"#search\").on(\"keyup\",function(){
-  $(\"#beep\")[0].pause();
-  $(\"#beep\")[0].currentTime=0;
-  $(\"#beep\")[0].play();
+$("#search").on("keyup",function(){
+  $("#beep")[0].pause();
+  $("#beep")[0].currentTime=0;
+  $("#beep")[0].play();
 });
 
-$(\"nav a\").on(\"mouseenter\",function(){
-  $(\"#beep\")[0].pause();
-  $(\"#beep\")[0].currentTime=0;
-  $(\"#beep\")[0].play();
+$("nav a").on("mouseenter",function(){
+  $("#beep")[0].pause();
+  $("#beep")[0].currentTime=0;
+  $("#beep")[0].play();
 });
 
-</script> "; ?>
+</script>  
 
 	</body>
 </html>
