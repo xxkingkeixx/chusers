@@ -2,6 +2,8 @@
 <?php require 'models/navbar.php' ?>
 <?php require 'db.php'     ?>
 <?php require 'simple_html_dom.php'     ?>
+<?php require 'models/feed.php';
+      require 'models/music.php'?>
 
 <?php 
 echo '	
