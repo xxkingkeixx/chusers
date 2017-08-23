@@ -1,5 +1,5 @@
  <?php            
-include 'db.php';
+require 'db.php';
 $row = mysqli_query($conn, "SELECT * FROM store ");
 $usersep = mysqli_query($conn, "SELECT user_name FROM store ");
 
