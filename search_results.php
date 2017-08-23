@@ -20,7 +20,14 @@ echo $count;
 echo '<br>';
 echo $row["user_name"];
 
-
+if($count == 0){
+	echo 'No results found. Did you mean: <br>';
+	$format = strtoupper($user_name[0]);
+	$sug = mysqli_query($conn,'SELECT * FROM store WHERE user_name LIKE "$format%"');
+	while ($printsuggestions = mysqli_fetch_array($sug)) {
+    echo $printsuggestions["user_name"] . "<br>  ";
+}
+}
 
 echo '<br>Definition:<br>';
     $html = @file_get_html("https://www.merriam-webster.com/dictionary/" . $row["user_name"] );
