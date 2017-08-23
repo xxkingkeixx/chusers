@@ -10,7 +10,7 @@ echo '
 <div class="content">
 <header>
 <h2>Matching Usernames</h2>
-<p>Results: ' ;
+<p align="left">Results: ' ;
 
 $query=mysqli_query($conn,"SELECT * FROM store WHERE user_name='$user_name' ");
 $count=mysqli_num_rows($query);
