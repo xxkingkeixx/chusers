@@ -40,7 +40,7 @@ while ($lastusers = mysqli_fetch_array($row)) {
 
 
 
-echo '</b></marquee></div>';
+echo '....Bot info and documentation still under construction...</b></marquee></div>';
 
 
 
