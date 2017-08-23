@@ -3,6 +3,7 @@ require 'header.php';
 require 'navbar.php';
 require 'db.php';    
 
+error_reporting(E_ALL);
 
 echo '	
 <!-- Banner -->
