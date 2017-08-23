@@ -18,9 +18,12 @@
 	<!-- Form -->
 							<section>
 								<h3>Form</h3>
-								<form method="post" action="#">
+								<form method="post" action="">
 									<div class="row uniform 50%">
-										
+										<div class="6u 12u$(xsmall)">
+											<input type="text" name="usernames" id="name" value="" placeholder="usernames here" />
+										</div>
+
 										<div class="4u 12u$(medium)">
 											<input type="checkbox" id="priority-low" name="class" value='legendary' checked>
 											<label for="priority-low">Legendary</label>
@@ -59,7 +62,7 @@
 					<div class="container">
 						<header>
 							<h2>Added Usernames</h2>
-                        		
+                        	<?php require 'post.php'?>	
 							
 						</header>
 				
