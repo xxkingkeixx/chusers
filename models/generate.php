@@ -18,7 +18,7 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     echo ' spacing"><a href="#premium">
     
     
-    <h5 class="white">';
+    ';
     //print the username
     echo $rowdata["user_name"];
     //print a dollar sign
