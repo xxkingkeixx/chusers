@@ -1,8 +1,9 @@
-<?php require 'header.php' ?>
-<?php require 'navbar.php' ?>
-<?php require 'db.php'     ?>
-
 <?php 
+require 'header.php'; 
+require 'navbar.php';
+require 'db.php';    
+
+
 echo '	
 <!-- Banner -->
 <section id="banner">
@@ -48,5 +49,4 @@ echo '</p>
 
 
 
-<?php require 'models/disqus.php' ?>
-<?php require 'models/footer.php' ?>
+<?php require 'models/footer.php'; ?>
