@@ -54,8 +54,11 @@ Your browser isn't invited for super fun audio time.
   <input type="checkbox" name="class" value="premium">Premium<br> 
   <input type="checkbox" name="class" value="normal">Normal<br>
   <input type="checkbox" name="class" value="lowest">Lowes<br>
-  <input type="checkbox" id="human" name="human" checked>
-  <label for="human">I am a human and not a robot</label>
+  <div class="6u$ 12u$(medium)">
+											<input type="checkbox" id="human" name="human" checked>
+											<label for="human">I am a human and not a robot</label>
+										</div>
+
 										
 
 </form>
