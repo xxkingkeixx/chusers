@@ -43,7 +43,8 @@ echo '</div></section> ';
 
 //if results are found parse the definition
 else {
-echo '<br>Price: $' . $row["price"];	
+echo '<br>Price: $' . $row["price"];
+echo '<br>Type: ' . $row["class"];	
 echo '
 </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
 ';
