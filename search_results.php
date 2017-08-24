@@ -23,7 +23,7 @@ echo $count;
 							
 echo '<br>';
 echo $row["user_name"];
-echo '<br>Price: $' . $row["price"];
+
 //if the user isn't found print suggestions
 if($count == 0){
 echo 'No results found. Did you mean: <br>';
@@ -43,7 +43,7 @@ echo '</div></section> ';
 
 //if results are found parse the definition
 else {
-	
+echo '<br>Price: $' . $row["price"];	
 echo '
 </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
 ';
