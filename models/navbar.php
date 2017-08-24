@@ -15,7 +15,7 @@
 							</li>
 						<!--Tutorials -->
 							<li id="list">
-								<a href="http://chatango-themes.tumblr.com/">Tutorials</a>
+								<a href="tutorials/tutorials.php">Tutorials</a>
 							</li>
 						<!-- Bot -->	
 							<li id="list">
