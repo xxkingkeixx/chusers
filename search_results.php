@@ -23,6 +23,7 @@ echo $count;
 							
 echo '<br>';
 echo $row["user_name"];
+echo '<br>Price: $' . $row["price"];
 //if the user isn't found print suggestions
 if($count == 0){
 echo 'No results found. Did you mean: <br>';
