@@ -76,7 +76,7 @@ mysqli_query($conn, "UPDATE store SET class = 'premium' , price = '10' WHERE  us
 if(isset($_POST['class']) &&
 $_POST['class'] == 'normal')
 {
-mysqli_query($conn, "UPDATE store SET class = 'normal' , price = '5' WHERE  user_name = '$value'");
+mysqli_query($conn, "UPDATE store SET class = 'regular' , price = '5' WHERE  user_name = '$value'");
 }
 if(isset($_POST['class']) &&
 $_POST['class'] == 'lowest')
