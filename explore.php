@@ -21,7 +21,18 @@
     <link href="assets/css/explorecss/sidebar-menu.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/animate.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css" />
-</head>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="stylesheet" href="assets/css/font-awesome.min.css">
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.5.2/jquery.min.js"></script>
+    <!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+    <!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+    <audio id="beep" preload="auto">
+	
+    <!--     Change Audio Here  -->   	
+    <source src="audio/click.ogg"></source>
+    Your browser isn"t invited for super fun audio time.
+    </audio>
+    </head>
 
 <body>
     <?php require 'models/navbar.php' ?>
