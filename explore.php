@@ -56,7 +56,8 @@
             <div class="container">
                 <div class="row">
                     <ul class="col container-filter categories-filter">
-                        <a href="http://chatangu.tk/" class="fa fa-home fa-fw"></a>
+                        <li id="list"><a href="http://chatangu.tk/" class="fa fa-home fa-fw"></a></li>
+    
                         <li><a class="categories active" data-filter="*">All</a></li>
                         <li><a class="categories" data-filter=".legendary">legendary</a></li>
                         <li><a class="categories" data-filter=".premium">premium</a></li>
