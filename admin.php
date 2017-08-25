@@ -23,7 +23,7 @@
 										<div class="6u 12u$(xsmall)">
 											<input type="text" name="user_names" id="name" value="" placeholder="usernames here" />
 										</div>
-<br>
+
 										<div class="4u 12u$(medium)">
 											<input type="checkbox" id="priority-low" name="class" value='legendary' checked>
 											<label for="priority-low">Legendary</label>
