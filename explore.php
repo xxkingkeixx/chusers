@@ -24,6 +24,7 @@
 </head>
 
 <body>
+    <?php require 'models/navbar.php' ?>
 
     <!-- Preloader -->
     <section id="preloader">
