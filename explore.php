@@ -2,6 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
+    
+    <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+    
     <meta charset="utf-8" />
     <title>Explore</title>
     <meta name="description" content="" />
