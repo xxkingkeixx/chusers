@@ -59,7 +59,9 @@
             <div class="container">
                 <div class="row">
                     <ul class="col container-filter categories-filter">
-                        <li id="list"><a href="http://chatangu.tk/" class="fa fa-home fa-fw"></a></li>
+                        
+                        
+                       <a href="http://chatangu.tk/"><img src="http://findicons.com/files/icons/1580/devine_icons_part_2/512/home.png" width="50"></a>
     
                         <li><a class="categories active" data-filter="*">All</a></li>
                         <li><a class="categories" data-filter=".legendary">legendary</a></li>
