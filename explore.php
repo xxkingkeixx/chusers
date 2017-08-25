@@ -94,9 +94,8 @@
                 
                 <div class="row container-grid nf-col-5"> <!--how many in a row number-->  
      <?php require 'models/generate.php'; ?>
- 
-
- 
+     
+        </div> 
         </div>
         </div>
         </section>
