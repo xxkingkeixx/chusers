@@ -32,8 +32,6 @@
         </div>
     </section>
     <!-- End Preloader -->
-    
-<?php require 'models/navbar.php' ?>
 
 
     <!-- Site Wraper -->
@@ -46,7 +44,7 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color">Chatangu.tk.</span> The biggest<br />
+                            <span class="color"><a href="/">Chatangu.tk.</a></span> The biggest<br />
                             repository of Chatango accounts
                         </h2>
                     </div>
