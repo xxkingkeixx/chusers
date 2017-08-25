@@ -33,7 +33,7 @@
 								<div class="4u 12u$(medium)">
 									<p>Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available, the prices of these usernames will be vastly lower than original market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
 									
-									<a href="/explore" class="button">Explore Available Accounts</a>
+									<center><a href="/explore" class="button">Explore Available Accounts</a></center>
 		
 									
 								</div>
