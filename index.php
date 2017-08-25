@@ -84,7 +84,7 @@
 						<p>The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
 						
 					</div>
-					<a href="models/disqus" class="goto-next scrolly">Next</a>
+					<!--a href="#four" class="goto-next scrolly">Next</a-->
 				</section>
 <?php require 'models/music.php' ?>
 <?php require 'models/feed.php' ?>
