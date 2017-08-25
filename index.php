@@ -82,13 +82,11 @@
 						</header>
 						
 						<li>
-							<p>
 							The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.
 							</p>
 						</li>
 						
 						<li>
-							<p>
 							The tutorials page will be updated regularly. If you have any requests for a tutorial please notify our 2nd developer, Aeri.
 							</p>
 						</li>
