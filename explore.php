@@ -32,7 +32,8 @@
         </div>
     </section>
     <!-- End Preloader -->
-
+    
+<?php require 'models/navbar.php' ?>
 
 
     <!-- Site Wraper -->
@@ -60,9 +61,6 @@
                 <div class="row">
                     <ul class="col container-filter categories-filter">
                         
-                        
-                       <a href="http://chatangu.tk/"><img src="https://cdn1.iconfinder.com/data/icons/material-core/20/home-128.png" width="10"></a>
-    
                         <li><a class="categories active" data-filter="*">All</a></li>
                         <li><a class="categories" data-filter=".legendary">legendary</a></li>
                         <li><a class="categories" data-filter=".premium">premium</a></li>
