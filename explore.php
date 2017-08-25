@@ -81,9 +81,9 @@
                         <li><a class="categories" data-filter=".m">m</a></li>
                         <li><a class="categories" data-filter=".n">n</a></li>
                         <li><a class="categories" data-filter=".o">o</a></li>
+                        <br>
                         <li><a class="categories" data-filter=".p">p</a></li>
                         <li><a class="categories" data-filter=".q">q</a></li>
-                        <br>
                         <li><a class="categories" data-filter=".r">r</a></li>
                         <li><a class="categories" data-filter=".s">s</a></li>
                         <li><a class="categories" data-filter=".t">t</a></li>
