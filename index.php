@@ -83,9 +83,8 @@
 					</div>
 					<?php require 'models/feed.php' ?>
 						<footer class="major">
-							<ul class="actions">
-								<li><a href="/explore" class="button">Explore Available Accounts</a></li>
-							</ul>
+
+
 						</footer>
 					</div>
 				</section>
