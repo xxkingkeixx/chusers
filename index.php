@@ -32,6 +32,10 @@
 								</div>
 								<div class="4u 12u$(medium)">
 									<p>Below you will be able to search for alphabetically for a username that fits you. Because of the ridiculous amount of usernames available, the prices of these usernames will be vastly lower than original market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
+									
+									<li><a href="/explore" class="button">Explore Available Accounts</a></li>
+		
+									
 								</div>
 								<div class="4u$ 12u$(medium)">
 									<p>All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Because of the high volume of requests for usernames, you should expect a wait time of at least an hour. All transactions are safely secured with Paypal and once you pay for a username, you will be told when the username is free to register. Furthermore, all transactions are final.</p>
