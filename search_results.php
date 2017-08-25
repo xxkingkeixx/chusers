@@ -44,7 +44,18 @@ echo '</div></section> ';
 //if results are found parse the definition
 else {
 echo '<br>Price: $' . $row["price"];
-echo '<br>Type: ' . $row["class"];	
+echo '<br>Type: ' . $row["class"];
+$capture = $row['user_status'];
+    if (($capture) == true ){
+        
+     echo "<br>  - Status : Available";
+     
+    }
+     else
+     {
+     echo "<br> - Status : Taken by"; 
+     echo ' ' . $record['buyer'];
+     }
 echo '
 </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
 ';
