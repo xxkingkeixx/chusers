@@ -214,7 +214,6 @@ font-family: 'Verdana', serif;
 <h1>Music Players</h1>
 
 <blockquote>
-<p><strong>How to Convert a Youtube Video to Mp3:</strong></p>
 <p><strong>Recommended Music Player:</strong></p>
 <p><em><a href="youtubeplayer">Youtube</a>&nbsp;(Autoplay)</em></p>
 <p><strong>Alternatives:</strong></p>
