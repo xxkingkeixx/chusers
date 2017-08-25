@@ -94,8 +94,7 @@
 						</li>
 						
 							<center><a href="tutorials/tutorials" class="button">Visit the Tutorials Page</a></center>
-							<center><a href="/" class="button">Bot (Coming soon!)</a></center>
-						
+
 					</div>
 					<!--a href="#four" class="goto-next scrolly">Next</a-->
 				</section>
