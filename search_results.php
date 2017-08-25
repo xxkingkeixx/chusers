@@ -48,12 +48,12 @@ echo '<br>Type: ' . $row["class"];
 $capture = $row['user_status'];
     if (($capture) == true ){
         
-     echo "<br>  - Status : Available";
+     echo "<br>Status : Available";
      
     }
      else
      {
-     echo "<br> - Status : Taken by"; 
+     echo "<br>Status : Taken by"; 
      echo ' ' . $record['buyer'];
      }
 echo '
