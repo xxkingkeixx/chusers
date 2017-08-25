@@ -84,7 +84,7 @@
                         <li><a class="categories" data-filter=".s">s</a></li>
                         <li><a class="categories" data-filter=".t">t</a></li>
                         <li><a class="categories" data-filter=".u">u</a></li>
-                        <li><a class="categories" data-filter=".v">t</a></li>
+                        <li><a class="categories" data-filter=".v">v</a></li>
                         <li><a class="categories" data-filter=".w">w</a></li>
                         <li><a class="categories" data-filter=".x">x</a></li>
                         <li><a class="categories" data-filter=".y">y</a></li>
