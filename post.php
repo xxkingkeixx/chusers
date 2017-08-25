@@ -74,7 +74,7 @@ $_POST['class'] == 'premium')
 mysqli_query($conn, "UPDATE store SET class = 'premium' , price = '10' WHERE  user_name = '$value'");
 }
 if(isset($_POST['class']) &&
-$_POST['class'] == 'normal')
+$_POST['class'] == 'regular')
 {
 mysqli_query($conn, "UPDATE store SET class = 'regular' , price = '5' WHERE  user_name = '$value'");
 }
