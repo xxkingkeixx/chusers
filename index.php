@@ -60,7 +60,7 @@
 							Bot: Iceball </p>
 						</header>
 						<p>
-							As recently stated, every account is secured as a chat, and when a purchase is made, the account will be freed to register. 
+							Accounts are secured for a smooth transition to your ownership.
 							<br>
 							For your own safety, please do NOT disclose the username you are purchasing to ANYONE before registering it under your own email. Failure to do so may lead to someone you know registering your account. If you have any questions or concerns you can message the developers, or the helper bot (coming soon).
 						</p>
