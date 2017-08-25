@@ -80,7 +80,18 @@
 							<h2>Chatango Tutorials and Upcoming Projects</h2>
 							<p>Have problems creating a full profile or mini profile? Visit our free tutorials page.</p>
 						</header>
-						<p>The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
+						
+						<li>
+							<p>
+							The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.
+							</p>
+						</li>
+						
+						<li>
+							<p>
+							The tutorials page will be updated regularly. If you have any requests for a tutorial please notify our 2nd developer, Aeri.
+							</p>
+						</li>
 						
 							<center><a href="tutorials/tutorials" class="button">Visit the Tutorials Page</a></center>
 							<center><a href="/" class="button">Bot (Coming soon!)</a></center>
