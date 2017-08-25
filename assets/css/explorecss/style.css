@@ -965,7 +965,7 @@ form label.error {
     }
 
     .pb-sm-60 {
-        padding-bottom: 60px;
+        padding-bottom: 0px; /**/
     }
 
     .pt-sm-60 {
