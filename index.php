@@ -63,7 +63,7 @@
 						</header>
 						<p>
 							Accounts are secured for a smooth transition to your ownership. All payments will be made through Paypal so that your details are protected. 
-							<br>
+							<br><br>
 							For your own safety, please do NOT disclose the username you are purchasing to ANYONE before registering it under your own email. Failure to do so may lead to someone you know registering your account. If you have any questions or concerns you can message the developers, or the helper bot (coming soon).
 						</p>
 					</div>
