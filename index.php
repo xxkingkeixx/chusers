@@ -3,8 +3,10 @@
 <?php require 'models/navbar.php' ?>
 <?php require 'db.php' ?>
 
+
 			<!-- Banner -->
 				<section id="banner">
+					<title>Shop</title>
 					<div class="content">
 						<header>
 							<h2>The Chatango Warehouse</h2>
