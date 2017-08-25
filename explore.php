@@ -44,7 +44,7 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color"><a href="/"><font color="#ccc">Chatangu.tk.</font></a></span> The biggest<br />
+                            <span class="color"><a href="/"><font color="#e8ac4a">Chatangu.tk.</font></a></span> The biggest<br />
                             repository of Chatango accounts
                         </h2>
                     </div>
@@ -60,6 +60,7 @@
                     <ul class="col container-filter categories-filter">
                         
                         <li><a class="categories active" data-filter="*">All</a></li>
+                        <li><a class="categories" data-filter=".offer">offer</a></li>
                         <li><a class="categories" data-filter=".legendary">legendary</a></li>
                         <li><a class="categories" data-filter=".premium">premium</a></li>
                         <li><a class="categories" data-filter=".regular">regular</a></li>
