@@ -215,13 +215,13 @@ font-family: 'Verdana', serif;
 
 <blockquote>
 <p><strong>How to Convert a Youtube Video to Mp3:</strong></p>
-<p><em><link href="">Tutorial Here</a>&nbsp;(Recommended For Mini and Billy Player)</em></p>
+<p><em><a href="">Tutorial Here</a>&nbsp;(Recommended For Mini and Billy Player)</em></p>
 <p><strong>Recommended Music Player:</strong></p>
-<p><em><link href="tutorials/youtubeplayer">Youtube</a>&nbsp;(Autoplay)</em></p>
+<p><em><a href="tutorials/youtubeplayer">Youtube</a>&nbsp;(Autoplay)</em></p>
 <p><strong>Alternatives:</strong></p>
-<p><em><link href="tutorials/miniflashplayer">Mini Flash</a> (Manual Start)</em></p>
-<p><em><link href="tutorials/sheepplayer">Billy Player</a> (Manual/Autoplay)</em></p>
-<p><em><link href="tutorials/soundcloudplayer">Soundcloud</a> (Autoplay)</em></p>
+<p><em><a href="tutorials/miniflashplayer">Mini Flash</a> (Manual Start)</em></p>
+<p><em><a href="tutorials/sheepplayer">Billy Player</a> (Manual/Autoplay)</em></p>
+<p><em><a href="tutorials/soundcloudplayer">Soundcloud</a> (Autoplay)</em></p>
 </blockquote>
 
 
