@@ -61,7 +61,7 @@
 <tr><td><input type="hidden" name="on2" value="What account do you want?">What account do you want?</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
 </table>
 <input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<input type="submit" class='special' border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
