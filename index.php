@@ -39,9 +39,11 @@
 									
 								</div>
 								<div class="4u$ 12u$(medium)">
-									<p>All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Due to the high volume of requests for usernames, you should expect a wait time of at least an hour.
-									<br>
-									All transactions are safely secured with Paypal. Once you purchase a username, you will be notified when the username is free to register. Furthermore, all transactions are final.</p>
+									<p>
+										All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Due to the high volume of requests for usernames, you should expect a wait time of at least an hour.
+										<br><br>
+										All transactions are safely secured with Paypal. Once you purchase a username, you will be notified when the username is free to register. Furthermore, all transactions are final.
+									</p>
 								</div>
 							</div>
 						</div>
@@ -91,11 +93,8 @@
 			<!-- Four -->
 				<!--section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
-
 					</div>
 						<footer class="major">
-
-
 						</footer>
 					</div>
 				</section-->
