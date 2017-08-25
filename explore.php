@@ -3,7 +3,7 @@
 <html>
 <head>
     
-    <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+    <link rel="shortcut icon" href="http://i.imgur.com/04mEdjm.png" type="image/x-icon">
     
     <meta charset="utf-8" />
     <title>Explore</title>
