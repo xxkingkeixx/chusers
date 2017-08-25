@@ -44,7 +44,7 @@
                     <div class="col">
                         <div class="col-md-8 offset-md-2"></div>
                         <h2>
-                            <span class="color"><a href="/">Chatangu.tk.</a></span> The biggest<br />
+                            <span class="color"><a href="/"><font color="#ccc">Chatangu.tk.</font></a></span> The biggest<br />
                             repository of Chatango accounts
                         </h2>
                     </div>
