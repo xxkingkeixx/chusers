@@ -44,7 +44,7 @@ echo '</div></section> ';
 //if results are found parse the definition
 else {
 echo '<br>Price: $' . $row["price"];
-echo '<br>Type: ' . $row["class"];
+echo '<br>Type: ' . strtoupper($row["class"]);
 $capture = $row['user_status'];
     if (($capture) == true ){
         
