@@ -23,7 +23,7 @@
 										<div class="6u 12u$(xsmall)">
 											<input type="text" name="user_names" id="name" value="" placeholder="usernames here" />
 										</div>
-
+<center>
 										<div class="4u 12u$(medium)">
 											<input type="checkbox" id="priority-low" name="class" value='legendary' checked>
 											<label for="priority-low">Legendary</label>
@@ -40,7 +40,7 @@
 											<input type="checkbox" id="priority-h" name="class" value='lowest'>
 											<label for="priority-h">Lowest</label>
 										</div>
-									
+</center>
 										<div class="12u$">
 											<ul class="actions">
 												<li><input type="submit" value="Send" class="special" /></li>
