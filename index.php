@@ -87,7 +87,7 @@
 						</li>
 						
 						<li>
-							The tutorials page will be updated regularly. If you have any requests for a tutorial please notify our 2nd developer, Aeri.
+							The tutorials page will be updated regularly. If you have any requests for a tutorial please notify our second developer, Aeri.
 							</p>
 						</li>
 						
