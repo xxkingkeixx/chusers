@@ -54,7 +54,7 @@ $capture = $row['user_status'];
      else
      {
      echo "<br>Status : Taken by"; 
-     echo ' ' . $record['buyer'];
+     echo ' ' . $row['buyer'];
      }
 echo '
 </p></header><span class="image"><img src="/images/search.jpg" alt="" /></span>
