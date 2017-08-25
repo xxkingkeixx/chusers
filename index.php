@@ -31,7 +31,7 @@
 									</header>
 								</div>
 								<div class="4u 12u$(medium)">
-									<p>You will be able to search alphabetically for a username that fits you. Because of the immense amount of usernames available, the prices of these usernames will be vastly lower than their usual market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
+									<p>You will be able to search alphabetically for a username that fits you. Due to the immense amount of usernames available, the prices of these usernames will be vastly lower than their usual market prices. This will put an end to the elitists selling accounts for $300 or more.</p>
 									
 									
 									<center><a href="/explore" class="button">Explore Available Accounts</a></center>
