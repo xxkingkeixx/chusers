@@ -85,18 +85,20 @@
 					<a href="#four" class="goto-next scrolly">Next</a>
 				</section>
 <?php require 'models/music.php' ?>
+<?php require 'models/feed.php' ?>
+
+
 			<!-- Four -->
-				<section id="four" class="wrapper style1 special fade-up">
+				<!--section id="four" class="wrapper style1 special fade-up">
 					<div class="container">
 
 					</div>
-					<?php require 'models/feed.php' ?>
 						<footer class="major">
 
 
 						</footer>
 					</div>
-				</section>
+				</section-->
 
 <?php require 'models/disqus.php' ?>
 
