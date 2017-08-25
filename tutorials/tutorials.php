@@ -215,20 +215,14 @@ font-family: 'Verdana', serif;
 
 <blockquote>
 <p><strong>How to Convert a Youtube Video to Mp3:</strong></p>
-<p><em><a href="http://chatango-themes.tumblr.com/post/147913765213/how-to-convert-a-youtube-video-into-an-mp3-file" target="_blank">Tutorial Here</a>&nbsp;(Recommended For Mini and Billy Player)</em></p>
+<p><em><link href="">Tutorial Here</a>&nbsp;(Recommended For Mini and Billy Player)</em></p>
 <p><strong>Recommended Music Player:</strong></p>
-<p><em><a href="http://chatango-themes.tumblr.com/post/147919526273/recommended-chatango-music-player-youtube" target="_blank">Youtube</a>&nbsp;(Autoplay)</em></p>
+<p><em><link href="">Youtube</a>&nbsp;(Autoplay)</em></p>
 <p><strong>Alternatives:</strong></p>
-<p><em><a href="http://chatango-themes.tumblr.com/post/147918959098/music-player-alternative-1-mini-flash" target="_blank">Mini Flash</a> (Manual Start)</em></p>
-<p><em><a href="http://chatango-themes.tumblr.com/post/147919436593/music-player-alternative-3-billy-sheep" target="_blank">Billy Player</a> (Manual/Autoplay)</em></p>
-<p><em><a href="http://chatango-themes.tumblr.com/post/147919214368/music-player-alternative-2-soundcloud" target="_blank">Soundcloud</a> (Autoplay)</em></p>
+<p><em><link href="">Mini Flash</a> (Manual Start)</em></p>
+<p><em><link href="">Billy Player</a> (Manual/Autoplay)</em></p>
+<p><em><link href="">Soundcloud</a> (Autoplay)</em></p>
 </blockquote>
-
-
-
-
-
-
 
 
 
@@ -282,9 +276,6 @@ font-family: 'Verdana', serif;
 
 
 
-
-
-
 <h1>Helpful Tools</h1>
 <blockquote>
 
@@ -328,8 +319,6 @@ font-family: 'Verdana', serif;
 <a href="http://www.upl.co/uploads/uspostalcodes01502824003.zip">All American Zip Codes</a> (Excel File)
 </li>
 </blockquote>
-
-
 
 
 
