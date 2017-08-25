@@ -49,13 +49,16 @@
 					<a href="#two" class="goto-next scrolly">Next</a>
 				</section>
 
+
 			<!-- Two -->
 				<section id="two" class="spotlight style2 right">
 					<span class="image fit main"><img src="/images/onep.jpg" alt="" /></span>
 					<div class="content">
 						<header>
 							<h2>Security is Our Priority</h2>
-							<p>Developers: <a href="http://debugger.chatango.com/">Debugger</a> / <a href="http://aeri.chatango.com/">Aeri</a>
+							<p>Developers
+								<br>
+								<a href="http://debugger.chatango.com/">Debugger</a> / <a href="http://aeri.chatango.com/">Aeri</a>
 							</p>
 						</header>
 						<p>
@@ -64,6 +67,7 @@
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
 				</section>
+
 
 			<!-- Three -->
 				<section id="three" class="spotlight style3 left">
