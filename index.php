@@ -55,9 +55,8 @@
 					<div class="content">
 						<header>
 							<h2>Security is Our Priority</h2>
-							<p>Developers: Debugger / Aeri
-							<br>
-							Bot: Iceball </p>
+							<p>Developers: <a href="http://debugger.chatango.com/">Debugger</a> / <a href="http://aeri.chatango.com/">Aeri</a>
+							</p>
 						</header>
 						<p>
 							Accounts are secured for a smooth transition to your ownership.
