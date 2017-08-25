@@ -24,7 +24,20 @@
 </head>
 
 <body>
-    	<header id="header">
+    
+
+    <!-- Preloader -->
+    <section id="preloader">
+        <div class="loader" id="loader">
+            <div class="loader-img"></div>
+        </div>
+    </section>
+    <!-- End Preloader -->
+
+
+    <!-- Site Wraper -->
+    <div class="wrapper">
+        	<header id="header">
 					<h1 id="logo"><a href="http://chatangu.tk/">Chatangu</a></h1>
 					<nav id="nav" style="margin-right:40px;">
 						<ul>
@@ -55,18 +68,6 @@
 							</li>
 					</nav>
 				</header>
-
-    <!-- Preloader -->
-    <section id="preloader">
-        <div class="loader" id="loader">
-            <div class="loader-img"></div>
-        </div>
-    </section>
-    <!-- End Preloader -->
-
-
-    <!-- Site Wraper -->
-    <div class="wrapper">
         <!-- CONTENT --------------------------------------------------------------------------------->
         <!-- About Section -->
         <section id="about" class="pt pt-sm-80">
