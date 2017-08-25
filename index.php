@@ -82,6 +82,8 @@
 						</header>
 						<p>The companion bot project is currently being developed, and details of the construction will be posted on the bot progress page.</p>
 						
+							<center><a href="tutorials/tutorials" class="button">Visit the Tutorials Page</a></center>
+						
 					</div>
 					<!--a href="#four" class="goto-next scrolly">Next</a-->
 				</section>
