@@ -9,7 +9,7 @@
 					<title>Shop</title>
 					<div class="content">
 						<header>
-							<h2>The Chatango Warehouse</h2>
+							<h2>The Account Warehouse</h2>
 							<p>Buy and offer for original accounts, or browse profile tutorials.<br />
 							Learn about current projects coming soon!</p>
 						</header>
