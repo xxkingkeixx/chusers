@@ -215,7 +215,6 @@ font-family: 'Verdana', serif;
 
 <blockquote>
 <p><strong>How to Convert a Youtube Video to Mp3:</strong></p>
-<p><em><a href="">Tutorial Here</a>&nbsp;(Recommended For Mini and Billy Player)</em></p>
 <p><strong>Recommended Music Player:</strong></p>
 <p><em><a href="youtubeplayer">Youtube</a>&nbsp;(Autoplay)</em></p>
 <p><strong>Alternatives:</strong></p>
