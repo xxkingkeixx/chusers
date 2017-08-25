@@ -1,4 +1,3 @@
-<?php echo '
 
 <!DOCTYPE html>
 <head>
@@ -344,7 +343,3 @@ font-family: 'Verdana', serif;
    
 </body>
 </html>
-
-
-
-'; ?>
