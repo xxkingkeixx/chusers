@@ -59,7 +59,11 @@
 							<br>
 							Bot: Iceball </p>
 						</header>
-						<p>As recently stated, every account is secured as a chat, and when a purchase is made, the account will be freed to register. Warning: Do NOT disclose the username to ANYONE before purchasing it. Failure to listen to this warning may lead to someone you know registering your account. If you have any questions or concerns you can message the developers listed, or the helper bot (coming soon).</p>
+						<p>
+							As recently stated, every account is secured as a chat, and when a purchase is made, the account will be freed to register. 
+							<br>
+							For your own safety, please do NOT disclose the username you are purchasing to ANYONE before registering it under your own email. Failure to do so may lead to someone you know registering your account. If you have any questions or concerns you can message the developers, or the helper bot (coming soon).
+						</p>
 					</div>
 					<a href="#three" class="goto-next scrolly">Next</a>
 				</section>
