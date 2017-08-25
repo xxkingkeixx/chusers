@@ -40,7 +40,7 @@
 								</div>
 								<div class="4u$ 12u$(medium)">
 									<p>
-										All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Due to the high volume of requests for usernames, you should expect a wait time of at least an hour.
+										All accounts are secured as chats to make transactions smooth and create an easy transition of ownership. Due to the high volume of requests for usernames, you should expect a wait time of 30 mins to and hour at the latest. 
 										<br><br>
 										All transactions are safely secured with Paypal. Once you purchase a username, you will be notified when the username is free to register. Furthermore, all transactions are final.
 									</p>
