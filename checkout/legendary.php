@@ -1,9 +1,9 @@
-<?php 
 
-require '/models/header.php';
-require '/models/navbar.php';
 
-?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/models/header.php"; ?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/models/navbar.php"; ?>
+
+
 
 <h1> Purchasing a Legendary</h1>
 
@@ -24,5 +24,5 @@ require '/models/navbar.php';
 </form>
 
 
-<?php require '/models/footer.php' ?>
+<?php require $_SERVER["DOCUMENT_ROOT"] . "/models/footer.php"; ?>
 
