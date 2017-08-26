@@ -1,4 +1,4 @@
-<!-- create models and include them where you want your code
+<!-- create models and include them where you want your code-->
 <?php require 'models/header.php' ?>
 <?php require 'models/navbar.php' ?>
 <?php require 'db.php' ?>
