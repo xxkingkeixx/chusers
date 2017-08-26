@@ -448,8 +448,8 @@ button {
 }
 
     .btn-white:hover {
-        /*color: #fff;
-        background: #e6ae49;*/
+        color: #fff;
+        background: #e6ae49;
         background: rgba(255,255,255,0.85);
         color: #323232;
     }
