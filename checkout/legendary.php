@@ -24,5 +24,5 @@ require 'models/navbar';
 </form>
 
 
-<?php require 'models' ?>
+<?php require 'models/footer.php' ?>
 
