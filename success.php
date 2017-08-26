@@ -6,16 +6,17 @@
 
 			<!-- Banner -->
 				<section id="banner">
-					<title>Welcome!</title>
+					<title>Success</title>
 					<div class="content">
 						<header>
-							<h2>The Account Warehouse</h2>
-							<p>Buy and offer for original accounts, or browse profile tutorials.<br />
-							Learn about current projects coming soon!</p>
+							<h2>Your order has been received.</h2>
+							<p>Thank you for your purchase! A developer should be contacting you shortly.</p>
 						</header>
 						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 					</div>
-					<a href="#one" class="goto-next scrolly"><center><a href="/explore" class="button">Explore Available Accounts</a></center></a>
+					
+<center><a href="/explore" class="button">Explore Available Accounts</a></center>
+
 				</section>
 
 
