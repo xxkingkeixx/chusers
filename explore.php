@@ -47,22 +47,9 @@
 				</section>
 				
 			<!-- Two -->
-				<section id="two" class="spotlight style2 right">
-					<span class="image fit main"><img src="/images/onep.jpg" alt="" /></span>
+				<section id="two">
 					<div class="content">
-						<header>
-							<h2>Security is Our Priority</h2>
-							<p>Developers:
-								<a href="http://debugger.chatango.com/">Debugger</a> / <a href="http://aeri.chatango.com/">Aeri</a>
-							</p>
-						</header>
-						<p>
-							Accounts are secured for a smooth transition to your ownership. All payments will be made through Paypal so that your details are protected. 
-							<br><br>
-							For your own safety, please do NOT disclose the username you are purchasing to ANYONE before registering it under your own email. Failure to do so may lead to someone you know registering your account. 
-							<br><br>
-							If you have any questions or concerns you can message the developers, or the helper bot (coming soon).
-						</p>
+
 
 				
 				
