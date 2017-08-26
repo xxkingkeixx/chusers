@@ -83,6 +83,11 @@ $_POST['class'] == 'lowest')
 {
 mysqli_query($conn, "UPDATE store SET class = 'lowest' , price= '1' WHERE  user_name = '$value'");
 }
+if(isset($_POST['class']) &&
+$_POST['class'] == 'offer')
+{
+mysqli_query($conn, "UPDATE store SET class = 'offer' , price= '1' WHERE  user_name = '$value'");
+}
 }
 
 

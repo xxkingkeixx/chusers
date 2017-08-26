@@ -3,7 +3,7 @@
 				<section id="five" class="wrapper style2 special fade">
 					<div class="container">
 						<header>
-							<h2>Comments:</h2>
+							<h2>Comments</h2>
 							
 						</header>
 					<div id="disqus_thread"></div>
