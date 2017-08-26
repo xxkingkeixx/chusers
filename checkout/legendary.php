@@ -9,7 +9,7 @@
 					<div class="content">
 						<header>
 
-<h1> Purchasing a Legendary</h1>
+<h1>Purchasing a Legendary</h1>
 
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
@@ -35,4 +35,3 @@
 				</section>
 
 <?php require $_SERVER["DOCUMENT_ROOT"] . "/models/footer.php"; ?>
-
