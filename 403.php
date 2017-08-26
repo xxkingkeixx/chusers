@@ -1,82 +1,30 @@
-<!DOCTYPE html>
-<html lang = 'en-us'>
-
-<head>
-<meta charset = 'UTF-8'>
-<meta name='description' content='404 page'>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
-<link rel="icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+<!-- create models and include them where you want your code-->
+<?php require 'models/header.php' ?>
+<?php require 'models/navbar.php' ?>
+<?php require 'db.php' ?>
 
 
+			<!-- Banner -->
+				<section id="banner">
+					<title>403</title>
+					<div class="content">
+						<header>
+							<center>
+								    <h2>Error 403: Page Forbidden</h2>
+							        <p>Sorry, that page is forbidden. Please return to the homepage.</p>
+							        <br><br>
+						            <a href="/explore" class="button">Continue Shopping</a>
+						      </center>
+						</header>
+						<!--span class="image"><img src="/images/pic01.jpg" alt="" /></span-->
+					</div>
+				</section>
 
 
-</head>
-
-<<!DOCTYPE html>
- 
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"> 
-<head>
- 
-<title>Error 403</title>
-<link rel="shortcut icon" href="http://i.imgur.com/1b26JQf.png">
-
- 
-<style type="text/css">
+				
+				
 
 
-body{
-background-image: url('http://i66.tinypic.com/2dqm6g6.png') !important; background-repeat;repeat !important; 
-background-position:left!important;
-width: 100%;
-height: 100%;
-background-size: 100% 100%;
-background-repeat:repeat;
-background-attachment:fixed;
-  overflow-x: hidden;
-  overflow-y: hidden;
-}
+<!-- all other models must be about this one!! -->
+<?php require 'models/footer.php' ?>
 
-  body {
-  padding-top: 200px;
-  text-align: center;
-  background: url(http://i.imgur.com/jQBeP4X.png) 50%;
-  background-size: cover;
-}
-
-h1 {
-  font-size: 30px;
-  color:#fff;
-  font-family: sans-serif;
-  padding-bottom:10px;
-  padding-top:50px;
-}
-
-h2 {
-  font-size: 20px;
-  font-family: sans-serif;
-  color:#fff;
-  padding-bottom:10px;
-}
-
-
-</style> 
-
-
-<h1>Error 403: Page Forbidden</h1>
-
-
-<h2>
-Sorry, this page is forbidden.
-<br>
-Please return to the main site.
-</h2>
-
-<center>
-<a href="http://chatangu.tk/">
-  <img src="http://i.imgur.com/QLlgDh6.png" width="50">
-</a>
-
-
-</body>
-</html>
