@@ -11,7 +11,7 @@
     <title>Explore</title>
 
   <!-- CSS -->
-    <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css" />
+   
     <link href="assets/css/explorecss/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/font-awesome.css" rel="stylesheet" type="text/css" />
 
