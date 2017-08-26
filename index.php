@@ -98,6 +98,8 @@
 					</div>
 					<!--a href="#four" class="goto-next scrolly">Next</a-->
 				</section>
+				
+				
 <?php require 'models/music.php' ?>
 <?php require 'models/feed.php' ?>
 
