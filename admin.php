@@ -53,6 +53,31 @@
 										</div>
 									</div>
 								</form>
+								
+								<!-- specify buyer here -->
+									<h3>Form</h3>
+								<form method="post" action="">
+									<div class="row uniform 50%">
+										<div class="6u 12u$(xsmall)">
+											<input type="text" name="bought" id="name" value="" placeholder="username here" />
+										</div>
+										<div class="6u 12u$(xsmall)">
+											<input type="text" name="buyer" id="name" value="" placeholder="buyer here" />
+										</div>
+
+										<div class="12u$">
+											<ul class="actions">
+												<li><input type="submit" value="Send" class="special" /></li>
+											
+											</ul>
+										</div>
+									</div>
+								</form>
+								
+								
+								
+								
+								
 
 
 
