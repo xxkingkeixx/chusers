@@ -31,14 +31,6 @@
     </section>
     <!-- End Preloader -->
 
-
-    <!-- Site Wraper -->
-    <div class="wrapper">
-        	<header id="header">
-					<h1 id="logo"><a href="/" class="fa fa-home fa-fw"></a></h1>
-					<nav id="nav" style="margin-right:40px;">
-					
-				</header>
 				
 				
         <!-- CONTENT --------------------------------------------------------------------------------->
