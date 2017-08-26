@@ -10,13 +10,13 @@
 					<div class="content">
 						<header>
 							<center>
+							  <span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 								    <h2>ERROR 403: Page Forbidden</h2>
 							        <p>Sorry, that page is forbidden. Please return to the homepage.</p>
 							        <br><br>
 						            <a href="/explore" class="button">Continue Shopping</a>
 						      </center>
 						</header>
-						<!--span class="image"><img src="/images/pic01.jpg" alt="" /></span-->
 					</div>
 				</section>
 

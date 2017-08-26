@@ -10,6 +10,7 @@
 					<div class="content">
 						<header>
 							<center>
+							  <span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 								    <h2>ERROR 404: Page Not Found</h2>
 							        <p>Oops! Sorry, we couldn't find that page. Are you lost?</p>
 							        <br><br>
