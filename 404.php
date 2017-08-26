@@ -9,7 +9,7 @@
 					<title>404</title>
 					<div class="content">
 						<header>
-						  <span class="image"><img src="/images/404.jpg" alt="" /></span>
+						  <center><span class="image"><img src="/images/404.jpg" alt="" /></span></center>
 							<center>
 									    <h2>ERROR 404: Page Not Found</h2>
 							        <p>Oops! Sorry, we couldn't find that page. Are you lost?</p>
