@@ -10,7 +10,7 @@
 					<div class="content">
 						<header>
 							<center>
-								    <h2>Error 404: Page Not Found</h2>
+								    <h2>ERROR 404: Page Not Found</h2>
 							        <p>Oops! Sorry, we couldn't find that page. Are you lost?</p>
 							        <br><br>
 						            <a href="/explore" class="button">Continue Shopping</a>

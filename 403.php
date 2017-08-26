@@ -10,7 +10,7 @@
 					<div class="content">
 						<header>
 							<center>
-								    <h2>Error 403: Page Forbidden</h2>
+								    <h2>ERROR 403: Page Forbidden</h2>
 							        <p>Sorry, that page is forbidden. Please return to the homepage.</p>
 							        <br><br>
 						            <a href="/explore" class="button">Continue Shopping</a>
