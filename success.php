@@ -12,6 +12,7 @@
 							<center>
 								    <h2>Your order has been received.</h2>
 							        <p>Thank you for your purchase! A developer should be contacting you shortly.</p>
+							        <br><br>
 						            <a href="/explore" class="button">Continue Shopping</a>
 						      </center>
 						</header>
