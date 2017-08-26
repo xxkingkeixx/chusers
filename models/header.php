@@ -2,7 +2,6 @@
 <!DOCTYPE html>
 <html lang = "en-us">
 <head>
-<title>Shop</title>
 <meta charset ="UTF-8">
 <meta name="description" content="The chatango username warehouse">
 <meta name="keywords" content="chatango,chatangu,shop,buy,purchase,usernames">
