@@ -91,11 +91,12 @@ mysqli_query($conn, "UPDATE store SET class = 'offer' , price= '1' WHERE  user_n
 }
 
 
-
+$update = $_POST['bought'];
+$buyer = $_POST['buyer'];
 
 if(isset($_POST['bought']))
 {
-mysqli_query($conn, "UPDATE store SET buyer = '$_POST[buyer]' , available= '0' WHERE  user_name = '$_POST[bought]'");
+mysqli_query($conn, "UPDATE store SET buyer = '$buyer' , user_status = '0' WHERE  user_name = '$update'");
 }
 
 
