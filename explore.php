@@ -37,11 +37,12 @@
 					<title>Welcome!</title>
 					<div class="content">
 						<header>
-							<h2>The Account Warehouse</h2>
+							<center><h2>The Account Warehouse</h2>
 							<p>Buy and offer for original accounts, or browse profile tutorials.<br />
 							Learn about current projects coming soon!</p>
+							</center>
 						</header>
-						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
+			
 					</div>
 					<a href="#one" class="goto-next scrolly">Next</a>
 				</section>
