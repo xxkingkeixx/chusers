@@ -73,7 +73,7 @@ body, html {
 
 body {
     line-height: 24px;
-    color: #323232;
+    color: #fff;
     font-size: 13px;
     font-family: 'Raleway', sans-serif;
     font-weight: 400;
@@ -98,7 +98,7 @@ a, a:focus, a:active, a:link, img {
 a {
     cursor: pointer;
     text-decoration: none;
-    color: #323232;
+    color: #fff;
     transition: all 0.25s ease 0s;
     -moz-transition: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
@@ -193,7 +193,7 @@ p {
     }
 
     p.dark, .dark, a.dark, h1.dark, h2.dark, h3.dark, h4.dark, h5.dark, h6.dark {
-        color: #323232 !important;
+        color: #fff !important;
     }
 
     p.white, .white, a.white, h1.white, h2.white, h3.white, h4.white, h5.white, h6.white {
@@ -213,11 +213,11 @@ p {
 }
 
 .dark-color h1, .dark-color h2, .dark-color h3, .dark-color h4, .dark-color h5, .dark-color h6, .dark-color p, .dark-color, .dark-color .container-icon {
-    color: #323232;
+    color: #fff;
 }
 
 .dark-bg {
-    background: #323232;
+    background: #fff;
     color: #fff;
 }
 
@@ -231,11 +231,11 @@ p {
 
 .gray-bg {
     background: #f7f7f7;
-    color: #323232;
+    color: #fff;
 }
 
     .gray-bg h1, .gray-bg h2, .gray-bg h3, .gray-bg h4, .gray-bg h5, .gray-bg h6, .gray-bg .container-icon {
-        color: #323232;
+        color: #fff;
     }
 
 
@@ -268,7 +268,7 @@ p {
     }
 
 h1, h2, h3, h4, h5, h6 {
-    color: #323232;
+    color: #fff;
     text-transform: uppercase;
     font-family: 'Raleway', sans-serif;
     font-weight: 600;
@@ -413,7 +413,7 @@ button {
 
 .btn-black {
     color: #fff;
-    background: #323232;
+    background: #fff;
     border: none;
 }
 
@@ -460,14 +460,14 @@ button {
 }
 
 .btn-black-line {
-    color: #323232;
-    border-color: #323232;
+    color: #fff;
+    border-color: #fff;
     padding: 9px 20px;
 }
 
     .btn-black-line:hover {
         color: #fff;
-        background: #323232;
+        background: #fff;
     }
 
 .btn-color-line {
@@ -490,12 +490,12 @@ button {
 }
 
     .btn-white-line:hover {
-        color: #323232;
+        color: #fff;
         background: #fff;
     }
 
 .btn-link-a, .btn-link-b {
-    color: #323232;
+    color: #fff;
     background: none;
     padding-left: 0px;
     padding-right: 0px;
@@ -567,7 +567,7 @@ button, input, textarea, select {
 
         input[type="text"]:focus, input[type="email"]:focus, input[type="tel"]:focus, input[type="number"]:focus, input[type="radio"]:focus, input[type="checkbox"]:focus, input[type="password"]:focus, textarea:focus {
             border-color: #e6ae49;
-            color: #323232;
+            color: #fff;
         }
 
 input, textarea, select {
@@ -585,7 +585,7 @@ textarea {
 }
 
 label {
-    color: #323232;
+    color: #fff;
     font-size: 13px;
     margin-bottom: 10px;
     padding-right: 3px;
@@ -1419,7 +1419,7 @@ header.header-light .nav-bar-icon > span::after,
 header.header-prepare .nav-bar-icon > span,
 header.header-prepare .nav-bar-icon > span:before,
 header.header-prepare .nav-bar-icon > span::after {
-    background-color: #323232;
+    background-color: #fff;
 }
 
 
@@ -1581,7 +1581,7 @@ header.header-prepare .nav-bar-icon > span::after {
 .side-menu-btn {
     float: right;
     position: relative;
-    color: #323232;
+    color: #fff;
 }
 
     .side-menu-btn ul {
@@ -1631,7 +1631,7 @@ header.header-prepare .nav-bar-icon > span::after {
 
 .header.header-prepare .side-menu-btn ul li a,
 .header.header-light .side-menu-btn ul li a {
-    color: #323232;
+    color: #fff;
 }
 
 header.header-dark .side-menu-btn ul li a,
@@ -2025,7 +2025,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 
 .footer {
     background-color: #f7f7f7;
-    color: #323232;
+    color: #fff;
     position: relative;
     width: 100%;
     display: block;
@@ -2036,7 +2036,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     }
 
     .footer .footer-info p {
-        color: #323232;
+        color: #fff;
     }
 
 .footer-logo {
@@ -2197,7 +2197,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 .skillbar-bar {
     height: 3px;
     width: 0px;
-    background: #323232;
+    background: #fff;
     -webkit-transition-property: width, background-color;
     -moz-transition-property: width, background-color;
     -ms-transition-property: width, background-color;
@@ -2210,7 +2210,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 }
 
 .skillbar-title, .skill-bar-percent {
-    color: #323232;
+    color: #fff;
     font-size: 11px;
     font-weight: 600;
     text-transform: uppercase;
@@ -2473,7 +2473,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     line-height: 50px;
     padding-bottom: 20px;
     width: 100%;
-    color: #323232;
+    color: #fff;
 }
 
 .white .page-icon-top, .white .page-icon-left, .white .features-icon-left, .white .features-icon-right {
@@ -2531,7 +2531,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
 /*-------------------------------------------------------------------------------------------*/
 /* Sidebar Menu */
 .side-menu {
-    background: #323232 !important;
+    background: #fff !important;
     z-index: 2005 !important;
     color: #fff;
     padding: 30px;
@@ -2777,7 +2777,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
     background: rgba(255,255,255,0.9);
     padding: 4px 8px;
     display: inline-block;
-    color: #323232;
+    color: #fff;
     font-size: 12px;
     text-transform: uppercase;
     letter-spacing: 3px;
@@ -3331,7 +3331,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
             display: inline-block;
             padding: 4px 0px;
             font-size: 13px;
-            color: #323232;
+            color: #fff;
         }
 
             .sidebar-widget ul li a:hover {
@@ -3357,7 +3357,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
         }
 
             .widget-tag li a:hover {
-                background: #323232;
+                background: #fff;
                 color: #fff !important;
             }
 
@@ -3427,7 +3427,7 @@ header.header-dark.header-prepare .side-menu-btn ul li a {
             }
 
             .pagination-nav ul li.active a {
-                background: #323232;
+                background: #fff;
                 color: #fff;
             }
 
@@ -3597,7 +3597,7 @@ ul.project-detail-block, .project-detail-block ul {
         }
 
         .item-nav .item-prev .prev-btn, .item-nav .item-next .next-btn {
-            color: #323232;
+            color: #fff;
             background: #fff;
             width: 51px;
         }
@@ -4047,7 +4047,7 @@ ul.project-detail-block, .project-detail-block ul {
     height: 51px;
     text-align: center;
     font-family: 'FontAwesome';
-    color: #323232;
+    color: #fff;
     transition: all 0.25s ease 0s;
     -moz-transition: all 0.25s ease 0s;
     -webkit-transition: all 0.25s ease 0s;
@@ -4378,11 +4378,11 @@ ul.project-detail-block, .project-detail-block ul {
         }
 
 .background--light .intro-scroll-down .mouse {
-    border: 2px solid #323232;
+    border: 2px solid #fff;
 }
 
     .background--light .intro-scroll-down .mouse .mouse-dot {
-        background: #323232;
+        background: #fff;
     }
 
 @-webkit-keyframes ani-mouse {
@@ -4463,7 +4463,7 @@ ul.project-detail-block, .project-detail-block ul {
     right: 20px;
     text-align: center;
     font-size: 20px;
-    background: #323232;
+    background: #fff;
     background: #555;
     color: #fff;
     z-index: 99;
