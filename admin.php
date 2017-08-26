@@ -55,7 +55,7 @@
 								</form>
 								
 								<!-- specify buyer here -->
-									<h3>Form</h3>
+									<h2>Set BUYER here</h2>
 								<form method="post" action="">
 									<div class="row uniform 50%">
 										<div class="6u 12u$(xsmall)">
