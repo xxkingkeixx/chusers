@@ -42,7 +42,7 @@
 										</div>
 											<div class="4u$ 12u$(medium)">
 											<input type="checkbox" id="priority-c" name="class" value='offer'>
-											<label for="priority-c"></label>Offer</label>
+											<label for="priority-c">Offer</label>
 										</div>
 </center>
 										<div class="12u$">
