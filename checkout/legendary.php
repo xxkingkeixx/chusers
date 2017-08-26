@@ -1,7 +1,7 @@
 <?php 
 
 require 'models/header.php';
-require 'models/navbar';
+require 'models/navbar.php';
 
 ?>
 
