@@ -1180,7 +1180,7 @@ form label.error {
 
     /*header nav style*/
     .header.header-prepare .nav-menu ul.nav-menu-inner > li > a {
-        color: #323232;
+        color: #fff;
     }
 
         .header.header-prepare .nav-menu ul.nav-menu-inner > li:hover > a,
