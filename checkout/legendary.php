@@ -1,7 +1,7 @@
 <?php 
 
-require 'models/header.php';
-require 'models/navbar.php';
+require '/models/header.php';
+require '/models/navbar.php';
 
 ?>
 
@@ -24,5 +24,5 @@ require 'models/navbar.php';
 </form>
 
 
-<?php require 'models/footer.php' ?>
+<?php require '/models/footer.php' ?>
 
