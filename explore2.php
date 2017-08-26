@@ -1,24 +1,20 @@
+<!-- create models and include them where you want your code-->
+<?php require 'models/header.php' ?>
+<?php require 'models/navbar.php' ?>
 <?php include 'db.php' ; ?>
 <!DOCTYPE html>
 <html>
 <head>
     
     <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
-    
-    <meta charset="utf-8" />
+
     <title>Explore</title>
-    <meta name="description" content="" />
-    <meta name="keywords" content="" />
-    <meta name="author" content="nileforest">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" />
-    <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
 
   <!-- CSS -->
     <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/font-awesome.css" rel="stylesheet" type="text/css" />
-    <link href="assets/css/explorecss/ionicons.css" rel="stylesheet" type="text/css" />
-    <link href="assets/css/explorecss/sidebar-menu.css" rel="stylesheet" type="text/css" />
+
     <link href="assets/css/explorecss/animate.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
@@ -43,6 +39,8 @@
 					<nav id="nav" style="margin-right:40px;">
 					
 				</header>
+				
+				
         <!-- CONTENT --------------------------------------------------------------------------------->
         <!-- About Section -->
         <section id="about" class="pt pt-sm-80">
@@ -60,6 +58,7 @@
         </section>
         <!-- End About Section -->
         <!-- start work section-->
+        
         
         <section class="ptb ptb-sm-80">
             <div class="container">
