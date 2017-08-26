@@ -4,6 +4,19 @@
 <?php require 'db.php' ?>
 
 
+<style>
+  
+			#banner .content .image {
+				border-radius: 100%;
+				display: inline-block;
+				height: 18em;
+				margin-left: 0em;
+				vertical-align: middle;
+				width: 18em;
+			}
+			
+</style>
+
 			<!-- Banner -->
 				<section id="banner">
 					<title>403</title>
