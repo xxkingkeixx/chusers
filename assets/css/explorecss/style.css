@@ -1287,7 +1287,7 @@ form label.error {
         }
 
 .header-light .nav-menu ul.nav-menu-inner > li > a {
-    color: #00ff00;
+    color: #fff;
 }
 
 
@@ -1378,7 +1378,7 @@ form label.error {
     width: 18px;
     height: 2px;
     margin-top: -1px;
-    background-color: #323232;
+    background-color: #fff;
     -webkit-transition: -webkit-transform 0.3s, background 0.25s ease;
     -webkit-transition: background 0.25s ease, -webkit-transform 0.3s;
     transition: background 0.25s ease, -webkit-transform 0.3s;
@@ -1393,7 +1393,7 @@ form label.error {
         left: 0;
         width: 100%;
         height: 100%;
-        background-color: #323232;
+        background-color: #fff;
         -webkit-transition: -webkit-transform 0.3s, background 0.25s ease;
         -webkit-transition: background 0.25s ease, -webkit-transform 0.3s;
         transition: background 0.25s ease, -webkit-transform 0.3s;
