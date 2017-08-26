@@ -15,16 +15,25 @@ while ($rowdata = mysqli_fetch_array($row)  ) {
     //get the first letter of the word
     echo $letter[0];  
     //print html
-    echo ' spacing"><a href="#premium">
+    echo ' spacing"><a href="/checkout/';
+    echo $rowdata['class'];
+    echo '.php">';
     
     
-    ';
+    
     //print the username
     echo $rowdata["user_name"];
     //print a dollar sign
     echo ' - $';
     //print price from database
-    echo $rowdata['price'];
+    echo $rowdata['price'] . '<br>';
+    if ($rowdata['user_status'] == true){
+        echo 'Available';
+    }
+    else
+    {
+        echo 'Bought by ' . $rowdata['buyer'];
+    }
     //print html
     echo'</h5><p class="white">';
     //print class again
