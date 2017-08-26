@@ -6,7 +6,7 @@
 
 			<!-- Banner -->
 				<section id="banner">
-					<title>Shop</title>
+					<title>Welcome!</title>
 					<div class="content">
 						<header>
 							<h2>The Account Warehouse</h2>
