@@ -29,7 +29,7 @@
 
 
 	</header>
-						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+						<span class="image"><img src="../images/pic01.jpg" alt="" /></span>
 					</div>
 						
 				</section>
