@@ -15,7 +15,7 @@
 						</header>
 						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 					</div>
-					<a href="#one" class="goto-next scrolly">Next</a>
+					<a href="#one" class="goto-next scrolly"><center><a href="/explore" class="button">Explore Available Accounts</a></center></a>
 				</section>
 
 
