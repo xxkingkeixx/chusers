@@ -43,11 +43,11 @@
 						</header>
 						<span class="image"><img src="/images/pic01.jpg" alt="" /></span>
 					</div>
-					<a href="#two" class="goto-next scrolly">Next</a>
+					<a href="#one" class="goto-next scrolly">Next</a>
 				</section>
 				
 			<!-- Two -->
-				<section id="two">
+				<section id="one">
 					<div class="content">
 
 
