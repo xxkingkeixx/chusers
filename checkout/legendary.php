@@ -4,6 +4,10 @@
 <?php require $_SERVER["DOCUMENT_ROOT"] . "/models/navbar.php"; ?>
 
 
+	<!-- Banner -->
+				<section id="banner">
+					<div class="content">
+						<header>
 
 <h1> Purchasing a Legendary</h1>
 
@@ -23,6 +27,12 @@
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+
+	</header>
+						<span class="image"><img src="images/pic01.jpg" alt="" /></span>
+					</div>
+						
+				</section>
 
 <?php require $_SERVER["DOCUMENT_ROOT"] . "/models/footer.php"; ?>
 
