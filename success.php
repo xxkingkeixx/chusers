@@ -4,8 +4,11 @@
 <?php require 'db.php' ?>
 
 
+
+
 			<!-- Banner -->
 				<section id="banner">
+				    <link rel="shortcut icon" href="../assets/favicon/favicon.ico" type="image/x-icon">
 					<title>Success</title>
 					<div class="content">
 						<header>
