@@ -62,7 +62,7 @@
 											<input type="text" name="bought" id="n" value="" placeholder="username they got here" />
 										</div>
 										<div class="6u 12u$(xsmall)">
-											<input type="text" name="buyer" id="n" value="" placeholder="buyer here" />
+											<input type="text" name="buyer" id="n" value="" placeholder="buyer name here" />
 										</div>
 
 										<div class="12u$">
