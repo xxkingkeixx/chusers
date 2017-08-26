@@ -10,7 +10,7 @@
 					<div class="content">
 						<header>
 							<center>
-							  <span class="image"><img src="/images/pic01.jpg" alt="" /></span>
+							  <span class="image"><img src="/images/403.jpg" alt="" /></span>
 								    <h2>ERROR 403: Page Forbidden</h2>
 							        <p>Sorry, that page is forbidden. Please return to the homepage.</p>
 							        <br><br>

@@ -9,9 +9,9 @@
 					<title>404</title>
 					<div class="content">
 						<header>
+						  <span class="image"><img src="/images/404.jpg" alt="" /></span>
 							<center>
-							  <span class="image"><img src="/images/pic01.jpg" alt="" /></span>
-								    <h2>ERROR 404: Page Not Found</h2>
+									    <h2>ERROR 404: Page Not Found</h2>
 							        <p>Oops! Sorry, we couldn't find that page. Are you lost?</p>
 							        <br><br>
 						            <a href="/explore" class="button">Continue Shopping</a>
