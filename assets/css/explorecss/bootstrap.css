@@ -565,7 +565,7 @@ hr {
     padding: 0.5rem 1rem;
     margin-bottom: 1rem;
     font-size: 1.25rem;
-    border-left: 0.25rem solid #eceeef;
+    border-left: 0.25rem solid #fff;
 }
 
 .blockquote-footer {
@@ -582,7 +582,7 @@ hr {
     padding-right: 1rem;
     padding-left: 0;
     text-align: right;
-    border-right: 0.25rem solid #eceeef;
+    border-right: 0.25rem solid #fff;
     border-left: 0;
 }
 
@@ -2217,16 +2217,16 @@ pre {
     .table td {
         padding: 0.75rem;
         vertical-align: top;
-        border-top: 1px solid #eceeef;
+        border-top: 1px solid #fff;
     }
 
     .table thead th {
         vertical-align: bottom;
-        border-bottom: 2px solid #eceeef;
+        border-bottom: 2px solid #fff;
     }
 
     .table tbody + tbody {
-        border-top: 2px solid #eceeef;
+        border-top: 2px solid #fff;
     }
 
     .table .table {
@@ -2239,12 +2239,12 @@ pre {
 }
 
 .table-bordered {
-    border: 1px solid #eceeef;
+    border: 1px solid #fff;
 }
 
     .table-bordered th,
     .table-bordered td {
-        border: 1px solid #eceeef;
+        border: 1px solid #fff;
     }
 
     .table-bordered thead th,
@@ -2342,7 +2342,7 @@ pre {
 
 .thead-default th {
     color: #464a4c;
-    background-color: #eceeef;
+    background-color: #fff;
 }
 
 .table-inverse {
@@ -2424,7 +2424,7 @@ pre {
     }
 
     .form-control:disabled, .form-control[readonly] {
-        background-color: #eceeef;
+        background-color: #fff;
         opacity: 1;
     }
 
@@ -2862,7 +2862,7 @@ tbody.collapse.show {
     height: 1px;
     margin: 0.5rem 0;
     overflow: hidden;
-    background-color: #eceeef;
+    background-color: #fff;
 }
 
 .dropdown-item {
@@ -3190,7 +3190,7 @@ tbody.collapse.show {
     line-height: 1.25;
     color: #464a4c;
     text-align: center;
-    background-color: #eceeef;
+    background-color: #fff;
     border: 1px solid rgba(0, 0, 0, 0.15);
     border-radius: 0.25rem;
 }
@@ -3321,7 +3321,7 @@ tbody.collapse.show {
 
     .custom-control-input:disabled ~ .custom-control-indicator {
         cursor: not-allowed;
-        background-color: #eceeef;
+        background-color: #fff;
     }
 
     .custom-control-input:disabled ~ .custom-control-description {
@@ -3419,7 +3419,7 @@ tbody.collapse.show {
     .custom-select:disabled {
         color: #636c72;
         cursor: not-allowed;
-        background-color: #eceeef;
+        background-color: #fff;
     }
 
     .custom-select::-ms-expand {
@@ -3485,7 +3485,7 @@ tbody.collapse.show {
         padding: 0.5rem 1rem;
         line-height: 1.5;
         color: #464a4c;
-        background-color: #eceeef;
+        background-color: #fff;
         border: 1px solid rgba(0, 0, 0, 0.15);
         border-radius: 0 0.25rem 0.25rem 0;
     }
@@ -3532,7 +3532,7 @@ tbody.collapse.show {
     }
 
         .nav-tabs .nav-link:focus, .nav-tabs .nav-link:hover {
-            border-color: #eceeef #eceeef #ddd;
+            border-color: #fff #fff #ddd;
         }
 
         .nav-tabs .nav-link.disabled {
@@ -4439,7 +4439,7 @@ tbody.collapse.show {
 
 .breadcrumb {
     list-style: none;
-    background-color: #eceeef;
+    background-color: #fff;
     border-radius: 0.25rem;
 }
 
@@ -4523,7 +4523,7 @@ tbody.collapse.show {
     .page-link:focus, .page-link:hover {
         color: #014c8c;
         text-decoration: none;
-        background-color: #eceeef;
+        background-color: #fff;
         border-color: #ddd;
     }
 
@@ -4642,7 +4642,7 @@ a.badge:focus, a.badge:hover {
 .jumbotron {
     padding: 2rem 1rem;
     margin-bottom: 2rem;
-    background-color: #eceeef;
+    background-color: #fff;
     border-radius: 0.3rem;
 }
 
@@ -4783,7 +4783,7 @@ to {
     font-size: 0.75rem;
     line-height: 1rem;
     text-align: center;
-    background-color: #eceeef;
+    background-color: #fff;
     border-radius: 0.25rem;
 }
 
@@ -4857,7 +4857,7 @@ to {
 
     .list-group-item-action:active {
         color: #292b2c;
-        background-color: #eceeef;
+        background-color: #fff;
     }
 
 .list-group-item {
@@ -5218,7 +5218,7 @@ button.close {
     -ms-flex-pack: justify;
     justify-content: space-between;
     padding: 15px;
-    border-bottom: 1px solid #eceeef;
+    border-bottom: 1px solid #fff;
 }
 
 .modal-title {
@@ -5249,7 +5249,7 @@ button.close {
     -ms-flex-pack: end;
     justify-content: flex-end;
     padding: 15px;
-    border-top: 1px solid #eceeef;
+    border-top: 1px solid #fff;
 }
 
     .modal-footer > :not(:first-child) {
