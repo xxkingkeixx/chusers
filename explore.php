@@ -170,3 +170,5 @@
 
 </body>
 </html>
+
+<?php require 'models/footer.php' ?>
