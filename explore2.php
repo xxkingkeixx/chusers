@@ -21,7 +21,7 @@
  
 ::selection {
     background-color: #000;
-    color: #fff;
+    color: #ccc;
 }
 
      
@@ -43,7 +43,7 @@ a:hover {
 
 #con {
     width:750px;
-    height:705px;
+    height:680px;
     overflow:hidden;
     margin:auto;
     position:fixed;
@@ -57,7 +57,7 @@ a:hover {
 }
 
 .content {
-    height:705px;
+    height:680px;
     padding:0px 50px 50px;
     overflow:auto;
     color:#777; /*content color*/
