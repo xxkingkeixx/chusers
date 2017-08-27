@@ -14,7 +14,7 @@
     <link href="assets/css/explorecss/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/bootstrap.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/font-awesome.css" rel="stylesheet" type="text/css" />
-
+    <link href="assets/css/explorecss/ionicons.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/animate.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/explorecss/jquery-ui.css" rel="stylesheet" type="text/css" />
     <link rel="stylesheet" href="assets/css/font-awesome.min.css">
