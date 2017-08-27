@@ -142,6 +142,8 @@
     
 
         <div class="spacer-60"></div>
+        
+<?php require 'models/footer.php' ?>
         <!-- END CONTENT ---------------------------------------------------------------------------->
     </div>
     <!-- Site Wraper End -->
@@ -171,4 +173,3 @@
 </body>
 </html>
 
-<?php require 'models/footer.php' ?>
