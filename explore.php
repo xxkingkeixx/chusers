@@ -37,7 +37,7 @@
 					<div class="content">
 						<header>
 							<center><h2>Chatangu.tk</h2>
-							<p>The Biggest Repository of Accounts.</p>
+							<p>The Biggest Repository of Accounts</p>
 							</center>
 						</header>
 			
