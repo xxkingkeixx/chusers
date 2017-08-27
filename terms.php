@@ -1,67 +1,13 @@
+<!-- create models and include them where you want your code-->
+<?php require 'models/header.php' ?>
+<?php require 'models/navbar2.php' ?>
+<?php include 'db.php' ; ?>
 <!DOCTYPE html>
+<html>
 <head>
- 
-    <title>Terms</title>
-<link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon"/>
-
-   
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
-
-<script src="http://static.tumblr.com/iuw14ew/VSQma1786/jquery.style-my-tooltips.js"></script>
- 
-<script>
- 
-(function($){
- 
-$(document).ready(function(){
- 
-$("a[title]").style_my_tooltips({
- 
-tip_follows_cursor:true,
- 
-tip_delay_time:100,
- 
-tip_fade_speed:300,
- 
-attribute:"title"
- 
-});
- 
-});
- 
-})(jQuery);
- 
-</script>
-
-<script>
-$(document).ready(function(){
-  $(".what").click(function(){
-        $('.img').toggleClass('top');
-        $(this).toggleClass('rotate')
-  });
-});
-</script>
- 
-<link href='http://fonts.googleapis.com/css?family=Raleway:200,400' rel='stylesheet' type='text/css'>
- 
-<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
-   
-    <style type="text/css">
- 
-#s-m-t-tooltip {
-    max-width:150px;
-    padding:4px 6px;
-    margin:20px 14px 7px 10px;
-    background-color:#fff;
-    font-family:Calibri;
-    font-size:10px;
-    line-height:11px;
-    letter-spacing:1px;
-    border:1px solid #aaa;
-    text-transform:uppercase;
-    color:#777;
-    z-index:99999999;
-}
+    
+    
+        <style type="text/css">
    
 ::-webkit-scrollbar {
     height:0px;
@@ -75,14 +21,9 @@ $(document).ready(function(){
  
 ::selection {
     background-color: #000;
-    color: #fff;
+    color: #ccc;
 }
-   
-body {
-    background-color: #eee; /*page background color*/
-    font-family:arial;
-    font-size:12px;
-}
+
      
 a {
     text-decoration: none;
@@ -102,7 +43,7 @@ a:hover {
 
 #con {
     width:750px;
-    height:775px;
+    height:580px;
     overflow:hidden;
     margin:auto;
     position:fixed;
@@ -116,7 +57,7 @@ a:hover {
 }
 
 .content {
-    height:775px;
+    height:580px;
     padding:0px 50px 50px;
     overflow:auto;
     color:#777; /*content color*/
@@ -172,25 +113,18 @@ h1{
 }
 
 </style>
+
+    <link rel="shortcut icon" href="assets/favicon/favicon.ico" type="image/x-icon">
+
+    <title>Explore</title>
+
 </head>
+
 <body>
-
-
-
-<SCRIPT TYPE="text/javascript"> 
-<!-- 
-var message=""; 
-/////////////////////////////////// 
-function clickIE() {if (document.all) {(message);return false;}} 
-function clickNS<b>(e)</b> {if 
-(document.layers||(document.getElementById&&!document.all)) { 
-if (e.which==2||e.which==3) {(message);return false;}}} 
-if (document.layers) 
-{document.captureEvents(Event.MOUSEDOWN);document.onmousedown=clickNS;} 
-else{document.onmouseup=clickNS;document.oncontextmenu=clickIE;} 
-document.oncontextmenu=new Function("return false") 
-// -->
-</SCRIPT> 
+    
+			<!-- Two -->
+				<section id="one">
+					<div class="content">
 
 
 
@@ -479,21 +413,23 @@ In order to resolve a complaint regarding the Site or the Marketplace Offerings 
  
 Chatangu.TK
 
-
-
-
-
-
-
-
 <br><br><br><br><br><br>
 <!--content end--></div></div>
+        
 
-<div id="copyright">
-<font face="verdana">© Chatangu.tk. All Rights Reserved.</font>
-</div>
+ 					</div>
+				</section>
+        <!-- End Work Section -->
+    
+
+        <div class="spacer-60"></div>
+        
+<?php require 'models/footer.php' ?>
+        <!-- END CONTENT ---------------------------------------------------------------------------->
+    </div>
+    <!-- Site Wraper End -->
+
 
 </body>
 </html>
-
 
