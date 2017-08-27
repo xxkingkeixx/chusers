@@ -1139,15 +1139,7 @@ form label.error {
     position: relative;
 }
 
-.header-fixed .logo a {
-    width: 115px;
-    margin-top: 23px;
-    /*margin-bottom: 15px;*/
-    transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
-    -o-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
-    -moz-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
-    -webkit-transition: all 0.27s cubic-bezier(0, 0, 0.58, 1) 0s;
-}
+
 
 .header-fixed .nav-menu ul.nav-menu-inner > li > a {
     padding-top: 26px;
