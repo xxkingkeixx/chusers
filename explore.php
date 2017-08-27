@@ -59,7 +59,7 @@
 						</header>
 			
 					</div>
-					<a href="#one" class="goto-next scrolly">Next</a>
+					<a href="#one" class="goto-next">Next</a>
 				</section>
 				
 			<!-- Two -->
