@@ -31,30 +31,13 @@
     </section>
     <!-- End Preloader -->
 
-<style>
-        .goto-next {
-    border: 0;
-    bottom: 0;
-    display: block;
-    height: 5em;
-    left: 50%;
-    margin: 0 0 0 -5em;
-    overflow: hidden;
-    position: absolute;
-    text-indent: 10em;
-    white-space: nowrap;
-    width: 10em;
-    z-index: 1;
-    
-</style>
 			<!-- Banner -->
 				<section id="banner">
 					<title>Welcome!</title>
 					<div class="content">
 						<header>
-							<center><h2>The Account Warehouse</h2>
-							<p>Buy and offer for original accounts, or browse profile tutorials.<br />
-							Learn about current projects coming soon!</p>
+							<center><h2>Chatangu.tk</h2>
+							<p>The Biggest Repository of Accounts.</p>
 							</center>
 						</header>
 			
@@ -66,22 +49,7 @@
 				<section id="one">
 					<div class="content">
 
-        <!-- CONTENT --------------------------------------------------------------------------------->
-        <!-- About Section -->
-        <section id="about" class="pt pt-sm-80">
-            <div class="container text-center">
-                <div class="row">
-                    <div class="col">
-                        <div class="col-md-8 offset-md-2"></div>
-                        <h2>
-                            <span class="color"><a href="/"><font color="#e8ac4a">Chatangu.tk.</font></a></span> The biggest<br />
-                            repository of Chatango accounts
-                        </h2>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- End About Section -->
+
         <!-- start work section-->
         
         
