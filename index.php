@@ -58,7 +58,7 @@
 					<div class="content">
 						<header>
 							<h2>Security is Our Priority</h2>
-							<p>Developers:
+							<p>Developer:
 								<a href="http://debugger.chatango.com/">Debugger</a>
 							</p>
 						</header>
