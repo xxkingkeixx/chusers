@@ -422,10 +422,6 @@ Chatangu.TK
 				</section>
         <!-- End Work Section -->
     
-
-        <div class="spacer-60"></div>
-        
-<?php require 'models/footer.php' ?>
         <!-- END CONTENT ---------------------------------------------------------------------------->
     </div>
     <!-- Site Wraper End -->
