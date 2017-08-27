@@ -164,7 +164,16 @@ font-family: 'Verdana', serif;
 <p><h1>Music Player Alternative #1: Mini Flash Player</h1></p>
 
 
-<b>1. Go to the <a href="http://www.strangecube.com/audioplay/">Audioplay Generator</a>. </b></p><p><b>2. You’ll need to use a direct url for the player. You can get such urls by uploading songs to <a href="http://kiwi6.com/">Kiwi6</a> or <a href="https://www.dropbox.com/">Dropbox</a>. The tutorial for that is <a href="http://hngthemes.tumblr.com/post/147913765213/how-to-convert-a-youtube-video-into-an-mp3-file">here</a>.</b> <br></p><p><i>I recommend using Kiwi6 for this player because some Dropbox links won’t work.</i></p><figure data-orig-width="733" data-orig-height="570" class="tmblr-full"><img src="https://68.media.tumblr.com/4e87ece1a1044e6f09e4ff2fd9d609af/tumblr_inline_oauhdrsQcN1rzyom4_540.png" alt="image" data-orig-width="733" data-orig-height="570"></figure><p><b>3. The generator will then give you your code on the right hand side. The code should then be put under the section within your profile (if it is made by me) called &lt;!--- MUSIC PLAYER ---&gt;. If you cannot find this section, try Ctrl+F and manually enter in the name of the section.</b></p><p><p><i>**Although I wouldn’t recommend it, it is possible to move the player to any position across your profile. Please message me for further information on that, because it requires extra coding.</i></p><p><i><b>**THIS PLAYER CANNOT AUTOPLAY IN CHROME. Possible bug with the formatting compatibility with chrome.</b></i></p>
+<b>1. Go to the <a href="http://www.strangecube.com/audioplay/">Audioplay Generator</a>. </b></p>
+<p><b>2. You’ll need to use a direct url for the player. You can get such urls by uploading songs to 
+<a href="http://kiwi6.com/">Kiwi6</a> or <a href="https://www.dropbox.com/">Dropbox</a>. </b> 
+<br></p>
+<p><i>I recommend using Kiwi6 for this player because some Dropbox links won’t work.</i></p><figure data-orig-width="733" data-orig-height="570" class="tmblr-full">
+    <img src="https://68.media.tumblr.com/4e87ece1a1044e6f09e4ff2fd9d609af/tumblr_inline_oauhdrsQcN1rzyom4_540.png" alt="image" data-orig-width="733" data-orig-height="570"></figure>
+    <p><b>3. The generator will then give you your code on the right hand side. </b></p><p>
+    <p><i>**Although I wouldn’t recommend it, it is possible to move the player to any position across your profile. 
+    Please message me for further information on that, because it requires extra coding.</i></p><p><i><b>**THIS PLAYER CANNOT AUTOPLAY IN CHROME. 
+    Possible bug with the formatting compatibility with chrome.</b></i></p>
 
 
 <!--content end-->

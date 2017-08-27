@@ -164,7 +164,13 @@ font-family: 'Verdana', serif;
 <p><h1>Music Player Alternative #3: Billy Sheep Player</h1></p>
 
 
-<p><b>1. Go to the Billy Player website <a href="http://www.sheepproductions.com/billy/">here</a>.</b></p><p><b>2. You’ll need to use a direct url for the player. You can get such urls by uploading songs to <a href="http://kiwi6.com/">Kiwi6</a> or <a href="https://www.dropbox.com/">Dropbox</a>. The tutorial for that is <a href="http://hngthemes.tumblr.com/post/147913765213/how-to-convert-a-youtube-video-into-an-mp3-file">here</a>.</b> </p><p><i>For this tutorial I’ll use the Kiwi6 url as well as the Dropbox url.</i></p><figure data-orig-width="573" data-orig-height="566" class="tmblr-full"><img src="https://68.media.tumblr.com/f55155e427e81147e6029eabf3a8065b/tumblr_inline_oauhpccB1m1rzyom4_540.png" alt="image" data-orig-width="573" data-orig-height="566"></figure><figure data-orig-width="541" data-orig-height="345" class="tmblr-full"><img src="https://68.media.tumblr.com/aaaf0fa24ae93b084f112e1eed9c119d/tumblr_inline_oauhopbwmz1rzyom4_540.png" alt="image" data-orig-width="541" data-orig-height="345"></figure><p><b>3. The generator will then give you your code. The code should then be put under the section within your profile (if it is made by me) called &lt;!--- MUSIC PLAYER ---&gt;. If you cannot find this section, try Ctrl+F and manually enter in the name of the section.</b></p>
+<p><b>1. Go to the Billy Player website <a href="http://www.sheepproductions.com/billy/">here</a>.</b></p>
+<p><b>2. You’ll need to use a direct url for the player. You can get such urls by uploading songs to 
+<a href="http://kiwi6.com/">Kiwi6</a> or <a href="https://www.dropbox.com/">Dropbox</a>. </b> </p>
+<p><i>For this tutorial I’ll use the Kiwi6 url as well as the Dropbox url.</i></p><figure data-orig-width="573" data-orig-height="566" class="tmblr-full">
+    <img src="https://68.media.tumblr.com/f55155e427e81147e6029eabf3a8065b/tumblr_inline_oauhpccB1m1rzyom4_540.png" alt="image" data-orig-width="573" data-orig-height="566"></figure>
+    <figure data-orig-width="541" data-orig-height="345" class="tmblr-full"><img src="https://68.media.tumblr.com/aaaf0fa24ae93b084f112e1eed9c119d/tumblr_inline_oauhopbwmz1rzyom4_540.png" alt="image" data-orig-width="541" data-orig-height="345"></figure>
+    <p><b>3. The generator will then give you your code.</b></p>
 
 
 <!--content end-->

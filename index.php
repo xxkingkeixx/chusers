@@ -1,6 +1,6 @@
 <!-- create models and include them where you want your code-->
 <?php require 'models/header.php' ?>
-<?php require 'models/navbar2.php' ?>
+<?php require 'models/navbar.php' ?>
 <?php require 'db.php' ?>
 
 
@@ -59,7 +59,7 @@
 						<header>
 							<h2>Security is Our Priority</h2>
 							<p>Developers:
-								<a href="http://debugger.chatango.com/">Debugger</a> / <a href="http://aeri.chatango.com/">Aeri</a>
+								<a href="http://debugger.chatango.com/">Debugger</a>
 							</p>
 						</header>
 						<p>
@@ -88,12 +88,8 @@
 							</p>
 						</li>
 						
-						<li>
-							The tutorials page will be updated regularly. If you have any requests for a tutorial please notify our second developer, Aeri.
-							</p>
-						</li>
 						
-							<center><a href="tutorials/tutorials" class="button">Visit the Tutorials Page</a></center>
+							<center><a href="/" class="button">Bot Updates</a></center>
 
 					</div>
 					<!--a href="#four" class="goto-next scrolly">Next</a-->
