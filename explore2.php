@@ -43,19 +43,21 @@ a:hover {
 
 #con {
     width:750px;
-    height:680px;
+    height:580px;
     overflow:hidden;
     margin:auto;
     position:fixed;
     background:#fff; /*content background*/
-
+    left:0;
     border-radius:3px;
-
+    right:0;
+    top:0;
+    bottom:0;
     text-align:justify;
 }
 
 .content {
-    height:680px;
+    height:580px;
     padding:0px 50px 50px;
     overflow:auto;
     color:#777; /*content color*/
