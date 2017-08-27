@@ -48,12 +48,9 @@
 				</section>
 				
 			<!-- Two -->
-				<section id="one">
+				<section id="one"  class="spotlight style2 right">
 					<div class="content">
 
-
-				
-				
         <!-- CONTENT --------------------------------------------------------------------------------->
         <!-- About Section -->
         <section id="about" class="pt pt-sm-80">
