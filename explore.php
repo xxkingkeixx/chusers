@@ -31,24 +31,6 @@
     </section>
     <!-- End Preloader -->
 
-			<!-- Banner -->
-				<section id="banner">
-					<title>Welcome!</title>
-					<div class="content">
-						<header>
-							<center><h2>Chatangu.tk</h2>
-							<p>The Biggest Repository of Accounts</p>
-							</center>
-						</header>
-			
-					</div>
-					<a href="#one" class="goto-next">Next</a>
-				</section>
-				
-			<!-- Two -->
-				<section id="one">
-					<div class="content">
-
 
         <!-- start work section-->
         
