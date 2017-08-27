@@ -31,7 +31,22 @@
     </section>
     <!-- End Preloader -->
 
-
+<style>
+        .goto-next {
+    border: 0;
+    bottom: 0;
+    display: block;
+    height: 5em;
+    left: 50%;
+    margin: 0 0 0 -5em;
+    overflow: hidden;
+    position: absolute;
+    text-indent: 10em;
+    white-space: nowrap;
+    width: 10em;
+    z-index: 1;
+    
+</style>
 			<!-- Banner -->
 				<section id="banner">
 					<title>Welcome!</title>
