@@ -46,8 +46,11 @@ a:hover {
     height:680px;
     overflow:hidden;
     margin:auto;
+    position:fixed;
     background:#fff; /*content background*/
+
     border-radius:3px;
+
     text-align:justify;
 }
 
