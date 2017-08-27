@@ -53,6 +53,7 @@ a:hover {
     right:0;
     top:0;
     bottom:0;
+    color:#eee;
     text-align:justify;
 }
 
