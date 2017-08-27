@@ -347,7 +347,7 @@ h1.large {
 
 .btn, button {
     font-size: 12px;
-    line-height: normal;
+    line-height: uppercase;
     font-weight: 600;
     font-family: 'Raleway', sans-serif;
     letter-spacing: 1px;
