@@ -43,7 +43,7 @@ a:hover {
 
 #con {
     width:750px;
-    height:775px;
+    height:705px;
     overflow:hidden;
     margin:auto;
     position:fixed;
@@ -57,7 +57,7 @@ a:hover {
 }
 
 .content {
-    height:775px;
+    height:705px;
     padding:0px 50px 50px;
     overflow:auto;
     color:#777; /*content color*/
@@ -417,11 +417,6 @@ Chatangu.TK
 <!--content end--></div></div>
         
 
-                
-             
-     <?php require 'models/generate.php'; ?>
-
- 
  					</div>
 				</section>
         <!-- End Work Section -->
