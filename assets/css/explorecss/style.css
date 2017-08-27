@@ -500,7 +500,7 @@ button {
     padding-left: 0px;
     padding-right: 0px;
     padding-bottom: 3px;
-    border-bottom: 1px dotted transparent;
+    border-bottom: 0px dotted transparent;
     font-weight: 600;
     font-size: 12px;
     text-transform: uppercase;
