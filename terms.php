@@ -46,7 +46,7 @@ a:hover {
     height:580px;
     overflow:hidden;
     margin:auto;
-    position:fixed;
+    position:absolute;
     background:#fff; /*content background*/
     left:0;
     border-radius:3px;
