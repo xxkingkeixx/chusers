@@ -8,7 +8,7 @@
   <div class="play">';
       echo '<embed src="https://www.youtube.com/embed/videoseries?list=PLSWJOy5Jg5IsAyrq1Anwjk1VpsU7RCtNf&index=';
       echo mt_rand(0,13);
-      echo '&autoplay=1&start=0&modestbranding=1&autohide=1&showinfo=0&controls=1" 
+      echo '&start=0&modestbranding=1&autohide=1&showinfo=0&controls=1" 
       type="text/html" width="100%" height="100%" ></embed>
       
   </div><!--play-->
